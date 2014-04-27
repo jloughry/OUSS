@@ -1,0 +1,36 @@
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>
+			Oxford University Scientific Society - OUSS
+		</title>
+	</head>
+	<body>
+		<img src="./images/2013_Feb25_debate_poster_1024.jpeg" width="1024"height="768" alt="2013 February Debate Poster" usemap="#postermap"/>
+		<map name="postermap">
+			<area shape="rect" coords="0,0,1023,461" alt="Debate Announcement"
+				href="http://users.ox.ac.uk/~science/termcards/ht13.shtml#7a"/>
+			<area shape="rect" coords="335,462,691,767" alt="Debate Announcement"
+				href="http://users.ox.ac.uk/~science/termcards/ht13.shtml#7a"/>
+			<area shape="rect" coords="692,605,750,676" alt="Debate Announcement"
+				href="http://users.ox.ac.uk/~science/termcards/ht13.shtml#7a"/>
+			<area shape="rect" coords="822,605,859,676" alt="Debate Announcement"
+				href="http://users.ox.ac.uk/~science/termcards/ht13.shtml#7a"/>
+			<area shape="rect" coords="932,605,1023,676" alt="Debate Announcement"
+				href="http://users.ox.ac.uk/~science/termcards/ht13.shtml#7a"/>
+			<area shape="rect" coords="0,462,334,643" alt="Google Calendar event"
+				href="http://www.google.com/calendar/event?eid=cmhjZjNkZGRrcWN0aDNhYzA3NWIzNjJoamcgdHU0ZDRwN2Y1ZTRoZjVpZHR1OTE2bWMwc2tAZw"/>
+			<area shape="rect" coords="0,644,334,767" alt="Supported by Bioline"
+				href="https://www.bioline.com/"/>
+			<area shape="rect" coords="692,462,1023,604" alt="Oxford University Scientific Society"
+				href="http://users.ox.ac.uk/~science/normal_index.shtml"/>
+			<area shape="rect" coords="751,605,821,676" alt="Facebook page"
+				href="https://www.facebook.com/events/127772607398283/"/>
+			<area shape="rect" coords="860,605,931,676" alt="Tweet"
+				href="https://twitter.com/share" class="twitter-share-button" data-url="http://users.ox.ac.uk/~science/" data-text="Sloth, Gluttony or Hormones? Hormones not Calories make us #Fat; @garytaubes Vs Philip James #Debate" data-via="avijitroy"/>
+			<area shape="rect" coords="692,677,1023,767" alt="link to register for this event"
+				href="http://goo.gl/OBMeG"/>
+		</map>
+	</body>
+</html>
+

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<title>Oxford University Scientific Society - Contact</title>
+
+<link rel="shortcut icon" href="/~science/favicon.ico" />
+
+<link type="text/css" rel="stylesheet" href="includes/style.css" />
+
+</head>
+
+<body>
+
+<!--#include file="includes/banner.html"-->
+
+<!--#include file="includes/menu.html"-->
+
+<div id="body">
+
+<h1>Contact the Oxford University Scientific Society</h1>
+
+<h2>Email</h2>
+
+<p>The Oxford University Scientific Society committee can be e-mailed at <a href="mailto:scientific.society@studentclubs.ox.ac.uk">scientific.society@studentclubs.ox.ac.uk</a>.</p>
+
+<h2>Facebook</h2>
+
+<p>Join the <a href="http://oxford.facebook.com/group.php?gid=7401433975">Oxford University Scientific Society Facebook group</a>.</p>
+
+<h2>Join the mailing list</h2>
+
+<p>Join the Oxford University Scientific Society mailing list and be kept up-to-date on current news and events. To subscribe to the mailing list send a blank e-mail to <a href="mailto:scisoc-subscribe@maillist.ox.ac.uk">scisoc-subscribe@maillist.ox.ac.uk</a>. To unsubscribe from the list send a blank email to <a href="mailto:scisoc-unsubscribe@maillist.ox.ac.uk">scisoc-unsubscribe@maillist.ox.ac.uk</a>.</p>
+
+</div>
+
+<!--#include file="includes/footer.html"-->
+
+</body>
+</html>

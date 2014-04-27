@@ -1,0 +1,112 @@
+# Name (key) \ college \ email address \ web page
+
+Amanda Crossfield\St Hilda's\amanda.crossfield@st-hildas.ox.ac.uk\
+Anastasia Nijnik\Keble\anastasia.nijnik@keble.ox.ac.uk\
+Andrew McDonald\Merton\andrew.mcdonald@merton.ox.ac.uk\
+Andy Herman\Christ Church\chri0573@sable.ox.ac.uk\
+Asif Huq\Magdalen\magd0828@sable.ox.ac.uk\
+Benjamin Fortescue\Oriel\benjamin.fortescue@oriel.oxford.ac.uk\
+Caroline Archer\Wadham\Caroline.Archer@wadh.ox.ac.uk\
+Caroline Dolman\St Hilda's\shil0672@sable.ox.ac.uk\
+Carolyn Thorley\Keble\\
+Catherine Raffle\Merton\\
+Chao Wang\St Edmund Hall\chao.wang@st-edmund-hall.oxford.ac.uk\
+Chloe Brown\Queen's\chloe.brown@queens.ox.ac.uk\
+Chris Cooper\Merton (now Linacre)\christopher.cooper@linacre.ox.ac.uk\
+Chris Cox\St Edmund Hall\Christoper.cox@seh.ox.ac.uk\
+Christine Louis-dit-Sully\Wellcome Trust\\
+Claire Newman\Atmospheric Physics\newmanc@atm.ox.ac.uk\
+Claire Newman\St Anne's\claire.newman@st-annes.ox.ac.uk\
+Colin Batchelor\Merton\colin.batchelor@merton.ox.ac.uk\
+Daine Cheng\Jesus\dcheng@jesus.ox.ac.uk\
+Daniel Lea\Wadham\daniel.lea@wadh.ox.ac.uk\
+Darren Obbard\Queens\quee1072@herald.ox.ac.uk\
+David Billen\Brasenose\bras0588@sable.ox.ac.uk\
+Dimitris Skouteris\St Peter's\dimitris.skouteris@spc.ox.ac.uk\
+Dr R Compton\Chemistry\compton@ermine.ox.ac.uk\
+Dr. David Deutsch\Centre for Quantum Computation\david.deutsch@qubit.org\http://www.qubit.org/people/david/David.html
+Eleanor Barrie\St Hilda's\eleanor.barrie@st-hildas.ox.ac.uk\
+Elizabeth Connolly\Merton\e.connolly1@physics.oxford.ac.uk\
+Eugenie Samuel\Balliol\eugenie.samuel@balliol.ox.ac.uk\
+Gemma Baker\Christ Church\gemma.baker@chch.ox.ac.uk\
+Gemma Morgan\St. Hilda's\gemma.morgan2@st-hildas.ox.ac.uk\
+Giri Madhavan\SEH\giri.madhavan@seh.ox.ac.uk\
+Gowan Tervo\Corpus Christi\dougal.tervo@ccc.ox.ac.uk\
+Iain Day\Hertford\iain.day@hertford.ox.ac.uk\
+James Dickinson\SEH\james.dickinson@seh.ox.ac.uk\
+James Matthews\Wadham\james.matthews@wadham.ox.ac.uk\
+Jessica Chiu\Lincoln\jessica.chiu@lincoln.ox.ac.uk\
+Jorn Scharlemann\St Catherine's\\
+Kate Stone\Magdalen\kate.stone@magd.ox.ac.uk\
+Katherine Leech\Wadham\katherine.leech@wadham.ox.ac.uk\
+Kathleen Corkey\Wolfson\\
+Karen Ho\Merton\karen.ho@merton.ox.ac.uk\
+Kevin Ip\Wadham\kevin.ip@wadh.ox.ac.uk\
+Lap Ko Lam\St Peter's\\
+Lara Panesar\Brasenose\lara.panesar@brasenose.oxford.ac.uk\
+Luke Rallan\Worcester\Luke.Rallan@worc.ox.ac.uk\http://www.qubit.org/people/luke/
+Martin Jones\Magdalen\magd0787@sable.ox.ac.uk\
+Martin Kimber\Merton\m.kimber1@physics.oxford.ac.uk\
+Matthew Collins\Keble\m.collins1@physics.oxford.ac.uk\
+Matthew Powell\Keble\matthew.powell@keb.ox.ac.uk\
+Mei Leung\Wadham\mei.leung@wadh.ox.ac.uk\ 
+Mike Armitage\Merton\michael.armitage@merton.ox.ac.uk\
+Mkael Abrahams\St John's\mkael.abrahams@sjc.ox.ac.uk\
+Nawreen Rahman\Wadham\nawreen.rahman@wadham.oxford.ac.uk\
+Nic Farhi\St John's\nfarhi@bigfoot.com\http://www.farhi.net/
+Nicholas Sears\Lincoln\nicholas.sears@lincoln.ox.ac.uk\
+Panayiotis Misthos\Christ Church\panayiotis.misthos@ox.ac.uk\
+Patrick Hoi-Land Sit\Wadham\hoi-land.sit@wadh.ox.ac.uk\
+Peter Baker\Balliol\peter.baker@balliol.ox.ac.uk\
+Philip Shaw\SEH\philip.shaw@seh.ox.ac.uk\
+Piers Howe\Magdalen\p.howe1@physics.oxford.ac.uk\
+Prof R Compton\Chemistry\compton@ermine.ox.ac.uk\
+Prof. Chris Leaver CBE FRS FRSE\Dept. Plant Sciences\\http://163.1.36.172/oxweb/search/show_homepages.asp?Q=20&DB=Z&TM=19463
+Rachel Ryoo\Lincoln\rachel.ryoo@lincoln.ox.ac.uk\
+Rebecca Pickup\St Hilda's\rebecca.pickup@st-hildas.ox.ac.uk\
+Renee Lee\Wolfson\renee.lee@wolfson.oxford.ac.uk\ 
+Rhonda Ker\St Peter's\\
+Saliya Silva\Keble\\
+Sally Kwok\Wadham\\
+Sarah Beynon\Wadham\sarah.beynon@wadham.ox.ac.uk\
+Sarah Haydock\Hertford\hert0977@sable.ox.ac.uk\
+Sarah Lipscomb\Keble\sarah.lipscomb@keb.ox.ac.uk\
+Simon Jackson\St Catherine's\\
+Stephen Bell\St John's\stephen.bell@sjc.ox.ac.uk\
+Stephen Murphy\St Hugh's\\
+Steve Malby\Keble\steven.malby@keb.ox.ac.uk\
+Steven Geer\Keble (now Jesus)\steven.geer@jesus.ox.ac.uk\
+Susannah Patey\Hertford\hert0976@sable.ox.ac.uk\
+Thomas Womack\Merton\mert0236@sable.ox.ac.uk\http://users.ox.ac.uk/~mert0236
+Timothy Pattenden\Wadham\timothy.pattenden@wadh.ox.ac.uk\
+Thomas Morris\Merton\Thomas.Morris@merton.ox.ac.uk\
+To Chan\St. Anne's\to.chan@st-annes.ox.ac.uk\
+Vasileios Symeonidis\St John's\sjoh0341@sable.ox.ac.uk\
+Wen Shi\Magdalen\wen.shi@magd.ox.ac.uk\
+Wilfred Lee\Wadham\\
+Wolf Goetze\St Catherine's\wolf.goetze@stcatz.ox.ac.uk\
+Yan Chan\Hertford\yan.chan@hertford.ox.ac.uk\
+Yorck Hunke\Magdalen\magd0750@sable.ox.ac.uk\
+Professor Chris Leaver CBE FRS FRSE\Plant Sciences\
+Professor Peter Atkins\Chemistry\
+Professor Colin Blakemore\Physiology\
+Professor Richard Dawkins\Zoology\
+Professor Sir Roger Penrose\Mathematics\
+Grace Li\St Anne's\grace.li@st-annes.oxford.ac.uk\
+Ning Li\New\ning.li@new.oxford.ac.uk\
+So Yoon Li\St Catherine's\so.lee@stcatz.ox.ac.uk\
+Chloe Choi\Pembroke\jung.choi@pembroke.ox.ac.uk\
+Harriet Dickinson\St Catherine's\harriet.dickinson@path.ox.ac.uk\
+Daian Cheng\Jesus\daian.cheng@jesus.ox.ac.uk\
+Nicolas Delalez\Merton\nicolas.delalez@merton.ox.ac.uk\
+Becki Lijek\St Peter's\rebeccah.lijek@spc.ox.ac.uk\
+Yuan Ren\St Peter's\yuan.ren@spc.oxford.ac.uk\
+Matt Smith\Jesus\matthew.smith@jesus.ox.ac.uk\
+Sophie Cate\St Hilda's\sophie.cate@st-hildas.ox.ac.uk\
+Till Kraemer\Lincoln\\
+Cleo Bertelsmeier\LMH\\
+Yuki Hanyu\St Catz\\
+Hugo Schmidt\St Hugh's\\
+Stephen Kiu\Somerville\\
+
+# Name (key) \ college \ email address \ web page

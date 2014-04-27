@@ -1,0 +1,440 @@
+# Term\Office\Name
+# So we can invent new offices
+# The script ignores hashed comments and blank lines
+
+MT2007\Senior Member\Professor Kay Davies FRS
+MT2007\Patrons\Professor Peter Atkins\Professor Colin Blakemore\Professor Richard Dawkins\Professor Sir Roger Penrose
+MT2007\President\Till Kraemer
+MT2007\Vice-president\Stephen Liu
+MT2007\Secretary\Yuki Hanyu
+MT2007\Treasurer\Aadya Shukla
+MT2007\Membership\Tim Clarke
+MT2007\Sponsership\Chun Tam
+MT2007\Publicity\Cleo Bertelsmeier
+MT2007\IT Officer\Matt Smith
+MT2007\Events Coordinator\Pakavarin Louphrasitthiphol
+
+TT2007\Senior Member\Professor Chris Leaver CBE FRS FRSE
+TT2007\Patrons\Professor Peter Atkins\Professor Colin Blakemore\Professor Richard Dawkins\Professor Sir Roger Penrose
+TT2007\President\Nicolas Delalez
+TT2007\Vice-president\Till Kraemer
+TT2007\Secretary\
+TT2007\Treasurer\Yuki Hanyu
+TT2007\Membership\
+TT2007\Sponsership\
+TT2007\Virtual Publicity\
+TT2007\IT Officer\Matt Smith
+TT2007\Events Coordinator\
+
+HT2007\Senior Member\Professor Chris Leaver CBE FRS FRSE
+HT2007\Patrons\Professor Peter Atkins\Professor Colin Blakemore\Professor Richard Dawkins\Professor Sir Roger Penrose
+HT2007\President\Ning Li\Yuan Ren
+HT2007\Vice-president\Nicolas Delalez
+HT2007\Secretary\Sophie Cate
+HT2007\Treasurer\Matt Smith
+HT2007\Membership\Till Kraemer
+HT2007\Sponsership\Stephen Liu
+HT2007\Virtual Publicity\Cleo Bertelsmeier\Yuki Hanyu
+HT2007\IT Officer\Matt Smith
+HT2007\Events Coordinator\Hugo Schmidt
+
+MT2006\Senior Member\Professor Chris Leaver CBE FRS FRSE
+MT2006\Patrons\Professor Peter Atkins\Professor Colin Blakemore\Professor Richard Dawkins\Professor Sir Roger Penrose
+MT2006\President\Nicholas Sears
+MT2006\Vice-president\Ning Li\Yuan Ren
+MT2006\Secretary\Sophie Cate
+MT2006\Treasurer\Matt Smith
+MT2006\Membership\Ning Li
+MT2006\Sponsorship\Yuan Ren
+MT2006\Virtual Publicity\Nicolas Delalez
+MT2006\IT Officer\Matt Smith
+MT2006\Events Coordinator\Nicolas Delalez
+
+TT2006\Senior Member\Professor Chris Leaver CBE FRS FRSE
+TT2006\Patrons\Professor Peter Atkins\Professor Colin Blakemore\Professor Richard Dawkins\Professor Sir Roger Penrose
+TT2006\President\Daian Cheng
+TT2006\Vice-president\Nicholas Sears
+TT2006\Secretary\Grace Li\Ning Li
+TT2006\Treasurer\Nicolas Delalez
+TT2006\Membership\Becki Lijek
+TT2006\Sponsorship\Yuan Ren
+TT2006\Virtual Publicity\To Chan
+TT2006\IT Officer\Nicholas Sears
+TT2006\Events Coordinator\So Yoon Li
+
+HT2006\Senior Member\Professor Chris Leaver CBE FRS FRSE
+HT2006\Patrons\Professor Peter Atkins\Professor Colin Blakemore\Professor Richard Dawkins\Professor Sir Roger Penrose
+HT2006\President\Nawreen Rahman
+HT2006\Vice-president\Daine Cheng
+HT2006\Secretary\Grace Li\Ning Li
+HT2006\Treasurer\Yan Chan
+HT2006\Events Coordinator\So Yoon Li\Chloe Choi
+HT2006\Membership\Mei Leung
+HT2006\Sponsorship\To Chan\Karen Ho
+HT2006\Virtual Publicity\Harriet Dickinson
+HT2006\IT Officer\Nicholas Sears
+HT2006\Ex-Officio\Peter Baker\Wolf Goetze
+
+MT2005\Senior Member\Prof. Chris Leaver CBE FRS FRSE
+MT2005\President\Karen Ho
+MT2005\Vice-president\Nawreen Rahman
+MT2005\Secretary\Mei Leung
+MT2005\Treasurer\Yan Chan
+MT2005\Membership\Daine Cheng
+MT2005\Virtual Publicity\Wolf Goetze
+MT2005\Refreshments\Karen Ho
+MT2005\Sponsorship\To Chan
+MT2005\Webmaster\Nicholas Sears
+MT2005\Publicity\Chao Wang
+MT2005\Ex-Officio\Peter Baker\Wolf Goetze\Chloe Brown\Wen Shi
+
+TT2005\Senior Member\Prof. Chris Leaver CBE FRS FRSE
+TT2005\President\Wen Shi
+TT2005\Vice-president\Karen Ho
+TT2005\Secretary\Gemma Morgan
+TT2005\Treasurer\Yan Chan
+TT2005\Membership\Mei Leung
+TT2005\Virtual Publicity\Wolf Goetze
+TT2005\Refreshments\Wen Shi
+TT2005\Sponsorship\To Chan
+TT2005\Publicity\Chao Wang
+TT2005\Ex-Officio\Peter Baker\Wolf Goetze\Chloe Brown
+
+HT2005\Senior Member\Prof. Chris Leaver CBE FRS FRSE
+HT2005\President\Chloe Brown
+HT2005\Vice-president\Wen Shi
+HT2005\Secretary\Gemma Morgan
+HT2005\Treasurer\Karen Ho
+HT2005\Membership\Nawreen Rahman
+HT2005\Virtual Publicity\Wolf Goetze
+HT2005\Refreshments\Wen Shi
+HT2005\Sponsorship\To Chan
+HT2005\Publicity\Yan Chan
+HT2005\Ex-Officio\Peter Baker\Wolf Goetze
+
+MT2004\Senior Member\Prof. Chris Leaver CBE FRS FRSE
+MT2004\President\Wolf Goetze
+MT2004\Vice-president\Chloe Brown
+MT2004\Secretary\Renee Lee
+MT2004\Treasurer\Lara Panesar
+MT2004\Membership\Nawreen Rahman
+MT2004\Virtual Publicity\Wolf Goetze
+MT2004\Refreshments\Rachel Ryoo
+MT2004\Sponsorship\Position Vacant
+MT2004\Events\Position Vacant
+MT2004\Ex-Officio\Peter Baker
+
+TT2004\Senior Member\Prof. Chris Leaver CBE FRS FRSE
+TT2004\President\Wolf Goetze
+TT2004\Vice-president\Position Vacant
+TT2004\Secretary\Renee Lee
+TT2004\Treasurer\Lara Panesar
+TT2004\Membership\Nawreen Rahman
+TT2004\Virtual Publicity\Wolf Goetze
+TT2004\Refreshments\Rachel Ryoo
+TT2004\Sponsorship\Position Vacant
+TT2004\Events\Position Vacant
+TT2004\Ex-Officio\Peter Baker
+
+HT2004\Senior Member\Prof. Chris Leaver CBE FRS FRSE
+HT2004\President\Iain Day
+HT2004\Vice-president\Wolf Goetze
+HT2004\Treasurer\Lara Panesar
+HT2004\Membership\Nawreen Rahman
+HT2004\Virtual Publicity\Wolf Goetze
+HT2004\Refreshments\Rachel Ryoo
+HT2004\Sponsorship\Position Vacant
+HT2004\Events\Position Vacant
+HT2004\Ex-Officio\Katherine Leech\Caroline Archer\Thomas Morris\Kate Stone
+
+MT2003\Senior Member\Prof. Chris Leaver CBE FRS FRSE
+MT2003\President\Iain Day
+MT2003\Vice-president\Position Vacant
+MT2003\Treasurer\Peter Baker
+MT2003\Membership\Position Vacant
+MT2003\Virtual Publicity\Jessica Chiu
+MT2003\Publicity & Refreshments\Sarah Beynon
+MT2003\Sponsorship\Position Vacant
+MT2003\Events\Position Vacant
+MT2003\Ex-Officio\Katherine Leech\Caroline Archer\Thomas Morris\Kate Stone
+
+TT2003\Senior Member\Prof. Chris Leaver CBE FRS FRSE
+TT2003\President\Kate Stone
+TT2003\Vice-president\Position Vacant
+TT2003\Treasurer\Peter Baker
+TT2003\Membership\Andrew McDonald
+TT2003\Virtual Publicity\Jessica Chiu
+TT2003\Publicity & Refreshments\Sarah Beynon
+TT2003\Sponsorship\Anastasia Nijnik
+TT2003\Events\Position Vacant
+TT2003\Ex-Officio\Katherine Leech\Caroline Archer\Thomas Morris
+
+HT2003\Senior Member\Prof. Chris Leaver CBE FRS FRSE
+HT2003\President\Tom Morris
+HT2003\Vice-president\Kate Stone
+HT2003\Treasurer\Peter Baker
+HT2003\Membership\Andrew McDonald
+HT2003\Virtual Publicity\Jessica Chiu
+HT2003\Publicity & Refreshments\Sarah Beynon
+HT2003\Sponsorship\Anastasia Nijnik
+HT2003\Events\Position Vacant
+HT2003\Ex-Officio\Katherine Leech\Caroline Archer
+
+MT2002\Senior Member\Prof. Chris Leaver CBE FRS FRSE
+MT2002\President\Caroline Archer
+MT2002\Vice-president\Tom Morris
+MT2002\Secretary\Eleanor Barrie
+MT2002\Treasurer\Peter Baker
+MT2002\Membership\Andrew McDonald
+MT2002\Virtual Publicity\Darren Obbard
+#MT2002\Real Publicity\Gemma Baker
+MT2002\Sponsorship\Anastasia Nijnik
+#MT2002\Events\
+MT2002\Refreshments\Sarah Beynon
+#MT2002\Ex-Officio\
+
+TT2002\Senior Member\Dr. David Deutsch
+TT2002\President\Katherine Leech
+TT2002\Vice-president\Caroline Archer
+TT2002\Secretary\Tom Morris
+TT2002\Treasurer\Peter Baker
+TT2002\Membership\Andrew McDonald
+TT2002\Virtual Publicity\Darren Obbard
+TT2002\Real Publicity\Gemma Baker
+TT2002\Sponsorship\Anastasia Nijnik
+#TT2002\Events\
+#TT2002\Refreshments\Tom Morris
+#TT2002\Ex-Officio\Anastasia Nijnik\Mike Armitage\Jessica Chiu
+
+HT2002\Senior Member\Dr. David Deutsch
+HT2002\President\Luke Rallan
+HT2002\Vice-president\Katherine Leech
+HT2002\Secretary\Caroline Archer
+HT2002\Treasurer\James Matthews
+HT2002\Membership\Andrew McDonald
+HT2002\Virtual Publicity\Darren Obbard
+HT2002\Real Publicity\Chris Cox
+HT2002\Events\Peter Baker
+HT2002\Refreshments\Tom Morris
+HT2002\Ex-Officio\Anastasia Nijnik\Mike Armitage\Jessica Chiu
+
+MT2001\Senior Member\Dr. David Deutsch
+MT2001\President\Jessica Chiu
+MT2001\Vice-president\Luke Rallan
+MT2001\Secretary\Katherine Leech
+MT2001\Membership \Andrew McDonald
+MT2001\Virtual Publicity\Darren Obbard
+MT2001\Treasurer\James Matthews
+#MT2001\Business Manager\
+MT2001\Events\Peter Baker
+#MT2001\Marketing Managers\
+MT2001\Ex-Officio\Anastasia Nijnik\Benjamin Fortescue\Mike Armitage
+
+
+TT2001\Senior Member\Dr. David Deutsch
+TT2001\President\Mike Armitage
+TT2001\Vice-president\Jessica Chiu
+TT2001\Secretary\Luke Rallan
+TT2001\Membership and Virtual Publicity\Darren Obbard
+TT2001\Treasurer\James Matthews
+#TT2001\Business Manager\
+#TT2001\Films and Visits\
+#TT2001\Marketing Managers\
+TT2001\Ex-Officio\Anastasia Nijnik\Benjamin Fortescue
+
+HT2001\Senior Member\Dr. David Deutsch
+HT2001\President\Anastasia Nijnik
+HT2001\Vice-president\Mike Armitage
+HT2001\Secretary\Jessica Chiu
+HT2001\Membership and Virtual Publicity\Darren Obbard
+HT2001\Treasurer\James Matthews
+#HT2001\Business Manager\???
+#HT2001\Films and Visits\Jessica Chiu
+#HT2001\Marketing Managers\Gowan Tervo
+HT2001\Ex-Officio\Benjamin Fortescue
+
+MT2000\Senior Member\Prof R Compton
+MT2000\President\Benjamin Fortescue
+MT2000\Vice-president\Anastasia Nijnik
+MT2000\Secretary\Mike Armitage
+MT2000\Membership and Virtual Publicity\Nic Farhi
+MT2000\Treasurer\James Matthews
+MT2000\Business Manager\Gowan Tervo
+MT2000\Films and Visits\Jessica Chiu
+MT2000\Marketing Managers\Gowan Tervo
+MT2000\Ex-Officio\Mkael Abrahams
+
+TT2000\Senior Member\Prof R Compton
+TT2000\President\Mkael Abrahams
+TT2000\Vice-president\Benjamin Fortescue
+TT2000\Secretary\Anastasia Nijnik
+TT2000\Membership and Virtual Publicity\Nic Farhi
+TT2000\Treasurer\James Matthews
+TT2000\Business Manager\Nic Farhi
+TT2000\Films and Visits\Anastasia Nijnik
+TT2000\Marketing Managers\Gowan Tervo\Amanda Crossfield
+TT2000\Ex-Officio\Claire Newman
+
+HT2000\Senior Member\Prof R Compton
+HT2000\President\Claire Newman
+HT2000\Vice-president\Mkael Abrahams
+HT2000\Secretary\Benjamin Fortescue
+HT2000\Membership and Virtual Publicity\Nic Farhi
+HT2000\Treasurer\David Billen
+HT2000\Business Manager\Nic Farhi
+HT2000\Films and Visits\Anastasia Nijnik
+HT2000\Refreshemnts Officer\Anastasia Nijnik
+HT2000\Ex-Officio\Dimitris Skouteris\Yorck Hunke
+
+MT1999\Senior Member\Prof R Compton
+MT1999\President\Nic Farhi
+MT1999\Vice-president\Claire Newman
+MT1999\Secretary\Mkael Abrahams
+MT1999\Membership and Virtual Publicity\Nic Farhi
+MT1999\Treasurer\David Billen
+MT1999\Business Manager\Martin Jones\Asif Huq
+MT1999\Films and Visits\Panayiotis Misthos
+MT1999\Marketing Manager\Susannah Patey
+MT1999\Refreshemnts Officer\Sarah Haydock
+MT1999\Ex-Officio\Matthew Powell\Dimitris Skouteris\Yorck Hunke
+
+TT1999\Senior Member\Prof R Compton
+TT1999\President\Panayiotis Misthos
+TT1999\Vice-president\Nic Farhi
+TT1999\Secretary\Sarah Haydock
+TT1999\Membership and Virtual Publicity\Nic Farhi
+TT1999\Treasurer\David Billen
+TT1999\Business Manager\Martin Jones\Asif Huq
+TT1999\Films and Visits\Vasileios Symeonidis
+TT1999\Marketing Manager\Susannah Patey
+TT1999\Ex-Officio\James Dickinson\Giri Madhavan\Kathleen Corkey\Matthew Powell\Dimitris Skouteris\Thomas Womack\Yorck Hunke
+
+HT1999\Senior Member\Prof R Compton
+HT1999\President\Yorck Hunke
+HT1999\Vice-president\Panayiotis Misthos
+HT1999\Secretary\Nic Farhi
+HT1999\Membership and Virtual Publicity\Nic Farhi
+HT1999\Treasurer\David Billen
+HT1999\Business Manager\Martin Jones\Asif Huq
+HT1999\Films and Visits\Vasileios Symeonidis
+HT1999\Physical Publicity\Susannah Patey
+HT1999\Refreshments\Sarah Haydock
+HT1999\Ex-Officio\James Dickinson\Giri Madhavan\Kathleen Corkey\Matthew Powell\Dimitris Skouteris\Thomas Womack
+
+MT1998\Senior Member\Prof R Compton
+MT1998\President\Thomas Womack
+MT1998\Vice-president\Yorck Hunke
+MT1998\Secretary\Panayiotis Misthos
+MT1998\Membership and Virtual Publicity\Nic Farhi
+MT1998\Treasurer\Andy Herman
+MT1998\Business Manager\Martin Jones
+MT1998\Films and Visits\Vasileios Symeonidis
+MT1998\Physical Publicity\Caroline Dolman
+MT1998\Refreshments\David Billen
+MT1998\Ex-Officio\James Dickinson\Giri Madhavan\Kathleen Corkey\Matthew Powell\Dimitris Skouteris
+
+TT1998\Senior Member\Prof R Compton
+TT1998\President\Dimitris Skouteris
+TT1998\Vice-President\Thomas Womack
+TT1998\Secretary\Yorck Hunke
+TT1998\Membership and Virtual Publicity\Nic Farhi
+TT1998\Treasurer\Andy Herman
+TT1998\Business Manager\Martin Jones
+TT1998\Films and Visits\Stephen Bell
+TT1998\Physical Publicity\Patrick Hoi-Land Sit
+TT1998\Refreshments\David Billen
+TT1998\Ex-Officio\James Dickinson\Giri Madhavan\Kathleen Corkey\Matthew Powell
+
+HT1998\Senior Member\Prof R Compton
+HT1998\President\Matthew Powell
+HT1998\Vice-President\Dimitris Skouteris
+HT1998\Secretary, Membership and Virtual Publicity\Thomas Womack
+HT1998\Treasurer\Andy Herman
+HT1998\Business Manager\Martin Jones
+HT1998\Films and Visits\Stephen Bell
+HT1998\Physical Publicity\Patrick Hoi-Land Sit\Yorck Hunke
+HT1998\Refreshments\David Billen
+HT1998\Zenith\Christine Louis-dit-Sully
+HT1998\Ex-Officio\James Dickinson\Carolyn Thorley\Giri Madhavan\Kathleen Corkey
+
+MT1997\Senior Member\Prof R Compton
+MT1997\President\Kathleen Corkey
+MT1997\Vice-President\Matthew Powell
+MT1997\Secretary\Dimitris Skouteris
+MT1997\Treasurer\Andy Herman
+MT1997\Business Manager\Timothy Pattenden
+MT1997\Membership and Virtual Publicity\Thomas Womack
+MT1997\Films and Visits\Philip Shaw
+MT1997\Physical Publicity\Patrick Hoi-Land Sit
+MT1997\Zenith\Christine Louis-dit-Sully\Stephen Murphy
+MT1997\Ex-President\Giri Madhavan
+MT1997\Ex-Officio\James Dickinson\Carolyn Thorley
+
+TT1997\Senior Member\Prof R Compton
+TT1997\President\Giri Madhavan
+TT1997\Vice-President\Kathleen Corkey
+TT1997\Secretary\Matthew Powell
+TT1997\Treasurer\James Dickinson
+TT1997\Business Manager\Sally Kwok
+TT1997\Membership Secretary\Sarah Lipscomb
+TT1997\Films and Visits\Philip Shaw
+TT1997\Physical Publicity\Piers Howe
+TT1997\Virtual Publicity\Thomas Womack
+TT1997\Zenith\Eugenie Samuel\Christine Louis-dit-Sully\Stephen Murphy\Rhonda Ker
+TT1997\Ex-President\Carolyn Thorley
+TT1997\Ex-Officio\Matthew Collins\Kevin Ip\Wilfred Lee
+
+HT1997\Senior Member\Dr R Compton
+HT1997\President\Carolyn Thorley
+HT1997\Vice-President\Giri Madhavan
+HT1997\Secretary\Kathleen Corkey
+HT1997\Treasurer\James Dickinson
+HT1997\Business Manager\Sally Kwok
+HT1997\Membership\Sarah Lipscomb
+HT1997\Films and Visits\Wilfred Lee
+HT1997\Physical Publicity\Kevin Ip
+HT1997\Virtual Publicity\Thomas Womack
+HT1997\Zenith Editors\Eugenie Samuel\Christine Louis-dit-Sully\Stephen Murphy
+HT1997\Ex-President\Matthew Collins
+HT1997\Ex-Officio\Steve Malby\Steven Geer\Amanda Crossfield
+
+MT1996\Senior Member\Dr R Compton
+MT1996\President\Matthew Collins
+MT1996\Vice-President\Carolyn Thorley
+MT1996\Secretary\Giri Madhavan
+MT1996\Treasurer\James Dickinson
+MT1996\Business Manager\Steve Malby
+MT1996\Membership\Sarah Lipscomb
+MT1996\Films and Visits\Colin Batchelor
+MT1996\Physical Publicity\Steven Geer
+MT1996\Virtual Publicity\Thomas Womack
+MT1996\Ex-President\Amanda Crossfield
+MT1996\Ex-Officio\Saliya Silva\Elizabeth Connolly\Martin Kimber\Catherine Raffle
+
+TT1996\Senior Member\Dr R Compton
+TT1996\President\Amanda Crossfield
+TT1996\Vice-President\Matthew Collins
+TT1996\Secretary\Carolyn Thorley
+TT1996\Treasurer\Elizabeth Connolly
+TT1996\Business Manager\Giri Madhavan
+TT1996\Membership Secretary\Sarah Lipscomb
+TT1996\Films and Visits\Colin Batchelor
+TT1996\Publicity (email)\Martin Kimber
+TT1996\Publicity (posters)\Steve Malby
+TT1996\Zenith Editor\Catherine Raffle
+TT1996\Social Secretary\Steven Geer
+TT1996\Ex-President\Saliya Silva
+TT1996\Ex-Officio\Simon Jackson\Claire Newman\Lap Ko Lam
+
+MT1995\Senior Member\Dr R Compton
+MT1995\President\Simon Jackson
+MT1995\Vice-President\Saliya Silva
+MT1995\Secretary\Amanda Crossfield
+MT1995\Business Manager\Daniel Lea
+MT1995\Treasurer\Elizabeth Connolly
+MT1995\Films and Visits\Claire Newman
+MT1995\Publicity Officers\Amanda Crossfield\Daniel Lea
+MT1995\Membership Secretaries\Jorn Scharlemann\Chris Cooper
+MT1995\Zenith Editor\Matthew Collins
+MT1995\Nexus Representative\Rebecca Pickup
+MT1995\Ex-President\Lap Ko Lam

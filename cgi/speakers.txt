@@ -1,0 +1,249 @@
+# Lots needs to be said about speakers
+# We need to know :
+# For display : full name, affiliation, own web, institution web
+# For planning : full name, address (post), address (email), field
+# Remember some of them have to be done by post to home addresses
+# Seven fields, which doesn't fit on a screen well
+# But we'll do it anyway. Often lots of the fields are blank.
+# And maybe the cat will learn to sing.
+# Spacing it out is good
+
+# keyname\FullName\Post and Location\personal web\dept web\ address? \e-mailaddy\Subject area
+
+Webb\Prof Colin Webb FRS\Professor of Laser Physics, University of Oxford\http://www-alphys.physics.ox.ac.uk/research/groups/laser/webonweb.html\http://www.physics.ox.ac.uk/\\c.webb1@physics.ox.ac.uk\physics
+
+Goodwin\Prof Brian Goodwin\Schumacher College, Devon\\http://www.gn.apc.org/schumachercollege/msc/\\\complexity
+
+Sim2\Dr Robert Sim\Dept of Biochemistry, University of Oxford\http://www.bioch.ox.ac.uk/info/brochure/sim.html\\\rbsim@bioch.ox.ac.uk\biochemistry
+
+Warwick\Prof Kevin Warwick\Department of Cybernetics, University of Reading\http://www.rdg.ac.uk/TCS/Staff/Prof__Kevin_Warwick/prof__kevin_warwick.html\http://www.cyber.rdg.ac.uk/\\kw@cyber.rdg.ac.uk\cybernetics
+
+Saunders\Dr Ian Saunders\Department of Physics, Lancaster University\http://www.lancs.ac.uk/users/SPC/STAFF/ijs.htm\http://www.lancs.ac.uk/users/SPC/Physics.htm\\i.saunders@lancaster.ac.uk\physics
+
+Dunbar\Prof Robin Dunbar\Department of Psychology, Liverpool University\\http://www.liv.ac.uk/Psychology/ULDPhome.html\\\psychology
+
+Atkins\Prof Peter Atkins\Department of Chemistry, Oxford University\http://www.linc.ox.ac.uk/fellows/atkins/\http://www.chem.ox.ac.uk/\\\chemistry
+
+Greenfield\Prof Susan Greenfield\Department of Pharmacology, Oxford University\http://www.pharm.ox.ac.uk/staff/greenfie.htm\http://www.pharm.ox.ac.uk/\\susan.greenfield@pharm.ox.ac.uk\pharmacology
+
+Mills\Prof Andrew Mills & Dr Peter Douglas\Dept. Chemistry, University of Wales, Swansea\http://www.swan.ac.uk/chemistry/staff/academic/am/profile.htm\http://www.swan.ac.uk/chemistry/\\a.mills@swansea.ac.uk\chemistry
+
+Huppert\Prof Herbert Huppert\Department of Earth Sciences, University of Cambridge\http://www.esc.cam.ac.uk/astaff/huppert\http://www.esc.cam.ac.uk/\Dept of Earth Sciences, Downing Street, Cambridge CB2 3EQ\heh1@esc.cam.ac.uk\geology demos small
+
+Richards\Prof Graham Richards\Department of Chemistry, University of Oxford\http://bellatrix.pcl.ox.ac.uk/people/graham/index.html\http://physchem.ox.ac.uk\PTCL, South Parks Road, Oxford OX1 3QZ\graham@physchem.ox.ac.uk\chemistry business
+
+Kimbolton\Revd Ron Lancaster\Kimbolton Fireworks\\http://www.kimboltonfireworks.co.uk/\\\chemistry demos
+
+Sim\Prof Edith Sim\Department of Pharmacology, University of Oxford\http://www.pharm.ox.ac.uk/staff/sim.htm\http://www.pharm.ox.ac.uk\Dept of Pharmacology, Mansfield Road, Oxford OX1 3QT\esim@worf.molbiol.ox.ac.uk\medicine
+
+Salthouse\Dr John Salthouse\Department of Chemistry, University of Manchester\\http://www.ch.man.ac.uk\write to him at home\\chemistry demos
+
+Plunkett\Dr Kim Plunkett\Department of Experimental Psychology, University of Oxford\\http://www.psych.ox.ac.uk/\Dept of Experimental Psychology, South Parks Road, Oxford OX1 3UD\kim.plunkett@psy.ox.ac.uk\neuroscience
+
+Khaw\Prof Kay-Tee Khaw\Department of Clinical Gerontology, Addenbrookes' Hospital, Cambridge\\\don't have an address\kk101@cam.ac.uk\medicine
+
+Solomon\Dr Chris Solomon\Applied Optics Group, University of Kent at Canterbury\http://speke.ukc.ac.uk/physical-sciences/main/staff/cjs.htm\http://speke.ukc.ac.uk/physical-sciences/aog/\no address\C.J.Solomon@ukc.ac.uk\physics
+
+Howe\Dr Chris Howe\Department of Biochemistry, University of Cambridge\\http://www.bio.cam.ac.uk/dept/biochem/\Department of Biochemistry,Tennis Court Road, Cambridge CB2 1QW\ch26@cam.ac.uk\molecular biology
+
+Wiseman\Dr Richard Wiseman\Committee for the Scientific Investigation of Claims of the Paranormal\\http://www.csicop.org\no address\r.wiseman@herts.ac.uk\paranormal
+
+Mullin\Prof Tom Mullin\Dept of Physics, University of Manchester\http://stephenson.ph.man.ac.uk/~nonlinear/people/mullin.html\http://www.ph.man.ac.uk/physics/\no address\tom.mullin@man.ac.uk\physics
+
+Kinlen\Dr Leo Kinlen\Childhood Cancer Research Group, Oxford University\\http://www.ccrg.ox.ac.uk/\57 Woodstock Road, Oxford\kinlen@ermine.ox.ac.uk\medicine
+
+Gough\Prof Douglas Gough\Institute of Astrophysics, Cambridge University\\http://www.ast.cam.ac.uk/~sekii/\Institute of Astrophysics, Cambridge\douglas@ast.cam.ac.uk\astrophysics
+
+Sheldrake\Rupert Sheldrake\Freelance Scientist\http://www.sheldrake.org/\\20, Willow Rd., Hampstead, London, NW3 1TJ\\animal telepathy
+
+Ridley\Dr Matt Ridley\\\\\\genome
+
+Graham\Prof J.M.R. Graham\\\\\\alternative energies
+
+Grady\Dr Monica Grady\Natural History Museum\http://www.nhm.ac.uk/mineralogy/grady/grady.htm\http://www.nhm.ac.uk\\\life on mars
+
+Shaunak\Dr Sunil Shaunak\\\\\\HIV
+
+Deutsch\Dr David Deutsch\http://www.qubit.org/people/david/David.html\http://www.qubit.org\\\quantum computing
+
+Luebkeman\Chris Luebkeman\Director and leader of Arup's global Foresight and Innovation initiative\\\\\
+Stein\Dr. John Stein\Department of Physiology, University of Oxford\\\\\
+Leroi\Dr. Armand Leroi\Department of Biological Sciences - Imperial College, London\\\\\
+
+Young\Dr. J Young\Centre for the History of Science, Technology and Medicine - Imperial College, London\\\\\
+
+Blakemore\Prof Colin Blakemore FRS\Oxford University\http://www.physiol.ox.ac.uk/Graduate_Studies/Research_Interests/blakemore.html\http://www.physiol.ox.ac.uk/\\\Cognitive Neuroscience
+
+Aleksander\Professor Igor Aleksander\Imperial College\http://www.ee.ic.ac.uk/research/neural/aleksander.html\http://www.ee.ic.ac.uk/research/neural/iis.html\\\AI
+
+Reynolds\Professor Vernon Reynolds\Oxford University\\http://www.bioanth.ox.ac.uk/\\\Biological Anthropology
+
+Close\Professor Frank Close\Department of Theoretical Physics, University of Oxford\http://www.exeter.ox.ac.uk/about/A-II-Close.htm\http://lhcb.cern.ch/public/html/frank.htm\\\Particle Physics
+
+Barham\Dr. P Barham\Department of Physics, Bristol University\http://www.phy.bris.ac.uk/staff/barham_pj.html\\\\fun physics
+
+Eccles\Prof. R Eccles\Common Cold Centre, Cardiff University\http://www.cf.ac.uk/biosi/associates/cold/home.html\\\\pathology
+
+Hart-Davis\A. Hart-Davis\BBC TV presenter and author\http://aj.hd.org\\\\general science
+
+Wickramasinghe\Prof C. Wickramasinghe\Department of Mathematics, Cardiff University\http://www.cf.ac.uk/maths/wickramasinghe/chand1.html\\\\cosmology
+
+Blackmore\Dr. Susan Blackmore\Department of Psychology, University of the West of England\http://www.uwe.ac.uk/fas/staff/sb/\http://www.uwe.ac.uk/fas/\\SusanBlackmore@exnet.com\memetics
+
+Tate\Major Jonathan Tate\Director of Spaceguard UK\http://ds.dial.pipex.com/town/terrace/fr77/\\\spaceguard@dial.pipex.com\Near Earth Object impact
+
+Emsley\ Dr. John Emsley\Department of Chemistry, Cambridge\http://www.ch.cam.ac.uk/staff/je.html\http://www.ch.cam.ac.uk\\\je218@cam.ac.uk\Chemistry Science Writer
+
+Tippetts\Dr. John Tippetts\Department of Chemical and Process Engineering, University of Sheffield\http://www.shef.ac.uk/~cpe/staff1/tippetts.html\\\j.tippetts@sheffield.ac.uk\Fluid Mechanics
+
+Vedral\Dr. Vlatko Vedral\Centre for Quantum Computation, Imperial College, University of London\http://www.qubit.org/people/vlatko\\\v.vedral@ic.ac.uk\quantum computation
+
+Rowland-Jones\Dr. Sarah Rowland-Jones\Institute of Molecular Medicine, University of Oxford\http://www.imm.ox.ac.uk/groups/molimm/jones.html\http://www.imm.ox.ac.uk/\\sarah.rowland-jones@ndm.ox.ac.uk\HIV
+
+Leeson\Dr Mark S Leeson\School of Engineering, University of Warwick\http://www.eng.warwick.ac.uk/staff/msl/mark.html\http://www.warwick.ac.uk\\msl@eng.warwick.ac.uk\Communication and signal processing
+
+Ekert\Prof Artur Ekert\Centre for Quantum Computation\http://www.qubit.org/people/artur/\http://www.qubit.org\\artur.ekert@qubit.org \quantum computing
+
+Parry\Dr Dick Parry\Dept of Engineering, Universityof Cambridge\\\\\Ancient engineering: the Pyramids
+
+Penny\Dr. Alan Penny\Rutherford Appleton Laboratory\http://ast.star.rl.ac.uk/ajp/\http://www.rl.ac.uk/\\a.j.Penny@rl.ac.uk\space technology
+
+Cartwright\Dr Hugh Cartwright\Physical and Theoretical Chemistry, Oxford\http://physchem.ox.ac.uk/~hmc/\http://physchem.ox.ac.uk/\\Hugh.Cartwright@chem.ox.ac.uk\the application of Artificial Intelligence to the solution of scientific problems
+
+Lehrle\Dr Roy Lehrle\School of Manufacturing and Mechanical Engineering, University of Birmingham\http://web.bham.ac.uk/M.L.Wyszynski/people/lehrledat.html\http://www.birmingham.ac.uk/ManMechEng/\\r.s.lehrle@bham.ac.uk
+\\
+
+Widdowson\Professor David Widdowson\Department of Chemistry, Imperial College London\http://www.ch.ic.ac.uk/widdowson/index.html\http://www.ch.ic.ac.uk/\d.widdowson@ic.ac.uk
+\\Forensic science
+
+Chapman\Dr Alan Chapman\Department of Modern History, Oxford University\\\\\
+
+Isenberg\Dr Cyril Isenberg\Department of Physical Sciences, University of Kent at Canterbury\http://www.ukc.ac.uk/physical-sciences/main/staff/CI.html\http://www.ukc.ac.uk/physical-sciences/\\C.Isenberg@ukc.ac.uk\Lecturer in Physics. Dr. Cyril Isenberg is well known for demonstration lectures on the science of soap films and bubbles
+
+Mullin\Professor Tom Mullin\Manchester Center for Non-linear dynamics\http://www.ma.man.ac.uk/MCND/mullin.html\http://www.ma.man.ac.uk/MCND/\\tom.mullin@man.ac.uk\Bifurcation Phenomena in Viscous Fluid Flows and Granular Media
+
+Baker\Dr Adam Baker\Space Department, QinetiQ\\http://www.qinetiq.com/\\\
+
+Kalmus\Professor Peter I. P. Kalmus\Emeritus Professor, Queen Mary's College, University of London\http://www.ph.qmw.ac.uk/phdir?P.I.P.Kalmus\http://www.qmw.ac.uk/\\ p.i.p.kalmus@qmul.ac.uk\Emeritus Professor of Physics 
+
+Gardner\Professor Richard Gardner\Department of Zoology, University of Oxford\\http://www.zoo.ox.ac.uk/newsite/top.htm\\\
+
+Wolpert\Professor Lewis Wolpert\Department of Anatomy and Developmental Biology, University College London\http://www.anat.ucl.ac.uk/brochure/page54.htm\http://www.anat.ucl.ac.uk/\\l.wolpert@ucl.ac.uk\
+
+Garman\Dr Elspeth Garman\University of Oxford\\http://www.ox.ac.uk/\\\ 
+
+Singh\Simon Singh\Author and Journalist\http://www.simonsingh.com/\\\info@simonsingh.com\Journalism
+
+Davis\Professor Paul J. Davis\Visiting Professor of Applied Immunology, University of Kent at Canterbury\\\\\
+
+Dadswell\Mr Doug Dadswell\Babtie Group, Allot and Lomax\\http://www.allott.co.uk/\\
+
+Jones\Professor Steven Jones\Professor of Genetics at University College London\\http://www.gene.ucl.ac.uk/\\Human Genetics
+
+Lillford\Professor Peter Lillford\Visiting Professor, University of Nottingham, Visiting Chair, University of York\http://www.advancedbiology.org/pub/AboutUs/b0000000485.shtml\\\\\
+
+Horne\Professor Jim Horne\Sleep Research Laboratory, Loughborough University\\http://www.lboro.ac.uk/departments/hu/groups/sleep/\\\\
+Griffiths\Alex Griffiths\BBC Natural History Unit, Bristol\\\\\\
+Kogan\Dr Ian I. Kogan\Department of Theoretical Physics, University of Oxford\http://www-thphys.physics.ox.ac.uk/users/IanKogan/home.html\\\\\
+Calladine\Professor Chris Calladine\Structural Mechanics, Department of Engineering, University of Cambridge\http://www-civ.eng.cam.ac.uk/crc/crc_web.htm\http://www-civ.eng.cam.ac.uk/\\\\
+Grant\Professor William D.Grant\Department of Microbiology and Immunology, University of Leicester\\\\\\
+Andrews\Professor Peter Andrews\Chairman, Dept. Biomedical Science, University of Sheffield\http://www.shef.ac.uk/bms/academic/pwa.html\\\\\
+Cargill\Professor Peter Cargill\Space and Atmospheric Physics, The Blackett Laboratory, Imperial College\http://www.sp.ph.ic.ac.uk/~cargill/\\\\\
+
+Kirkwood\Professor Tom Kirkwood\University of Newcastle\\\tom.kirkwood@ncl.ac.uk
+
+Russell\Dr Sara Russell\Natural History Museum\http://www.nhm.ac.uk/mineralogy/srussell/srussell.htm\http://www.nhm.ac.uk/mineralogy/intro/project4/\sarr@nhm.ac.uk\Petrology and Meteoritics Division
+
+Rodger\Dr Mark Rodger\University of Warwick\http://www.chem.warwick.ac.uk/astaff/pmrodger/\http://www.chem.warwick.ac.uk/pmrodger/pmr.html\p.m.rodger@csv.warwick.ac.uk\
+
+Barlow\Professor Horace Barlow\University of Cambridge\http://www.physiol.cam.ac.uk/staff/barlow/\http://hbb-2.physiol.cam.ac.uk/\hbb10@cam.ac.uk\
+
+Donovan\Professor Robert Donovan\University of Edinburgh\\\rj.donovan@ed.ac.uk\
+
+Abrahams\Marc Abrahams\editor and co-founder of Annals of Improbable Research\\\\marca@chem2.harvard.edu\\
+
+Follett\Sir Brian K. Follett\Department of Zoology, University of Oxford\\\\\
+
+Jack\Colin Jack\Author\\\\\\
+
+Leaver\Professor Chris Leaver\Head of the Department of Plant Sciences, University of Oxford\\\\\
+
+Walker\Timothy Walker\Botanic Gardens, Oxford University\\\\\
+
+Willmore\Professor A. Peter Willmore\School of Physics & Astronomy, University of Birmingham\\\apw@star.sr.bham.ac.uk
+
+Richards\Professor W. Graham Richards\Chairman of Chemistry, University of Oxford\\\graham.richards@chem.ox.ac.uk\
+
+Lancaster\Reverend Ron Lancaster MBE\Kimbolton Fireworks\\http://kimboltonfireworks.co.uk\\\\
+
+Cooper\Professor Alan Cooper\Henry Wellcome Ancient Biomolecules Centre, Oxford University\\\\\
+
+Hon\Adrian Hon\The Queen's College, Oxford University\\\\\
+
+Slingo\Professor Julia Slingo\Centre for Global Atmospheric Modelling, Reading University\\\\\
+
+Blondel\Dr Philippe Blondel\Department of Physics, University of Bath\http://staff.bath.ac.uk/pyspb\\\\
+
+Gregory\Professor Emeritus Richard Langton Gregory\Department of Experimental Psychology, University of Bristol\http://www.richardgregory.org\\\\
+
+Alexander\Professor Robert McNeill Alexander\School of Biology, University of Leeds\\http://www.biology.leeds.ac.uk/\\r.m.alexander@leeds.ac.uk\\
+
+Coleman\Professor Paul Coleman\Department of Physics, University of Bath\\http://www.bath.ac.uk/physics/\\p.g.coleman@bath.ac.uk\\
+
+Davies\Professor Giles Davies\School of Electronic and Electrical Engineering, University of Leeds\http://www.personal.leeds.ac.uk/~eenagd/AGD.html\\\g.davies@leeds.ac.uk\\
+
+Dowsett\Professor Mitch Dowsett\Head of Biochemistry, Institute of Cancer Research\\http://www.icr.ac.uk/\\mitch.dowsett@icr.ac.uk\\
+
+Kraus\Dr. Hans Kraus\Department of Physics, University of Oxford\\http://www.physics.ox.ac.uk/\\h.kraus1@physics.ox.ac.uk\\
+
+Windle\Professor Alan Windle FRS\Department of Materials Science and Metallurgy, University of Cambridge\\\\\\
+Brooke\Professor John Brooke\Department of Theology, University of Oxford\\\\\\
+Iversen\Professor Les Iversen\Department of Pharmacology, University of Oxford\\\\\\
+Haines\Professor Malcolm Haines\Department of Physics, Imperial College London\\\\\\
+
+Das\Dr Shamita Das\Department of Earth Sciences, University of Oxford\\http://www.earth.ox.ac.uk/
+Pearce\Frazer Pearce\School of Physics and Astronomy, Nottingham University\\http://www.nottingham.ac.uk/physics/research/astronomy/
+Brownlee\Professor George G Brownlee, FRS\Sir William Dunn School of Pathology, University of Oxford\\http://www.path.ox.ac.uk/
+Nevill\Professor Nevill and Professor Greg Whyte\University of Wolverhampton and English Institute of Sport
+Patel\Vikram Patel\London School of Hygiene &amp; Tropical Medicine\\http://www.lshtm.ac.uk/
+
+Westwell\Dr Martin Westwell\Institution of the Future of the Mind\\\\\\
+GrantP\Professor Patrick Grant\Cookson Professor of Materials\\\\\\
+Close\Professor Frank Close\Professor of Particle Physics\\\\\\
+Schofield\Professor Chris Schofield\Chemical Research Laboratory\\http://www.chem.ox.ac.uk/researchguide/cjschofield.html\\\\
+
+Fitzgibbon\Dr A Fitzgibbon\Microsoft Research Centre\\http://research.microsoft.com/aboutmsr/labs/cambridge/\\\\
+Tate2\Mr Jay Tate\Spaceguard UK\\http://www.spaceguarduk.com/centre.htm
+Baxter\Elaine Baxter\Topsat Operations Manager, QinetiQ\\http://www.qinetiq.com/home/commercial/space/space_missions_and/development_projects/topsat.html\\\\
+Penrose\Professor Sir Roger Penrose\Oxford University\\http://www.maths.ox.ac.uk/\\\\
+Head\Mr Peter Head\Director of ARUP\\http://www.arup.com/\\\\
+Edwards\Professor Peter Edwards\Oxford University\\http://www.chem.ox.ac.uk/\\\\
+
+Donoghue\Dr Phil Donoghue\Department of Earth Sciences, Bristol University\\\\\\
+McGrath\Reverend Professor Alister McGrath\Professor of Theology, Oxford University\\\\\\
+HPS\High Profile Speaker\\\\\\\
+John Wood\Professor John Wood FREng\Cheif Executive, Council for the Central Laboratories of the Research Councils\\\\\\
+Peter Smith\Professor Peter Smith\Special Professor of Sustainable Energy, University of Nottingham\\\\\\
+Lane\Dr Nick Lane\Honorary Senior Research Fellow, UCL\\\\\\
+Lintott\Dr Chris Lintott\Co-presenter of The Sky at Night\\\\\\
+Career\Career Services\\\\\\\
+
+Sykes\Professor Bryan Sykes\\\\\\\
+Warrington\Professor Elizabeth Warrington\UCL Institute of Cognitive Neuroscience\\\\\\
+Briggs\Professor Andrew Briggs\Professor of nanomaterials, University of Oxford\\\\\\
+Werner\Dr Eric Werner\University of Oxford and Cellnomica Inc\\\\\\
+
+deGrey\Dr Aubrey de Grey\Chairman and Chief Science Officer of the Methuselah Foundation, Cambridge\\\\\\
+Lound\Mr Andrew Lound\UK Regional Coordinator for The Planetary Society\\\\\\
+Peto\Sir Richard Peto\Professor of Medical Statistics and Epidemiology\\\\\\
+Baddeley\Professor Alan Baddeley\Professor of Psychology, York\\\\\\
+Allison\Professor Wade Allison\Professor of Physics, Oxford\\\\\\
+Hodgkin\Professor Jonathan Hodgkin\Professor of Genetics, Oxford\\\\\\
+Ford\Professor Brian J. Ford\Broadcaster and writer\\\\\\
+Wolff\Professor Heinz Wolff\Emeritus Professor of Bioengineering, Brunel\\\\\\
+
+
+# keyname\FullName\Post and Location\personal web\dept web\ address? \e-mailaddy\Subject area\
+
+
+

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<title>Oxford University Scientific Society - Membership</title>
+
+<link rel="shortcut icon" href="/~science/favicon.ico" />
+
+<link type="text/css" rel="stylesheet" href="includes/style.css" />
+
+</head>
+
+<body>
+
+<!--#include file="includes/banner.html"-->
+
+<!--#include file="includes/menu.html"-->
+
+<div id="body">
+
+<h1>Membership</h1>
+
+<h2>It is easy to join the Scientific Society!</h2>
+
+<p>Life membership is &pound;20, Annual membership is &pound;10 if you
+join at any time during the term.  Life membership is just that&mdash;you remain
+a member after having left Oxford and are welcome back, even in your
+old age.</p>
+
+<p>Membership entitles you to free entry to all the society talks,
+normally &pound;2 on the door for non-members. This makes life
+membership a really good deal. Even if you were to only come to two
+talks per term there would still be a saving!</p>
+
+<p>Each lecture is followed by a reception with drinks, snacks, and
+the opportunity to talk to the speaker and meet fellow science students.</p>
+
+<p>If you would like to come to dinner with the speaker beforehand, please
+<a href="mailto:methionine57@gmail.com">email the President</a> (Nessa Carson, University College)
+before 12 midday on the day of the talk.</p>
+
+<p>We can take your money at society meetings or by post to the
+Membership Secretary (LinHao Fang, St Peter's).  Cheques should be made
+payable to "OU Scientific Society".  You can also contact
+<a href="mailto:linhao.fang@spc.ox.ac.uk">linhao.fang@spc.ox.ac.uk</a>
+if you have any questions about membership.</p>
+
+</div>
+
+<!--#include file="includes/footer.html"-->
+
+</body>
+</html>

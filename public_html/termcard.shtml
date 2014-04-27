@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<title>Oxford University Scientific Society - Termcard</title>
+
+<link rel="shortcut icon" href="/~science/favicon.ico" />
+
+<link type="text/css" rel="stylesheet" href="includes/style.css" />
+
+<script type="text/javascript">
+<!--
+/**
+ * Converts an xs:date or xs:dateTime formatted string into the local timezone
+ * and outputs a human-readable form of this date or date/time.
+ *
+ * @param {string} gCalTime is the xs:date or xs:dateTime formatted string
+ * @return {string} is the human-readable date or date/time string
+ */
+function formatGCalTime(gCalTime) {
+  // text for regex matches
+  var remtxt = gCalTime;
+
+  function consume(retxt) {
+    var match = remtxt.match(new RegExp('^' + retxt));
+    if (match) {
+      remtxt = remtxt.substring(match[0].length);
+      return match[0];
+    }
+    return '';
+  }
+
+  // minutes of correction between gCalTime and GMT
+  var totalCorrMins = 0;
+
+  var year = consume('\\d{4}');
+  consume('-?');
+  var month = consume('\\d{2}');
+  consume('-?');
+  var dateMonth = consume('\\d{2}');
+  var timeOrNot = consume('T');
+
+  // if a DATE-TIME was matched in the regex
+  if (timeOrNot == 'T') {
+    var hours = consume('\\d{2}');
+    consume(':?');
+    var mins = consume('\\d{2}');
+    consume('(:\\d{2})?(\\.\\d{3})?');
+    var zuluOrNot = consume('Z');
+
+    // if time from server is not already in GMT, calculate offset
+    if (zuluOrNot != 'Z') {
+      var corrPlusMinus = consume('[\\+\\-]');
+      if (corrPlusMinus != '') {
+        var corrHours = consume('\\d{2}');
+        consume(':?');
+        var corrMins = consume('\\d{2}');
+        totalCorrMins = (corrPlusMinus=='-' ? 1 : -1) *
+            (Number(corrHours) * 60 +
+	    (corrMins=='' ? 0 : Number(corrMins)));
+      }
+    }
+
+    // get time since epoch and apply correction, if necessary
+    // relies upon Date object to convert the GMT time to the local
+    // timezone
+    var originalDateEpoch = Date.UTC(year, month - 1, dateMonth, hours, mins);
+    var gmtDateEpoch = originalDateEpoch + totalCorrMins * 1000 * 60;
+    var ld = new Date(gmtDateEpoch);
+
+    // date is originally in YYYY-MM-DD format
+    // time is originally in a 24-hour format
+    // this converts it to MM/DD hh:mm (AM|PM)
+    dateString = ld.getDate() + '/' + (ld.getMonth() + 1) + ' ' +
+        ((ld.getHours()>12)?(ld.getHours()-12):(ld.getHours()===0?12:
+	ld.getHours())) + ':' + ((ld.getMinutes()<10)?('0' +
+	ld.getMinutes()):(ld.getMinutes())) + ' ' +
+	((ld.getHours()>=12)?'pm':'am');
+  } else {
+    // if only a DATE was matched
+    dateString =  parseInt(month, 10) + '/' + parseInt(dateMonth, 10);
+  }
+  return dateString;
+}
+
+/**
+ * Creates an unordered list of events in a human-readable form
+ *
+ * @param {json} root is the root JSON-formatted content from GData
+ * @param {string} divId is the div in which the events are added
+ */
+function listEvents(root, divId) {
+  var feed = root.feed;
+  var events = document.getElementById(divId);
+
+  if (events.childNodes.length > 0) {
+    events.removeChild(events.childNodes[0]);
+  }
+
+  // create a new unordered list
+  var ul = document.createElement('ul');
+
+  // loop through each event in the feed
+  for (var i = 0; i < feed.entry.length; i++) {
+    var entry = feed.entry[i];
+    var title = entry.title.$t;
+    var start = entry['gd$when'][0].startTime;
+
+    // get the URL to link to the event
+    for (var linki = 0; linki < entry['link'].length; linki++) {
+      if (entry['link'][linki]['type'] == 'text/html' &&
+          entry['link'][linki]['rel'] == 'alternate') {
+        var entryLinkHref = entry['link'][linki]['href'];
+      }
+    }
+
+    var dateString = formatGCalTime(start);
+    var li = document.createElement('li');
+
+    // if we have a link to the event, create an 'a' element
+    if (typeof entryLinkHref != 'undefined') {
+      entryLink = document.createElement('a');
+      entryLink.setAttribute('href', entryLinkHref);
+      entryLink.appendChild(document.createTextNode(title));
+      li.appendChild(entryLink);
+      li.appendChild(document.createTextNode(' - ' + dateString));
+    } else {
+      li.appendChild(document.createTextNode(title + ' - ' + dateString));
+    }
+
+    // append the list item onto the unordered list
+    ul.appendChild(li);
+  }
+  events.appendChild(ul);
+}
+
+/**
+ * Callback function for the GData json-in-script call
+ * Inserts the supplied list of events into a div of a pre-defined name
+ *
+ * @param {json} root is the JSON-formatted content from GData
+ */
+function insertAgenda(root) {
+  listEvents(root, 'agenda');
+}
+//-->
+</script>
+
+</head>
+
+<body>
+
+<!--#include file="includes/banner.html"-->
+
+<!--#include file="includes/menu.html"-->
+
+<div id="body">
+
+<h1>Termcard</h1>
+
+<p>Unless otherwise stated, lectures take place at 8:15pm in the Inorganic Chemistry Lecture Theatre <a href="http://maps.google.co.uk/maps?f=q&hl=en&geocode=&q=Inorganic+Chemistry,+South+Parks+Road,+OX1+3QR&sll=51.758235,-1.254864&sspn=0.243537,0.491638&ie=UTF8&ll=51.758002,-1.255032&spn=0.001903,0.003841&t=h&z=18&om=0">on South Parks Road</a>.</p>
+
+Sometimes we <a href="http://www.ustream.tv/channel/lauriepycroft">live-stream</a> special events.
+<a href="http://users.ox.ac.uk/~science/#video">Video recordings</a> will be posted whenever we can.
+Posters announcing the most exciting new events appear on the
+<a href="http://users.ox.ac.uk/~science/">main page</a>.
+
+<h2>Events calendar</h2>
+
+<div id="agenda"><p>Loading...</p></div>
+
+<script type="text/javascript" src="http://www.google.com/calendar/feeds/tu4d4p7f5e4hf5idtu916mc0sk%40group.calendar.google.com/public/full?alt=json-in-script&callback=insertAgenda&orderby=starttime&max-results=15&singleevents=true&sortorder=ascending&futureevents=true"></script>
+
+<p>You can view the termcard in <a target="_blank" href="http://www.google.com/calendar/embed?src=tu4d4p7f5e4hf5idtu916mc0sk%40group.calendar.google.com&ctz=Europe/London ">Google Calendar</a> or you can <a href="http://www.google.com/calendar/ical/tu4d4p7f5e4hf5idtu916mc0sk%40group.calendar.google.com/public/basic.ics">import the termcard</a> into any calendar that uses the iCal format.</p>
+
+<h2>Previous events</h2>
+
+<p>For previous Oxford University Scientific Society events see the <a href="termcard_archive.shtml">Termcard archive</a>.</p>
+
+</div>
+
+<!--#include file="includes/footer.html"-->
+
+</body>
+</html>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<title>Oxford University Scientific Society - Sponsorship</title>
+
+<link rel="shortcut icon" href="/~science/favicon.ico" />
+
+<link type="text/css" rel="stylesheet" href="includes/style.css" />
+
+</head>
+
+<body>
+
+<!--#include file="includes/banner.html"-->
+
+<!--#include file="includes/menu.html"-->
+
+<div id="body">
+
+<h1>Sponsorship</h1>
+
+<h2>The Oxford University Scientific Society are sponsored by QinetiQ</h2>
+
+<h3>Join the transformers</h3>
+
+<p>At QinetiQ, we believe in mind over matter. We believe that if your mind is open, agile and inventive enough you can achieve just about anything. And we've got proof. We create incredible solutions to seemingly insurmountable problems. But we don't stop there. We take those solutions and transform them into a whole range of even more astounding commercial applications.</p>
+
+<p>So a signal processing system designed for the defence arena becomes a revolutionary heart monitor for babies still in the womb. A material developed to sound-proof helicopters becomes the flat panel speakers on your new TV or Hi-Fi. And the stealth technology we developed for fighter jets now helps to build wind farms.</p>
+
+<p>A world-renowned defence, technology and security company, with a culture inspired by groundbreaking research, we deliver commercial value from science. That means combining the imagination and energy of some of the world's leading research scientists with the research rigour and forward thinking required in the defence world and bringing it to the widest possible range of civil projects.</p>
+
+<p>So, we offer a similarly broad range of careers covering operational analysis, scientific research, development, test and evaluation and project management - in fields ranging from media to healthcare, aerospace to security and telecoms to transport.</p>
+
+<p>For a fuller picture of QinetiQ and to apply online to our all-year-round recruitment programme, visit <a href="www.QinetiQ.com/careers">www.QinetiQ.com/careers</a></p>
+
+<h2>Sponsoring the Oxford University Scientific Society</h2>
+
+<p>Inviting good speakers from around the UK can be very expensive, and in order to continue doing so we need continued sponsorship.</p>
+
+<p>If you are part of an organisation or company that would like to foster an active interest in science amongst undergraduates (of any subject), and you would like to sponsor us, then please send us an email (<a href="mailto:scientific.society@studentclubs.ox.ac.uk">scientific.society@studentclubs.ox.ac.uk</a>).</p>
+
+</div>
+
+<!--#include file="includes/footer.html"-->
+
+</body>
+</html>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<title>Oxford University Scientific Society - About</title>
+
+<link rel="shortcut icon" href="/~science/favicon.ico" />
+
+<link type="text/css" rel="stylesheet" href="includes/style.css" />
+
+</head>
+
+<body>
+
+<!--#include file="includes/banner.html"-->
+
+<!--#include file="includes/menu.html"-->
+
+<div id="body">
+
+<h1>About the Oxford University Scientific Society</h1>
+
+<h2 id="com">The current committee</h2>
+
+<p>The activity required to maintain the smooth running of
+the society is provided by the Committee, a group of selfless,
+CV-obsessed individuals devoted to running the society,
+ensuring that the speakers turn up and are fed, ensuring that
+more speakers turn up for next term, ensuring that the audience
+turns up, putting up pretty posters, and sending out emails
+to alert everyone of what the Society will do next.</p>
+
+<table>
+
+<tr><th>Role</th><th>Name</th></tr>
+
+
+<tr><td>Senior Member</td><td>Professor Kay Davies FRS (Genetics)</td></tr>
+
+<tr><td>Patron</td><td>Professor Peter Atkins (Chemistry)</td></tr>
+
+<tr><td>Patron</td><td>Professor Colin Blakemore (Physiology)</td></tr>
+
+<tr><td>Patron</td><td>Professor Richard Dawkins (Zoology)</td></tr>
+
+<tr><td>Patron</td><td>Professor Sir Roger Penrose (Mathematics)</td></tr>
+
+
+<tr><td>President</td><td>Jane Duncan (St Hugh's)</td></tr>
+
+<tr><td>Vice President</td><td>Jakub Sowa (Hertford)</td></tr>
+
+<tr><td>Secretary</td><td>Aimee Guha Roy (LMH)</td></tr>
+
+<tr><td>Co-Treasurers</td><td>Garrick Taylor (Biochemistry) and Tomas Halgas (Univ.)</td></tr>
+
+<tr><td>Membership Secretary</td><td>Sophi Shanmuganathan (St Hugh's)</td></tr>
+
+<tr><td>Sponsorship Secretaries</td><td>Petr Kalugin (St Anne's) [Head] and Avi Roy (LMH)
+	and Tomas Halgas (Univ.)</td></tr>
+
+<tr><td>Publicity Secretary</td><td>Nessa Carson (Univ.)</td></tr>
+
+<tr><td>Events Coordinator</td><td>Avi Roy (LMH)</td></tr>
+
+<tr><td>AV Officer</td><td>Jane Duncan (St Hugh's)</td></tr>
+
+<tr><td>IT Officer</td><td>Joe Loughry (St Cross)</td></tr>
+
+</table>
+
+<p>Previous members of the Oxford University Scientific Society
+committee can be seen in the
+<a href="committee_archive.shtml">Committee archive</a>.</p>
+
+<h2>Join the committee</h2>
+
+<p>
+There is a high turnover of committee members, so we are constantly seeking
+committed, resourceful people to join the team of students who are responsible
+for the running of one of Oxford's oldest and largest societies. There are a
+variety of posts available catering for different skills and interests.  If
+there are none you like, we can invent one for you.  Everyone is welcome at
+committee meetings.  Elections for next term will take place after the last
+lecture of each term (this year in Week 8, Wednesday 6th March 2013).
+</p>
+
+<h2>Related Oxford University Societies</h2>
+
+<ul>
+	<li><a href="http://www.geocities.com/ouarchsoc/ " rel="external">Archaeological Society</a></li>
+	<li><a href="http://www.robots.ox.ac.uk/~aisoc/" rel="external">Artificial Intelligence Society</a></li>
+	<li><a href="http://www.bioch.ox.ac.uk/~oubs" rel="external">Biochemical Society</a></li>
+	<li><a href="http://users.ox.ac.uk/~chemsoc/" rel="external">Chemistry Society</a></li>
+	<li><a href="http://www.ox.compsoc.net/" rel="external">Computer Society</a></li>
+	<li><a href="http://users.ox.ac.uk/~ouengsoc/" rel="external">Engineering Society</a></li>
+	<li><a href="http://users.ox.ac.uk/~invar/" rel="external">Invariant Society</a></li>
+	<li><a href="http://oubiomedsoc.wordpress.com" rel="external">Oxford Biomedical Sciences Society (OUBiomedSoc)</a></li>
+	<li><a href="http://www.freewebs.com/oxfordphyssoc/" rel="external">Oxford Physics Society</li>
+	<li><a href="http://users.ox.ac.uk/~space/" rel="external">Oxford Space and Astronomical Society</a></li>
+</ul>
+
+
+<h2>Science Societies from other Universities</h2>
+
+<ul>
+	<li><a href="http://www.cam.ac.uk/CambUniv/Societies/cuss/" rel="external">Cambridge University Scientific Society</a> - our competitors in the Other Place. We have a reciprocal membership agreement with them, so you can go to their events if you happen to be in Cambridge.</li>
+	<li><a href="http://www.gu.uwa.edu.au/clubs/sciunion/about.html" rel="external">The University of Western Australia Science Society</a>, who came across our page by some never-adequately-explained coincidence and asked for a link. I'm sure you'd be welcome there, but the flights are quite expensive.</li>
+</ul>
+
+
+</div>
+
+<!--#include file="includes/footer.html"-->
+
+</body>
+</html>

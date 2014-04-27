@@ -1,0 +1,814 @@
+head	1.2;
+access;
+symbols;
+locks
+	science:1.2; strict;
+comment	@# @;
+
+
+1.2
+date	2009.05.13.11.18.44;	author science;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2009.05.13.11.10.58;	author science;	state Exp;
+branches;
+next	;
+
+
+desc
+@Term Card Archive for the Oxford University Scientific Society (OUSS)
+@
+
+
+1.2
+log
+@updated with Prof Simon Baran-Cohen's cancellation
+@
+text
+@<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<title>Oxford University Scientific Society - Termcard archive</title>
+
+<link rel="shortcut icon" href="/~science/favicon.ico" />
+
+<link type="text/css" rel="stylesheet" href="/~science/includes/style.css" />
+
+</head>
+
+<body>
+
+<!--#include file="includes/banner.html"-->
+
+<!--#include file="includes/menu.html"-->
+
+<div id="body">
+
+<h1>Termcard archive</h1>
+
+
+<p>View <a href="http://users.ox.ac.uk/~science/termcard.shtml">the current termcard</a>.</p>
+
+<table>
+
+
+<tr>
+<th colspan="4" class="center_headings">Trinity Term 2009</th>
+</tr>
+
+<tr>
+<th>When</th>
+<th>Where</th>
+<th>Who</th>
+<th>What</th>
+</tr>
+
+<tr><td>First Week - <b>Thursday</b> 30th April 2009 - 8:15pm</td><td>ICL</td><td>Professor Lynn Margulis, University of Massachusetts Amherst</td><td><a href="http://users.ox.ac.uk/~science/termcards/tt09.shtml#1">Early Evolution of Earth's Life</a></td></tr>
+<tr><td>Fourth Week - <b>Monday</b> 18th May 2009 - 8:15pm<sup>*</sup><br><sup>*</sup><b>CANCELLED</b></td><td>ICL</td><td>Professor Simon Baron-Cohen, University of Cambridge</td><td><a href="http://users.ox.ac.uk/~science/termcards/tt09.shtml#3">Prenatal Testosterone in Mind</a></td></tr>
+<tr><td>Fourth Week - Wednesday 20th May 2009 - <b>6:00pm</b></td><td>ICL</td><td>Professor Sir David King, University of Oxford</td><td><a href="http://users.ox.ac.uk/~science/termcards/tt09.shtml#4">TBA</a>&nbsp;</td></tr>
+<tr><td>Fifth Week - Wednesday 27th May 2009 - 8:15pm</td><td>ICL</td><td>Professor Peter Atkins, University of Oxford</td><td><a href="http://users.ox.ac.uk/~science/termcards/tt09.shtml#5">The Nature of Energy</a></td></tr>
+
+
+<tr>
+<th colspan="4" class="center_headings">Hilary Term 2009</th>
+</tr>
+
+<tr>
+<th>When</th>
+<th>Where</th>
+<th>Who</th>
+<th>What</th>
+</tr>
+
+<tr><td>First Week - Wednesday 21st Jan 2009 - 8:15pm</td><td><b>Martin Wood Lecture Theatre, Clarendon Lab</b></td><td>Susie Sheehy and Andrew Steele</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht09.shtml#1"><i>Accelerate!</i> Physics Show</a></td></tr>
+<tr><td>Second Week - Wednesday 28th Jan 2009 - 8:15pm</td><td>ICL</td><td>Nick Lane&mdash;Popular Science Author</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht09.shtml#2">From the Origin of Life to the Origin of Complexity</a></td></tr>
+<tr><td>Third Week - Wednesday 4th Feb 2009 - 8:15pm</td><td>ICL</td><td>Prof Dennis Noble, Oxford</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht09.shtml#3">The Music of Life: How to Put Humpty-Dumpty Back Together Again</a></td></tr>
+<tr><td>Fourth Week - Wednesday 11th Feb 2009 - 8:15pm</td><td>ICL</td><td>Dr Jim Bennett, Museum of the History of Science</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht09.shtml#4">What is the (Museum of the) History of Science for?</a></td></tr>
+<tr><td>Fifth Week - Wednesday 18th Feb 2009 - <b>7:00pm</b></td><td>ICL</td><td>Prof Simon Conway-Morris, University of Cambridge</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht09.shtml#5">Darwin's Compass: How Evolution Discovers the Song of Creation</a></td></tr>
+<tr><td>Sixth Week - Wednesday 25th Feb 2009 - 8:15pm<sup>*</sup><br><sup>*</sup><b>CANCELLED</b></td><td>ICL</td><td>Prof Joyce Tait, University of Edinburgh</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht09.shtml#6">Science and Technology Foresight&mdash;Can we do it?</a></td></tr>
+<tr><td>Seventh Week - Wednesday 4th Mar 2009 - 8:15pm</td><td>ICL</td><td>Prof Peter Donnelly</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht09.shtml#7">The Genetics of Common Human Diseases</a></td></tr>
+<tr><td>Eighth Week - Wednesday 11th Mar 2009 - 8:15pm</td><td>ICL</td><td>Sir Peter Mansfield, Nottingham</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht09.shtml#8a">Snap-shot MRI and Beyond</a></td></tr>
+<tr><td>Eighth Week - <b>Thursday</b> 12th Mar 2009 - 8:15pm<sup>*</sup><br><sup>*</sup><b>CANCELLED</b></td><td>ICL</td><td>Prof Andrew de Mello, Imperial College London</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht09.shtml#8b">Chemical Nanoscience</a></td></tr>
+
+
+<tr>
+<th colspan="4" class="center_headings">Michaelmas Term 2008</th>
+</tr>
+
+<tr>
+<th>When</th>
+<th>Where</th>
+<th>Who</th>
+<th>What</th>
+</tr>
+
+<tr><td>First Week - Wednesday 15th Oct 2008 - 7:00&ndash;9:00pm</td><td>ICL</td><td>Welcome drinks</td><td>&nbsp;</td></tr>
+<tr><td>Second Week - Wednesday 22nd Oct 2008 - 8:15pm</td><td>ICL</td><td>Prof Sir Alec Jeffreys, Royal Society</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt08.shtml#2">Genetic Fingerprinting and Beyond</a></td></tr>
+<tr><td>Third Week - Wednesday 29th Oct 2008 - 8:15pm</td><td>ICL</td><td>Prof Tim Hunt</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt08.shtml#3">Getting in and out of mitosis</a></td></tr>
+<tr><td>Fourth Week - Wednesday 5th Nov 2008 - 8:15pm</td><td>ICL</td><td>Dr Fumiko Esashi</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt08.shtml#4">Old and new role of CDKs in the maintenance of genome integrity</a></td></tr>
+<tr><td>Fifth Week - Wednesday 12th Nov 2008 - 8:15pm<sup>*</sup><br><sup>*</sup><b>CANCELLED</b></td><td>ICL</td><td>Sir Peter Mansfield</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt08.shtml#5">Snap-shot MRI and Beyond</a></td></tr>
+<tr><td>Sixth Week - <b>Tuesday</b> 18th Nov 2009 - 8:15pm</td><td>ICL</td><td>Prof John Walker</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt08.shtml#6">Oxygen, Energy Conversion, Life and Health</a></td></tr>
+<tr><td>Seventh Week - Wednesday 26th Nov 2009 - 8:15pm<sup>*</sup><br><sup>*</sup><b>CANCELLED</b></td><td>ICL</td><td>Prof Jean Beggs</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt08.shtml#7">TBA</a></td></tr>
+<tr><td>Eighth Week - <b>Tuesday</b> 2nd Dec 2009 - 8:15pm</td><td>ICL</td><td>Prof Colin Blakemore</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt08.shtml#8">Vision Impossible</a></td></tr>
+
+
+<tr>
+<th colspan="4" class="center_headings">Trinity Term 2008</th>
+</tr>
+
+<tr>
+<th>When</th>
+<th>Where</th>
+<th>Who</th>
+<th>What</th>
+</tr>
+
+<tr><td>First Week - 24 April 2008 - 8:15pm</td><td>ICL</td><td>Dr Paul JA Howarth, Director of Research, Dalton Nuclear Institute, Manchester University</td><td><a href="http://users.ox.ac.uk/~science/termcards/tt08.shtml#1">Future Energy Policy - The Role of Nuclear</a></td></tr>
+<tr><td>Second Week - 30 April 2008 - 8:15pm</td><td>ICL</td><td>John E Walker, Medical Research Council Dunn Human Nutrition Unit, Cambridge, UK</td><td><a href="http://users.ox.ac.uk/~science/termcards/tt08.shtml#2">Oxygen, Energy Conversion, Life and Health</a></td></tr>
+<tr><td>Third Week - 7 May 2008 - 8:15pm</td><td>ICL</td><td>Professor Richard Crowther, Head of Space Technology, Rutherford Appleton Laboratory</td><td><a href="http://users.ox.ac.uk/~science/termcards/tt08.shtml#3">The Outlook For Near-Earth Space Exploration</a></td></tr>
+<tr><td>Fourth Week - 12 May 2008 - 8:15pm</td><td>ICL</td><td>Jacob Klein</td><td><a href="http://users.ox.ac.uk/~science/termcards/tt08.shtml#4">Israeli Medical Developments: Saving Lives Worldwide</a></td></tr>
+<tr><td>Fourth Week - 14 May 2008 - 8:15pm</td><td>ICL</td><td>EFDA-JET, Culham Science Centre</td><td><a href="http://users.ox.ac.uk/~science/termcards/tt08.shtml#5">OUSS Visit to the Joint European Torus (JET)</a></td></tr>
+<tr><td>Eighth Week - 9 June 2008 6:30pm</td><td>Clarendon Laboratory, Parks Road</td><td>Susan Greenfield</td><td><a href="http://users.ox.ac.uk/~science/termcards/tt08.shtml#6">ID: The Quest for Identity in the 21st Century</a></td></tr>
+
+
+<tr>
+<th colspan="4" class="center_headings">Hilary Term 2008</th>
+</tr>
+
+<tr>
+<th>When</th>
+<th>Where</th>
+<th>Who</th>
+<th>What</th>
+</tr>
+
+<tr><td>Wednesday second week (23 January) 8:15pm</td><td>ICL</td><td>Professor Andrew Briggs, Department of Materials, University of Oxford</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht08.shtml#2">The Emerging Discipline of Quantum Nanoscience</a></td></tr>
+<tr><td>Wednesday third week (30 January) 8:15pm</td><td>ICL</td><td>Professor Brian Ford, Broadcaster and writer, Leicester</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht08.shtml#3">The Intelligence of Cells</a></td></tr>
+<tr><td>Wednesday forth week (6 February) 8:15pm</td><td>ICL</td><td>Professor Graham Richards, Department of Chemistry, University of Oxford</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht08.shtml#4">Molecules by the Million - the use of computers in drug discovery</a></td></tr>
+<tr><td>Wednesday sixth week (20 February) 8:15pm</td><td>ICL</td><td>Professor Philip Maini, Mathematical Institute, University of Oxford</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht08.shtml#6">Mathematical Modelling of Solid Cancer Growth</a></td></tr>
+<tr><td>Wednesday eighth week (5 March) 8:15pm</td><td>ICL</td><td>Mr Kamil Fadel, Palais de la découverte, Paris</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht08.shtml#8">Lucky Life & Magic Furnace</a></td></tr>
+
+<tr>
+<th colspan="4" class="center_headings">Michealmas Term 2007</th>
+</tr>
+
+<tr>
+<th>When</th>
+<th>Where</th>
+<th>Who</th>
+<th>What</th>
+</tr>
+
+<tr><td>Wednesday first week (October 10th) 8:15pm</td><td>Lincoln College</td><td colspan="2">Welcome Drinks</td></tr>
+<tr><td>Wednesday second week (October 17th) 8:15pm</td><td>ICL</td><td>Dr Aubrey de Grey (Chairman and Chief Science Officer of the Methuselah Foundation, Cambridge)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt07.shtml#deGrey">Prospects for extending healthy life - a lot</a></td></tr>
+<tr><td>Wednesday third week (December 31st) 8:15pm</td><td>ICL</td><td>Mr Andrew Lound (UK Regional Coordinator for The Planetary Society)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt07.shtml#Lound">To see the beginning of Time</a></td></tr>
+<tr><td>Wednesday fourth week (October 31st) 7:30pm</td><td>ICL</td><td>Sir Richard Peto (Professor of Medical Statistics and Epidemiology)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt07.shtml#Peto">Halving premature death</a></td></tr>
+<tr><td>Wednesday fifth week (November 7th) 8:15pm</td><td>ICL</td><td>Professor Alan Baddeley (Professor of Psychology, York)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt07.shtml#Baddeley">Developing the concept of working memory</a></td></tr>
+<tr><td>Wednesday sixth week (November 14th) 8:15pm</td><td>ICL</td><td>Professor Wade Allison (Professor of Physics, Oxford)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt07.shtml#Allison">Nuclear without fear</a></td></tr>
+<tr><td>Monday seventh week (November 19th) 8:15pm</td><td>ICL</td><td>Professor Jonathan Hodgkin (Professor of Genetics, Oxford)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt07.shtml#Hodgkin">Studying bacterial warfare using a tiny nematode worm</a></td></tr>
+<tr><td>Thursday seventh week (November 22nd) </td><td></td><td colspan="2">Black Tie Dinner</td></tr>
+<tr><td>Wednesday eighth week (November 28th) 8:15pm</td><td>ICL</td><td>Professor Heinz Wolff (Emeritus Professor of Bioengineering, Brunel)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt07.shtml#Wolff">Science, Society, Education and the Future. Have we got it all wrong?</a></td></tr>
+<tr><td>Wednesday eighth week (November 28th) </td><td></td><td colspan="2">Tour of Rutherford Appleton Laboratory</td></tr>
+
+<tr>
+<th colspan="4" class="center_headings">Trinity Term 2007</th>
+</tr>
+
+<tr>
+<th>When</th>
+<th>Where</th>
+<th>Who</th>
+<th>What</th>
+</tr>
+
+<tr><td>Wednesday first week (April 25th) 8:15pm</td><td>ICL</td><td>Dr Eric Werner (University of Oxford and Cellnomica Inc)</td><td><a href="http://users.ox.ac.uk/~science/termcards/tt07.shtml#Werner">What do genes mean?</a></td></tr>
+<tr><td>Wednesday second week (May 2nd) 8:15pm</td><td>ICL</td><td>Professor Andrew Briggs (Professor of nanomaterials, University of Oxford)</td><td><a href="http://users.ox.ac.uk/~science/termcards/tt07.shtml#Briggs">The emerging discipline of quantum nanoscience</a></td></tr>
+<tr><td>Wednesday third week (May 9th) 6:00pm</td><td>ICL</td><td>Professor Elizabeth Warrington (UCL Institute of Cognitive Neuroscience)</td><td><a href="http://users.ox.ac.uk/~science/termcards/tt07.shtml#Warrington">The organization of knowledge systems in the brain</a></td></tr>
+<tr><td>Wednesday fourth week (May 16th) 8:15pm</td><td>ICL</td><td>Professor Bryan Sykes ()</td><td><a href="http://users.ox.ac.uk/~science/termcards/tt07.shtml#Sykes">To be announced</a></td></tr>
+
+<tr>
+<th colspan="4" class="center_headings">Hilary Term 2007</th>
+</tr>
+
+<tr>
+<th>When</th>
+<th>Where</th>
+<th>Who</th>
+<th>What</th>
+</tr>
+
+<tr><td>Wednesday first week (January 17th) 8:15pm</td><td>ICL</td><td>Dr Chris Lintott (Co-presenter of The Sky at Night)</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht07.shtml#Lintott">The 1st Stars</a></td></tr>
+<tr><td>Wednesday second week (January 24th) 8:15pm</td><td>ICL</td><td>Dr Nick Lane (Honorary Senior Research Fellow, UCL)</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht07.shtml#Lane">Power, Sex, Suicide: Mitochondria and the Meaning of Life</a></td></tr>
+<tr><td>Saturday second week (January 27th) 11:15pm</td><td>Exam Schools</td><td>Career Services ()</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht07.shtml#Career">Alternatives for Scientists</a></td></tr>
+<tr><td>Monday third week (January 29th) 8:15pm</td><td>ICL</td><td>Elaine Baxter (<a href="http://www.qinetiq.com/home/commercial/space/space_missions_and/development_projects/topsat.html">Topsat Operations Manager, QinetiQ</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht07.shtml#Baxter">TopSat - low cost imagery from space</a></td></tr>
+<tr><td>Wednesday third week (January 31st) 5:00pm</td><td>New College Lecture Room 6</td><td colspan="2"><a href="http://users.ox.ac.uk/~science/termcards/ht07.shtml#Accenture">Accenture Career Event: What is Management Consultancy?</a></td></tr>
+<tr><td>Wednesday fourth week (February 7th) 8:15pm</td><td>ICL</td><td>Professor Peter Smith (Special Professor of Sustainable Energy, University of Nottingham)</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht07.shtml#Peter Smith">Beware the Tipping Point: A Scenario for Renewables</a></td></tr>
+<tr><td>Wednesday fifth week (February 14th) 8:15pm</td><td>ICL</td><td>Professor John Wood FREng (Cheif Executive, Council for the Central Laboratories of the Research Councils)</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht07.shtml#John Wood">Big Science and Materials: Opportunities, Breakthroughs and the Future</a></td></tr>
+<tr><td>Friday fifth week (February 16th) 8:15pm</td><td>TBC</td><td>High Profile Speaker</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht07.shtml#hps">Animals in Medical Research: Magic or Tragic?</a></td></tr>
+<tr><td>Tuesday seventh week (February 27th) 1:45pm</td><td>MINI Factory</td><td colspan="2"><a href="http://users.ox.ac.uk/~science/termcards/ht07.shtml#Mini">Tour of the MINI Factory Plant</a></td></tr>
+<tr><td>Wednesday sixth week (February 21st) 8:15pm</td><td>ICL</td><td>Professor Chris Leaver (Head of the Department of Plant Sciences, University of Oxford)</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht07.shtml#Leaver">GM Crops: Food for Thought</a></td></tr>
+<tr><td>Tuesday seventh week (February 27th) 8:15pm</td><td>Martin Wood Lecture Theatre</td><td>Reverend Professor Alister McGrath (Professor of Theology, Oxford University)</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht07.shtml#McGrath">Has Science Disproved God? Richard Dawkins on the 'God Delusion'</a></td></tr>
+<tr><td>Wednesday eighth week (March 7th) 8:15pm</td><td>ICL</td><td>Dr Phil Donoghue (Department of Earth Sciences, Bristol University)</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht07.shtml#Donoghue">Paleontology, Particle Physics and Penis Worms</a></td></tr>
+
+<tr>
+<th colspan="4" class="center_headings">Michealmas Term 2006</th>
+</tr>
+
+<tr>
+<th>When</th>
+<th>Where</th>
+<th>Who</th>
+<th>What</th>
+</tr>
+
+<tr><td>Wednesday first week (October 11th) 8:15pm</td><td>ICL</td><td colspan="2">Welcome drinks</td></tr>
+<tr><td>Wednesday second week (October 18th) 8:15pm</td><td>ICL</td><td>Dr A Fitzgibbon (<a href="http://research.microsoft.com/aboutmsr/labs/cambridge/">Microsoft Research Centre</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt06.shtml#Fitzgibbon">Computer Vision and the Geometry of Nature</a></td></tr>
+<tr><td>Wednesday third week (October 25th) 8:15pm</td><td>ICL</td><td>Reverend Ron Lancaster MBE (<a href="http://kimboltonfireworks.co.uk">Kimbolton Fireworks</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt06.shtml#Lancaster">Fireworks: Principles and Practice</a></td></tr>
+<tr><td>Thursday third week (October 26th) 2:30pm</td><td>Museum of the History of Science</td><td colspan="2"><a href="http://users.ox.ac.uk/~science/termcards/mt06.shtml#MusHist">Tour of the Oxford Museum of the History of Science</a></td></tr>
+<tr><td>Wednesday fourth week (November 1st) 8:15pm</td><td>ICL</td><td>Mr Jay Tate (<a href="http://www.spaceguarduk.com/centre.htm">Spaceguard UK</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt06.shtml#Tate2">Avoiding Armageddon</a></td></tr>
+<tr><td>Monday fifth week (November 6th) 8:15pm</td><td>ICL</td><td>Elaine Baxter (<a href="http://www.qinetiq.com/home/commercial/space/space_missions_and/development_projects/topsat.html">Topsat Operations Manager, QinetiQ</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt06.shtml#Baxter">Topsat: low cost imagery from space</a></td></tr>
+<tr><td>Wednesday fifth week (November 8th) 8:15pm</td><td>ICL</td><td>Professor Steven Jones (<a href="http://www.gene.ucl.ac.uk/">Professor of Genetics at University College London</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt06.shtml#Jones">Why intelligent design is for stupid people</a></td></tr>
+<tr><td>Wednesday sixth week (November 15th) 8:15pm</td><td>Martin Wood</td><td>Professor Sir Roger Penrose (<a href="http://www.maths.ox.ac.uk/">Oxford University</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt06.shtml#Penrose">Before the Big Bang: A radical solution to a profound cosmological mystery</a></td></tr>
+<tr><td>Friday sixth week (November 17th) 1:40pm</td><td>TBC</td><td colspan="2"><a href="http://users.ox.ac.uk/~science/termcards/mt06.shtml#PowerStation">Trip to Didcot Power Station</a></td></tr>
+<tr><td>Wednesday seventh week (November 22nd) 8:15pm</td><td>ICL</td><td>Mr Peter Head (<a href="http://www.arup.com/">Director of ARUP</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt06.shtml#Head">The Dontang Eco-City Project</a></td></tr>
+<tr><td>Thursday seventh week (November 23rd) TBC</td><td>Lincoln College</td><td colspan="2"><a href="http://users.ox.ac.uk/~science/termcards/mt06.shtml#Dinner">OU Scientific Society Black Tie Dinner</a></td></tr>
+<tr><td>Wednesday eighth week (November 29th) 8:15pm</td><td>ICL</td><td>Professor Peter Edwards (<a href="http://www.chem.ox.ac.uk/">Oxford University</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt06.shtml#Edwards">Hydrogen: Key to a sustainable energy future?</a></td></tr>
+
+<tr>
+<th colspan="4" class="center_headings">Trinity Term 2006</th>
+</tr>
+
+<tr>
+<th>When</th>
+<th>Where</th>
+<th>Who</th>
+<th>What</th>
+</tr>
+
+<tr><td>Wednesday first week (April 26th) 8:15pm</td><td>ICL</td><td>Dr Martin Westwell (Institution of the Future of the Mind)</td><td><a href="http://users.ox.ac.uk/~science/termcards/tt06.shtml#Westwell">The future of the mind</a></td></tr>
+<tr><td>Wednesday second week (May 3rd) 8:15pm</td><td>ICL</td><td>Professor Patrick Grant (Cookson Professor of Materials)</td><td><a href="http://users.ox.ac.uk/~science/termcards/tt06.shtml#Grant">The manufacture of new materials for industrial applications using droplets</a></td></tr>
+<tr><td>Wednesday third week (May 10th) 8:15pm</td><td>ICL</td><td>Professor Frank Close (Professor of Particle Physics)</td><td><a href="http://users.ox.ac.uk/~science/termcards/tt06.shtml#Close">The Particle Odyssey</a></td></tr>
+<tr><td>Wednesday fourth week (May 17th) 8:15pm</td><td>ICL</td><td>Professor Chris Schofield (<a href="http://www.chem.ox.ac.uk/researchguide/cjschofield.html">Chemical Research Laboratory</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/tt06.shtml#Schofield">The chemistry of natural oxygen sensing</a></td></tr>
+
+<tr>
+<th colspan="4" class="center_headings">Hilary Term 2006</th>
+</tr>
+
+<tr>
+<th>When</th>
+<th>Where</th>
+<th>Who</th>
+<th>What</th>
+</tr>
+
+<tr><td>Saturday first week (January 21st) 11:00am</td><td>Careers Service</td><td>Careers</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht06.shtml#Careers">Careers Service Event</a></td></tr>
+<tr><td>Wednesday second week (January 25th) 8:15pm</td><td>ICL</td><td>Dr Shamita Das (<a href="http://www.earth.ox.ac.uk/">Department of Earth Sciences, University of Oxford</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht06.shtml#Das">Earthquakes</a></td></tr>
+<tr><td>Wednesday fourth week (February 8th) 8:15pm</td><td>ICL</td><td><a href="http://www.imm.ox.ac.uk/groups/molimm/jones.html">Dr. Sarah Rowland-Jones</a> (<a href="http://www.imm.ox.ac.uk/">Institute of Molecular Medicine, University of Oxford</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht06.shtml#Rowland-Jones">Towards an HIV vaccine</a></td></tr>
+<tr><td>Wednesday fifth week (February 15th) 8:15pm</td><td>ICL</td><td>Frazer Pearce (<a href="http://www.nottingham.ac.uk/physics/research/astronomy/">School of Physics and Astronomy, Nottingham University</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht06.shtml#Pearce">Exoplanets: are we alone?</a></td></tr>
+<tr><td>Wednesday sixth week (February 22nd) 8:15pm</td><td>ICL</td><td>Professor George G Brownlee, FRS (<a href="http://www.path.ox.ac.uk/">Sir William Dunn School of Pathology, University of Oxford</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht06.shtml#Brownlee">The bird flu threat</a></td></tr>
+<tr><td>Wednesday seventh week (March 1st) 8:15pm</td><td>ICL</td><td>Professor Nevill and Professor Greg Whyte (University of Wolverhampton and English Institute of Sport)</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht06.shtml#Nevill">Are there limits to running world-records?</a></td></tr>
+<tr><td>Wednesday eighth week (March 8th) 8:15pm</td><td>ICL</td><td>Vikram Patel (<a href="http://www.lshtm.ac.uk/">London School of Hygiene &amp; Tropical Medicine</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht06.shtml#Patel">Achieving the Millennium Development Goals</a></td></tr>
+
+<tr>
+<th colspan="4" class="center_headings">Michealmas Term 2005</th>
+</tr>
+
+<tr>
+<th>When</th>
+<th>Where</th>
+<th>Who</th>
+<th>What</th>
+</tr>
+
+<tr><td>Wednesday second week (October 19th) 8:15pm</td><td>ICL</td><td>Professor Jim Horne (<a href="http://www.lboro.ac.uk/departments/hu/groups/sleep/">Sleep Research Laboratory, Loughborough University</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt05.shtml#Horne">Why Sleep?</a></td></tr>
+<tr><td>Wednesday third week (October 26th) 8:15pm</td><td>ICL</td><td><a href="http://www.imm.ox.ac.uk/groups/molimm/jones.html">Dr. Sarah Rowland-Jones</a> (<a href="http://www.imm.ox.ac.uk/">Institute of Molecular Medicine, University of Oxford</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt05.shtml#Rowland-Jones">Towards an HIV vaccine? Lessons from Africa</a></td></tr>
+<tr><td>Wednesday fourth week (November 2nd) 8:15pm</td><td>ICL</td><td><a href="http://www.ch.cam.ac.uk/staff/je.html"> Dr. John Emsley</a> (<a href="http://www.ch.cam.ac.uk">Department of Chemistry, Cambridge</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt05.shtml#Emsley">Elements of Murder: The Dark Side of the Periodic Table</a></td></tr>
+<tr><td>Wednesday sixth week (November 16th) 8:15pm</td><td>ICL</td><td><a href="http://www.ukc.ac.uk/physical-sciences/main/staff/CI.html">Dr Cyril Isenberg</a> (<a href="http://www.ukc.ac.uk/physical-sciences/">Department of Physical Sciences, University of Kent at Canterbury</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt05.shtml#Isenberg">The Magic of Soap Bubbles</a></td></tr>
+<tr><td>Wednesday seventh week (November 23rd) 8:15pm</td><td>ICL</td><td><a href="http://www.cf.ac.uk/maths/wickramasinghe/chand1.html">Prof C. Wickramasinghe</a> (Department of Mathematics, Cardiff University)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt05.shtml#Wickramsinghe">The Continuing Search for our Cosmic Ancestry</a></td></tr>
+<tr><td>Wednesday eighth week (November 30th) 8:15pm</td><td>ICL</td><td><a href="http://www.ee.ic.ac.uk/research/neural/aleksander.html">Professor Igor Aleksander</a> (<a href="http://www.ee.ic.ac.uk/research/neural/iis.html">Imperial College</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt05.shtml#Aleksander">Machines with Minds: Hype or Sensible Science?</a></td></tr>
+
+<tr>
+<th colspan="4" class="center_headings">Trinity Term 2005</th>
+</tr>
+
+<tr>
+<th>When</th>
+<th>Where</th>
+<th>Who</th>
+<th>What</th>
+</tr>
+
+<tr><td>Wednesday first week (April 27th) 8:15pm</td><td>ICL</td><td>Professor Alan Windle FRS (Department of Materials Science and Metallurgy, University of Cambridge)</td><td><a href="http://users.ox.ac.uk/~science/termcards/tt05.shtml#Windle">Carbon Nanotubes: a new science, a new benefit?</a></td></tr>
+<tr><td>Wednesday second week (May 4th) 8:15pm</td><td>ICL</td><td>Professor John Brooke (Department of Theology, University of Oxford)</td><td><a href="http://users.ox.ac.uk/~science/termcards/tt05.shtml#Brooke">Famous myths in the history of science</a></td></tr>
+<tr><td>Thursday third week (May 12th) 8:15pm</td><td>ICL</td><td>Professor Les Iversen (Department of Pharmacology, University of Oxford)</td><td><a href="http://users.ox.ac.uk/~science/termcards/tt05.shtml#Iversen">Medical Marijuana</a></td></tr>
+<tr><td>Wednesday fourth week (May 18th) 8:15pm</td><td>ICL</td><td>Professor Malcolm Haines (Department of Physics, Imperial College London)</td><td><a href="http://users.ox.ac.uk/~science/termcards/tt05.shtml#Haines">Controlled Fusion: a broad approach</a></td></tr>
+
+<tr>
+<th colspan="4" class="center_headings">Hilary Term 2005</th>
+</tr>
+
+<tr>
+<th>When</th>
+<th>Where</th>
+<th>Who</th>
+<th>What</th>
+</tr>
+
+<tr><td>Wednesday second week (January 26th) 8:15pm</td><td>ICL</td><td>Dr. John Stein (Department of Physiology, University of Oxford)</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht05.shtml#Stein">Eyes, Ears, Families and Fish - The Magnocellular Hypothesis of Developmental Dyslexia</a></td></tr>
+<tr><td>Wednesday fourth week (February 9th) 8:15pm</td><td>ICL</td><td><a href="http://www.phy.bris.ac.uk/staff/barham_pj.html">Dr. P Barham</a> (Department of Physics, Bristol University)</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht05.shtml#Barham">The Physics of Ice Cream</a></td></tr>
+<tr><td>Wednesday fifth week (February 16th) 8:15pm</td><td>ICL</td><td>Dr. J Young (Centre for the History of Science, Technology and Medicine - Imperial College, London)</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht05.shtml#Young">Newton and the Nature of Electronic Editions ~ An Introduction to the Isaac Newton Manuscript Project</a></td></tr>
+<tr><td>Wednesday seventh week (March 2nd) 8:15pm</td><td>ICL</td><td>Dr. Armand Leroi (Department of Biological Sciences - Imperial College, London)</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht05.shtml#Leroi">The Genes that make us Human</a></td></tr>
+<tr><td>Wednesday eighth week (March 9th) 8:15pm</td><td>ICL</td><td>Chris Luebkeman (Director and leader of Arup's global Foresight and Innovation initiative)</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht05.shtml#Luebkeman">Can you imagine...?</a></td></tr>
+
+<tr>
+<th colspan="4" class="center_headings">Michealmas Term 2004</th>
+</tr>
+
+<tr>
+<th>When</th>
+<th>Where</th>
+<th>Who</th>
+<th>What</th>
+</tr>
+
+<tr><td>Wednesday second week (October 20th) 8:15pm</td><td>ICL</td><td>Dr. Hans Kraus (<a href="http://www.physics.ox.ac.uk/">Department of Physics, University of Oxford</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt04.shtml#Kraus">Dark Matter in the Universe</a></td></tr>
+<tr><td>Wednesday fourth week (November 3rd) 8:15pm</td><td>ICL</td><td><a href="http://www.linc.ox.ac.uk/fellows/atkins/">Prof Peter Atkins</a> (<a href="http://www.chem.ox.ac.uk/">Department of Chemistry, Oxford University</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt04.shtml#Atkins">Galileo's Finger: The ten great ideas of science</a></td></tr>
+<tr><td>Wednesday fifth week (November 10th) 8:15pm</td><td>ICL</td><td>Professor Robert McNeill Alexander (<a href="http://www.biology.leeds.ac.uk/">School of Biology, University of Leeds</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt04.shtml#Alexander">How animals do the (apparently) impossible.</a></td></tr>
+<tr><td>Wednesday sixth week (November 17th) 8:15pm</td><td>ICL</td><td><a href="http://www.personal.leeds.ac.uk/~eenagd/AGD.html">Professor Giles Davies</a> (School of Electronic and Electrical Engineering, University of Leeds)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt04.shtml#Davies">Squeezing more out of the electromagnetic spectrum: terahertz science and technology</a></td></tr>
+<tr><td>Friday sixth week (November 19th) 2:00pm</td><td>TBC</td><td colspan="2"><a href="http://users.ox.ac.uk/~science/termcards/mt04.shtml#JET">Visit to JET (Joint European Torus)</a></td></tr>
+<tr><td>Wednesday seventh week (November 24th) 8:15pm</td><td>ICL</td><td>Professor Mitch Dowsett (<a href="http://www.icr.ac.uk/">Head of Biochemistry, Institute of Cancer Research</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt04.shtml#Dowsett">Science increases incidence but reduces mortality from breast cancer</a></td></tr>
+<tr><td>Wednesday eighth week (December 1st) 8:15pm</td><td>ICL</td><td>Professor Paul Coleman (<a href="http://www.bath.ac.uk/physics/">Department of Physics, University of Bath</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt04.shtml#Coleman">Probing Matter with Antimatter</a></td></tr>
+
+<tr>
+<th colspan="4" class="center_headings">Trinity Term 2004</th>
+</tr>
+
+<tr>
+<th>When</th>
+<th>Where</th>
+<th>Who</th>
+<th>What</th>
+</tr>
+
+<tr><td>Wednesday second week (May 5th) 8:15pm</td><td>ICL</td><td><a href="http://www.richardgregory.org">Professor Emeritus Richard Langton Gregory</a> (Department of Experimental Psychology, University of Bristol)</td><td><a href="http://users.ox.ac.uk/~science/termcards/tt04.shtml#Gregory">Phenomenal Phenomena - the nature of perception</a></td></tr>
+<tr><td>Wednesday third week (May 12th) 8:15pm</td><td>ICL</td><td><a href="http://www.qubit.org/people/vlatko">Dr. Vlatko Vedral</a> (Centre for Quantum Computation, Imperial College, University of London)</td><td><a href="http://users.ox.ac.uk/~science/termcards/tt04.shtml#Vedral">Keeping It Real: Untangling Entanglement</a></td></tr>
+<tr><td>Wednesday fourth week (May 19th) 8:15pm</td><td>ICL</td><td><a href="http://staff.bath.ac.uk/pyspb">Dr Philippe Blondel</a> (Department of Physics, University of Bath)</td><td><a href="http://users.ox.ac.uk/~science/termcards/tt04.shtml#Blondel">From Bath to the Ocean: Seabed mapping, the past and the future</a></td></tr>
+
+<tr>
+<th colspan="4" class="center_headings">Hilary Term 2004</th>
+</tr>
+
+<tr>
+<th>When</th>
+<th>Where</th>
+<th>Who</th>
+<th>What</th>
+</tr>
+
+<tr><td>Wednesday second week (January 28th) 8:15pm</td><td>ICL</td><td><a href="http://www.shef.ac.uk/~cpe/staff1/tippetts.html">Dr. John Tippetts</a> (Department of Chemical and Process Engineering, University of Sheffield)</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht04.shtml#Tippetts">Fluidics</a></td></tr>
+<tr><td>Wednesday third week (February 4th) 8:15pm</td><td>ICL</td><td>Professor Frank Close (Professor of Particle Physics)</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht04.shtml#Close">Lucifer's Legacy</a></td></tr>
+<tr><td>Wednesday seventh week (March 3rd) 8:15pm</td><td>ICL</td><td>Adrian Hon (The Queen's College, Oxford University)</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht04.shtml#Hon">The Human Mission to Mars</a></td></tr>
+<tr><td>Wednesday eighth week (March 10th) 8:15pm</td><td>ICL</td><td>Professor Julia Slingo (Centre for Global Atmospheric Modelling, Reading University)</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht04.shtml#Slingo">Climate in a Changing World</a></td></tr>
+<tr><td>Saturday sixth week (February 28th) TBC</td><td>TBC</td><td colspan="2"><a href="http://users.ox.ac.uk/~science/termcards/ht04.shtml#Navy">Visit</a></td></tr>
+
+<tr>
+<th colspan="4" class="center_headings">Michealmas Term 2003</th>
+</tr>
+
+<tr>
+<th>When</th>
+<th>Where</th>
+<th>Who</th>
+<th>What</th>
+</tr>
+
+<tr><td>Saturday first week (October 18th) 2:00pm</td><td>Merton gradua e buildings, Holywell St</td><td colspan="2"><a href="http://users.ox.ac.uk/~science/termcards/mt03.shtml#BBQ">Welcome BBQ</a></td></tr>
+<tr><td>Wednesday second week (October 22nd) 8:15pm</td><td>ICL</td><td>Professor Alan Cooper (Henry Wellcome Ancient Biomolecules Centre, Oxford University)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt03.shtml#Cooper">Ancient DNA Studies of Humans and Animals</a></td></tr>
+<tr><td>Wednesday third week (October 29th) 8:15pm</td><td>ICL</td><td>Timothy Walker (Botanic Gardens, Oxford University)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt03.shtml#Walker">The Healing Power of Plants</a></td></tr>
+<tr><td>Saturday fifth week (November 15th) 9:00am</td><td>Gloucester Green coach station</td><td colspan="2"><a href="http://users.ox.ac.uk/~science/termcards/mt03.shtml#greenwich">Visit to The Royal Observatory and National Maritime Museum, Greenwich</a></td></tr>
+<tr><td>Wednesday sixth week (November 19th) 8:15pm</td><td>ICL</td><td>Professor A. Peter Willmore (School of Physics & Astronomy, University of Birmingham)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt03.shtml#Willmore">Gamma Ray Bursts</a></td></tr>
+<tr><td>Wednesday seventh week (November 26th) 8:15pm</td><td>ICL</td><td>Professor W. Graham Richards (Chairman of Chemistry, University of Oxford)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt03.shtml#Richards">The Screensaver, Lifesaver Project</a></td></tr>
+<tr><td>Wednesday eighth week (December 3rd) 8:15pm</td><td>ICL</td><td>Reverend Ron Lancaster MBE (<a href="http://kimboltonfireworks.co.uk">Kimbolton Fireworks</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt03.shtml#Lancaster">Fireworks!!</a></td></tr>
+
+<tr>
+<th colspan="4" class="center_headings">Trinity Term 2003</th>
+</tr>
+
+<tr>
+<th>When</th>
+<th>Where</th>
+<th>Who</th>
+<th>What</th>
+</tr>
+
+<tr><td>Wednesday first week (April 30th) 8:15pm</td><td>ICL</td><td>Sir Brian K. Follett (Department of Zoology, University of Oxford)</td><td><a href="http://users.ox.ac.uk/~science/termcards/tt03.shtml#Follett">The Marriage Of Animal Behaviour To Molecular Biology</a></td></tr>
+<tr><td>Thursday first week (May 1st) 9:00pm</td><td>The Bridge</td><td colspan="2"><a href="http://users.ox.ac.uk/~science/termcards/tt03.shtml#leiden">Clubbing at The Bridge</a></td></tr>
+<tr><td>Wednesday second week (May 7th) 8:15pm</td><td>NAPL</td><td>Colin Jack (Author)</td><td><a href="http://users.ox.ac.uk/~science/termcards/tt03.shtml#Jack">Smarter Ways to Space Travel</a></td></tr>
+<tr><td>Wednesday third week (May 14th) 8:15pm</td><td>NAPL</td><td>Professor Chris Leaver (Head of the Department of Plant Sciences, University of Oxford)</td><td><a href="http://users.ox.ac.uk/~science/termcards/tt03.shtml#Leaver">Food for Thought</a></td></tr>
+<tr><td>Wednesday fourth week (May 21st) 8:15pm</td><td>ICL</td><td colspan="2"><a href="http://users.ox.ac.uk/~science/termcards/tt03.shtml#movie">Movie Night - X-Men (Members only)</a></td></tr>
+<tr><td>  week (April 20th) TBC</td><td>The Eden Project</td><td colspan="2"><a href="http://users.ox.ac.uk/~science/termcards/tt03.shtml#visit">The Eden Project</a></td></tr>
+
+<tr>
+<th colspan="4" class="center_headings">Hilary Term 2003</th>
+</tr>
+
+<tr>
+<th>When</th>
+<th>Where</th>
+<th>Who</th>
+<th>What</th>
+</tr>
+
+<tr><td>Wednesday first week (January 22nd) 8:15pm</td><td>ICL</td><td>Professor Tom Kirkwood (University of Newcastle)</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht03.shtml#Kirkwood">Ageing, Sex and Death</a></td></tr>
+<tr><td>Saturday second week (February 1st) 9:00am</td><td>Body Worlds Exhibition, London</td><td colspan="2"><a href="http://users.ox.ac.uk/~science/termcards/ht03.shtml#Visit">Visit to Body Worlds Exhibition, London</a></td></tr>
+<tr><td>Wednesday third week (February 5th) 8:15pm</td><td>ICL</td><td><a href="http://ast.star.rl.ac.uk/ajp/">Dr. Alan Penny</a> (<a href="http://www.rl.ac.uk/">Rutherford Appleton Laboratory</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht03.shtml#Penny">Looking for Life on Extra-Solar Planets</a></td></tr>
+<tr><td>Wednesday fourth week (February 12th) 8:15pm</td><td>ICL</td><td><a href="http://www.nhm.ac.uk/mineralogy/srussell/srussell.htm">Dr Sara Russell</a> (<a href="http://www.nhm.ac.uk/mineralogy/intro/project4/">Natural History Museum</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht03.shtml#Russell">Meteorites</a></td></tr>
+<tr><td>Wednesday fifth week (February 19th) 8:15pm</td><td>ICL</td><td><a href="http://www.chem.warwick.ac.uk/astaff/pmrodger/">Dr Mark Rodger</a> (<a href="http://www.chem.warwick.ac.uk/pmrodger/pmr.shtml">University of Warwick</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht03.shtml#Rodger">Molecular Simulation</a></td></tr>
+<tr><td>Wednesday seventh week (March 5th) 8:15pm</td><td>ICL</td><td><a href="http://www.physiol.cam.ac.uk/staff/barlow/">Professor Horace Barlow</a> (<a href="http://hbb-2.physiol.cam.ac.uk/">University of Cambridge</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht03.shtml#Barlow">Seeing Motion</a></td></tr>
+<tr><td>Wednesday eighth week (March 12th) 8:15pm</td><td>ICL</td><td>Professor Robert Donovan (University of Edinburgh)</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht03.shtml#Donovan">Laser Spectroscopy</a></td></tr>
+<tr><td>Friday eighth week (March 14th) 7:45pm</td><td>Martin Wood Lecture Theatre</td><td>Marc Abrahams (editor and co-founder of Annals of Improbable Research)</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht03.shtml#Abrahams">Ig Nobel Prize Tour</a></td></tr>
+
+<tr>
+<th colspan="4" class="center_headings">Michealmas Term 2002</th>
+</tr>
+
+<tr>
+<th>When</th>
+<th>Where</th>
+<th>Who</th>
+<th>What</th>
+</tr>
+
+<tr><td>Wednesday first week (October 16th) 8:15pm</td><td>ICL</td><td>Professor Jim Horne (<a href="http://www.lboro.ac.uk/departments/hu/groups/sleep/">Sleep Research Laboratory, Loughborough University</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt02.shtml#Horne">Why Sleep?</a></td></tr>
+<tr><td>Wednesday second week (October 23rd) 8:15pm</td><td>ICL</td><td>Alex Griffiths (BBC Natural History Unit, Bristol)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt02.shtml#Griffiths">Filming Mammals for the BBC Natural History Unit </a></td></tr>
+<tr><td>Wednesday third week (October 30th) 8:15pm</td><td>Moser Lecture TheatreWadham</td><td><a href="http://www-thphys.physics.ox.ac.uk/users/IanKogan/home.html">Dr Ian I. Kogan</a> (Department of Theoretical Physics, University of Oxford)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt02.shtml#Kogan">Modification of Gravity at large Scale: Telescope for the Microworld </a></td></tr>
+<tr><td>Friday third week (November 1st) 13:30pm</td><td>Culham Science Centre, Oxfordshire</td><td colspan="2"><a href="http://users.ox.ac.uk/~science/termcards/mt02.shtml#Visit">Trip to JET - Joint European Torus</a></td></tr>
+<tr><td>Wednesday fourth week (November 6th) 8:15pm</td><td>Moser Lecture TheatreWadham</td><td><a href="http://www-civ.eng.cam.ac.uk/crc/crc_web.htm">Professor Chris Calladine</a> (<a href="http://www-civ.eng.cam.ac.uk/">Structural Mechanics, Department of Engineering, University of Cambridge</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt02.shtml#Calladine">Construction and operation of bacterial flagella</a></td></tr>
+<tr><td>Wednesday fifth week (November 13th) 8:15pm</td><td>Moser Lecture TheatreWadham</td><td>Professor William D.Grant (Department of Microbiology and Immunology, University of Leicester)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt02.shtml#Grant">From Soda Lakes to Salt Mines</a></td></tr>
+<tr><td>Wednesday sixth week (November 20th) 8:15pm</td><td>ICL</td><td><a href="http://www.shef.ac.uk/bms/academic/pwa.html">Professor Peter Andrews</a> (Chairman, Dept. Biomedical Science, University of Sheffield)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt02.shtml#Andrews">From teratocarcinoma to embryonic stem cells: Tools for human embryology and re-generative medicine</a></td></tr>
+<tr><td>Wednesday seventh week (November 27th) 8:15pm</td><td>(TBC) Old RefectoryWadham</td><td><a href="http://www.sp.ph.ic.ac.uk/~cargill/">Professor Peter Cargill</a> (Space and Atmospheric Physics, The Blackett Laboratory, Imperial College)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt02.shtml#Cargill">Cosmic Storms </a></td></tr>
+<tr><td>Thursday seventh week (November 28th) 6:45 for 7:15pm</td><td>Old Library, Wadham College</td><td colspan="2"><a href="http://users.ox.ac.uk/~science/termcards/mt02.shtml#Dinner">Black Tie dinner</a></td></tr>
+
+<tr>
+<th colspan="4" class="center_headings">Trinity Term 2002</th>
+</tr>
+
+<tr>
+<th>When</th>
+<th>Where</th>
+<th>Who</th>
+<th>What</th>
+</tr>
+
+<tr><td>Wednesday first week (April 24th) 8:15pm</td><td>ICL</td><td>Professor Paul J. Davis (Visiting Professor of Applied Immunology, University of Kent at Canterbury)</td><td><a href="http://users.ox.ac.uk/~science/termcards/tt02.shtml#Davis">Much ado about infection</a></td></tr>
+<tr><td>Wednesday second week (May 1st) 8:15pm</td><td>ICL</td><td>Mr Doug Dadswell (<a href="http://www.allott.co.uk/">Babtie Group, Allot and Lomax</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/tt02.shtml#Dadswell">design and Construction of the London Eye</a></td></tr>
+<tr><td>Wednesday third week (May 8th) 8:15pm</td><td>ICL</td><td>Professor Steven Jones (<a href="http://www.gene.ucl.ac.uk/">Professor of Genetics at University College London</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/tt02.shtml#Jones">The Descent of man</a></td></tr>
+<tr><td>Wednesday fourth week (May 15th) 8:15pm</td><td>Lindemann Lecture Theatre (Physics)</td><td><a href="http://www.advancedbiology.org/pub/AboutUs/b0000000485.shtml">Professor Peter Lillford</a> (Visiting Professor, University of Nottingham, Visiting Chair, University of York)</td><td><a href="http://users.ox.ac.uk/~science/termcards/tt02.shtml#Lillford">Don't talk with your mouth full - The Physics of Eating</a></td></tr>
+<tr><td>Saturday fourth week (May 18th) 9:00am</td><td>TBC</td><td colspan="2">Visit to the <a href="http://www.nssc.co.uk">National Space Centre</a> in Leicester, <a href="mailto:katherine.leech@@wadham.ox.ac.uk">email for details</a></td></tr>
+
+<tr>
+<th colspan="4" class="center_headings">Hilary Term 2002</th>
+</tr>
+
+<tr>
+<th>When</th>
+<th>Where</th>
+<th>Who</th>
+<th>What</th>
+</tr>
+
+<tr><td>Wednesday third week (January 30th) 8:15pm</td><td>ICL</td><td><a href="http://www.ph.qmw.ac.uk/phdir?P.I.P.Kalmus">Professor Peter I. P. Kalmus</a> (<a href="http://www.qmw.ac.uk/">Emeritus Professor, Queen Mary's College, University of London</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht02.shtml#Kalmus">The Forces of Nature</a></td></tr>
+<tr><td>Wednesday fourth week (February 6th) 8:15pm</td><td>ICL</td><td>Professor Richard Gardner (<a href="http://www.zoo.ox.ac.uk/newsite/top.htm">Department of Zoology, University of Oxford</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht02.shtml#Gardner">Harnessing Embryonic Stem Cells and Cloning: How and Why</a></td></tr>
+<tr><td>Wednesday seventh week (February 27th) 8:15pm</td><td>ICL</td><td><a href="http://www.anat.ucl.ac.uk/brochure/page54.htm">Professor Lewis Wolpert</a> (<a href="http://www.anat.ucl.ac.uk/">Department of Anatomy and Developmental Biology, University College London</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht02.shtml#Wolpert">The Unnatural Nature of Science</a></td></tr>
+<tr><td>Wednesday eighth week (March 6th) 8:15pm</td><td>ICL</td><td>Dr Elspeth Garman (<a href="http://www.ox.ac.uk/">University of Oxford</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht02.shtml#Garman">Curing Mankind's Biggest Killer - The Common Flu</a></td></tr>
+<tr><td>Tuesday ninth week (March 12th) 7pm prompt</td><td>Blackwells Cafe </td><td><a href="http://www.simonsingh.com/">Simon Singh</a> (Author and Journalist)</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht02.shtml#Singh">The Science of Secrecy</a> a joint event with Blackwells <a href="http://www.cafescientifique.org/">Cafe Scientifique.</a></td></tr>
+
+<tr>
+<th colspan="4" class="center_headings">Michealmas Term 2001</th>
+</tr>
+
+<tr>
+<th>When</th>
+<th>Where</th>
+<th>Who</th>
+<th>What</th>
+</tr>
+
+<tr><td>Wednesday first week (October 10th) 8:15pm</td><td>ICL</td><td><a href="http://www.ukc.ac.uk/physical-sciences/main/staff/CI.html">Dr Cyril Isenberg</a> (<a href="http://www.ukc.ac.uk/physical-sciences/">Department of Physical Sciences, University of Kent at Canterbury</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt01.shtml">The Magic of Soap Bubbles</a></td></tr>
+<tr><td>Wednesday second week (October 17th) 8:15pm</td><td>ICL</td><td><a href="http://www.ma.man.ac.uk/MCND/mullin.html">Professor Tom Mullin</a> (<a href="http://www.ma.man.ac.uk/MCND/">Manchester Center for Non-linear dynamics</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt01.shtml">Patterns in the sand</a></td></tr>
+<tr><td>Wednesday third week (October 24th) 8:15pm</td><td>ICL</td><td><a href="http://ast.star.rl.ac.uk/ajp/">Dr. Alan Penny</a> (<a href="http://www.rl.ac.uk/">Rutherford Appleton Laboratory</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt01.shtml">Signs of Life on Other Earths</a></td></tr>
+<tr><td>Wednesday fourth week (October 31st) 8:15pm</td><td>ICL</td><td><a href="http://physchem.ox.ac.uk/~hmc/">Dr Hugh Cartwright</a> (<a href="http://physchem.ox.ac.uk/">Physical and Theoretical Chemistry, Oxford</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt01.shtml">Instinctive Science: Can Machines Out-Think Scientists?</a></td></tr>
+<tr><td>Monday fifth week (November 5th) 7pm</td><td>Morris Room, Oxford Union</td><td>Dr Adam Baker (<a href="http://www.qinetiq.com/">Space Department, QinetiQ</a>)</td><td>Free <a href="http://users.ox.ac.uk/~science/termcards/mt01.shtml">QinetiQ Careers Presentation</a></td></tr>
+<tr><td>Wednesday fifth week (November 7th) 8:15pm</td><td>ICL</td><td><a href="http://web.bham.ac.uk/M.L.Wyszynski/people/lehrledat.html">Dr Roy Lehrle</a> (<a href="http://www.birmingham.ac.uk/ManMechEng/">School of Manufacturing and Mechanical Engineering, University of Birmingham</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt01.shtml">Forensics: Fakes and Failures</a></td></tr>
+<tr><td>Wednesday sixth week (November 14th) 8:15pm</td><td>ICL</td><td><a href="http://www.ch.ic.ac.uk/widdowson/index.html">Professor David Widdowson</a> (<a href="http://www.ch.ic.ac.uk/">Department of Chemistry, Imperial College London</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt01.shtml">Chemistry Against The Clock: From Atom to Drug in Just One Hour</a></td></tr>
+<tr><td>Wednesday seventh week (November 21st) 8:15pm</td><td>ICL</td><td>Dr Alan Chapman (Department of Modern History, Oxford University)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt01.shtml">The Canon, the Chemist and the Dinosaurs: Oxford and the Origins of Fossil Geology</a></td></tr>
+<tr><td>Wednesday eighth week (November 28th) 8:15pm</td><td>ICL</td><td colspan="2">Movie Night - Galaxy Quest (Members Only)</td></tr>
+
+<tr>
+<th colspan="4" class="center_headings">Trinity Term 2001</th>
+</tr>
+
+<tr>
+<th>When</th>
+<th>Where</th>
+<th>Who</th>
+<th>What</th>
+</tr>
+
+<tr><td>Wednesday first week (May 2nd) 8:15pm</td><td>ICL</td><td><a href="http://www.rdg.ac.uk/TCS/Staff/Prof__Kevin_Warwick/prof__kevin_warwick.html">Prof Kevin Warwick</a> (<a href="http://www.cyber.rdg.ac.uk/">Department of Cybernetics, University of Reading</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/tt01.shtml">A Cyborg Life For Me!</a></td></tr>
+<tr><td>Wednesday second week (May 9th) 8:15pm</td><td>ICL</td><td><a href="http://www.eng.warwick.ac.uk/staff/msl/mark.html">Dr Mark S Leeson</a> (<a href="http://www.warwick.ac.uk">School of Engineering, University of Warwick</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/tt01.shtml">The Future of Optical and Wireless Communications</a></td></tr>
+<tr><td>Wednesday third week (May 16th) 9:45am</td><td>Gloucester Green</td><td colspan="2">Trip to Bletchley Park</td></tr>
+<tr><td>Wednesday third week (May 16th) 8:15pm</td><td>ICL</td><td><a href="http://www.qubit.org/people/artur/">Prof Artur Ekert</a> (<a href="http://www.qubit.org">Centre for Quantum Computation</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/tt01.shtml">Quantum Cryptography</a></td></tr>
+<tr><td>Wednesday fourth week (May 23rd) 8:15pm</td><td>ICL</td><td>Dr Dick Parry (Dept of Engineering, Universityof Cambridge)</td><td><a href="http://users.ox.ac.uk/~science/termcards/tt01.shtml">Pyramid Power and The Secrets Of Stonehenge</a></td></tr>
+
+<tr>
+<th colspan="4" class="center_headings">Hilary Term 2001</th>
+</tr>
+
+<tr>
+<th>When</th>
+<th>Where</th>
+<th>Who</th>
+<th>What</th>
+</tr>
+
+<tr><td>Wednesday third week (January 31st) 8:15pm</td><td>ICL</td><td><a href="http://www.uwe.ac.uk/fas/staff/sb/">Dr. Susan Blackmore</a> (<a href="http://www.uwe.ac.uk/fas/">Department of Psychology, University of the West of England</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht01.shtml">Memes and Minds</a></td></tr>
+<tr><td>Wednesday fourth week (February 7th) 8:15pm</td><td>ICL</td><td><a href="http://ds.dial.pipex.com/town/terrace/fr77/">Major Jonathan Tate</a> (Director of Spaceguard UK)</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht01.shtml">Cometary impacts - Can we protect our planet?</a></td></tr>
+<tr><td>Wednesday fifth week (February 14th) 2:15pm</td><td>ICL</td><td><a href="http://www.ch.cam.ac.uk/staff/je.html"> Dr. John Emsley</a> (<a href="http://www.ch.cam.ac.uk">Department of Chemistry, Cambridge</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht01.shtml">Perfumes, pampers, nicotine patches - is it really chemistry</a></td></tr>
+<tr><td>Wednesday sixth week (February 21st) 8:15pm</td><td>ICL</td><td><a href="http://www.shef.ac.uk/~cpe/staff1/tippetts.html">Dr. John Tippetts</a> (Department of Chemical and Process Engineering, University of Sheffield)</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht01.shtml">Watts, Bits and Fluid Mechanics</a></td></tr>
+<tr><td>Wednesday seventh week (February 28th) 8:15pm</td><td>ICL</td><td><a href="http://www.qubit.org/people/vlatko">Dr. Vlatko Vedral</a> (Centre for Quantum Computation, Imperial College, University of London)</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht01.shtml">Heat and Computation - The Science of Forgetting</a></td></tr>
+<tr><td>Wednesday eighth week (March 7th) 2pm</td><td>ICL</td><td colspan="2">Tour of the Oxford Museum of the History of Science</td></tr>
+<tr><td>Wednesday eighth week (March 7th) 8:15pm</td><td>ICL</td><td><a href="http://www.imm.ox.ac.uk/groups/molimm/jones.html">Dr. Sarah Rowland-Jones</a> (<a href="http://www.imm.ox.ac.uk/">Institute of Molecular Medicine, University of Oxford</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht01.shtml">Towards and HIV vaccine, Lessons from Africa</a></td></tr>
+
+<tr>
+<th colspan="4" class="center_headings">Michealmas Term 2000</th>
+</tr>
+
+<tr>
+<th>When</th>
+<th>Where</th>
+<th>Who</th>
+<th>What</th>
+</tr>
+
+<tr><td>Wednesday second week (October 18th) 8:15pm</td><td>ICL</td><td><a href="http://www.phy.bris.ac.uk/staff/barham_pj.html">Dr. P Barham</a> (Department of Physics, Bristol University)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt00.shtml">The Physics of Ice Cream</a></td></tr>
+<tr><td>Wednesday fourth week (November 1st) 8:15pm</td><td>ICL</td><td><a href="http://www.cf.ac.uk/biosi/associates/cold/home.html">Prof. R Eccles</a> (Common Cold Centre, Cardiff University)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt00.shtml">The common cold - some unexplained mysteries</a></td></tr>
+<tr><td>Thursday third week (October 26th) 2:15pm</td><td>ICL</td><td colspan="2">Bodleian Tour</td></tr>
+<tr><td>Wednesday fifth week (November 8th) 8:15pm</td><td>ICL</td><td><a href="http://aj.hd.org">A. Hart-Davis</a> (BBC TV presenter and author)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt00.shtml">Local Heroes</a></td></tr>
+<tr><td>Wednesday sixth week (November 15th) 8:15pm</td><td>ICL</td><td colspan="2">Video Night - Contact starring Jodie Foster</td></tr>
+<tr><td>Wednesday seventh week (November 22nd) 8:15pm</td><td>ICL</td><td colspan="2">Video Night or Quiz  ight, TBA</td></tr>
+<tr><td>Wednesday eighth week (November 29th) 8:15pm</td><td>ICL</td><td><a href="http://www.cf.ac.uk/maths/wickramasinghe/chand1.html">Prof C. Wickramasinghe</a> (Department of Mathematics, Cardiff University)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt00.shtml">Evidence that life is a cosmic phenomenon</a></td></tr>
+
+<tr>
+<th colspan="4" class="center_headings">Trinity Term 2000</th>
+</tr>
+
+<tr>
+<th>When</th>
+<th>Where</th>
+<th>Who</th>
+<th>What</th>
+</tr>
+
+<tr><td>Wednesday second week (May 10th) 8:15pm</td><td>ICL</td><td><a href="http://www.physiol.ox.ac.uk/Graduate_Studies/Research_Interests/blakemore.html">Prof Colin Blakemore FRS</a> (<a href="http://www.physiol.ox.ac.uk/">Oxford University</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/tt00.shtml">Nature and nurture in the building of the brain</a></td></tr>
+<tr><td>Friday third week (May 19th) 8:15pm</td><td>ICL</td><td>Alexsander</td><td><a href="http://users.ox.ac.uk/~science/termcards/tt00.shtml">How to build a mind - the Hype and the Reality</a></td></tr>
+<tr><td>Tuesday fourth week (May 23rd) 8:15pm</td><td>ICL</td><td>Professor Vernon Reynolds (<a href="http://www.bioanth.ox.ac.uk/">Oxford University</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/tt00.shtml">Clever but nasty: Chimpanzees and Human Evolution</a></td></tr>
+<tr><td>Wednesday fifth week (May 31st) 8:15pm</td><td>ICL</td><td>Professor Frank Close (Professor of Particle Physics)</td><td><a href="http://users.ox.ac.uk/~science/termcards/tt00.shtml">Lucifer's Legacy - the meaning of assymmetry</a></td></tr>
+
+<tr>
+<th colspan="4" class="center_headings">Hilary Term 2000</th>
+</tr>
+
+<tr>
+<th>When</th>
+<th>Where</th>
+<th>Who</th>
+<th>What</th>
+</tr>
+
+<tr><td>Wednesday second week (January 26th) 8:15pm</td><td>ICL</td><td>Dr Matt Ridley ()</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht00.shtml">Genome: Autobiography of a Species</a></td></tr>
+<tr><td>Wednesday third week (February 2nd) 8:15pm</td><td>ICL</td><td>Prof J.M.R. Graham ()</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht00.shtml">Alternative Energies: Wind and Wave</a></td></tr>
+<tr><td>Friday fourth week (February 11th) 2:15pm</td><td>Divinity Schools</td><td colspan="2"><a href="http://www.bodley.ox.ac.uk">Guided tour of the Bodleian</a></td></tr>
+<tr><td>Wednesday fifth week (February 16th) 8:15pm</td><td>ICL</td><td><a href="http://www.nhm.ac.uk/mineralogy/grady/grady.htm">Dr Monica Grady</a> (<a href="http://www.nhm.ac.uk">Natural History Museum</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht00.shtml">Can Meteorites Show there was Life on Mars?</a></td></tr>
+<tr><td>Wednesday sixth week (February 23rd) 8:15pm</td><td>ICL</td><td>Dr Sunil Shaunak ()</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht00.shtml">Why and how does HIV continue to replicate despite HAART</a></td></tr>
+<tr><td>Wednesday seventh week (March 1st) 8:15pm</td><td>ICL</td><td><a href="http://www.qubit.org">Dr David Deutsch</a> (http://www.qubit.org/people/david/David.html)</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht00.shtml">The Multiverse and Quantum Computers</a></td></tr>
+<tr><td>Wednesday eighth week (March 8th) 8:15pm</td><td>ICL</td><td>Dr. J Young (Centre for the History of Science, Technology and Medicine - Imperial College, London)</td><td><a href="http://users.ox.ac.uk/~science/termcards/ht00.shtml">Children and Television Advertising</a></td></tr>
+
+<tr>
+<th colspan="4" class="center_headings">Michealmas Term 1999</th>
+</tr>
+
+<tr>
+<th>When</th>
+<th>Where</th>
+<th>Who</th>
+<th>What</th>
+</tr>
+
+<tr><td>Wednesday third week (October 27th) 8:15pm</td><td>ICL</td><td><a href="http://www.ma.man.ac.uk/MCND/mullin.html">Professor Tom Mullin</a> (<a href="http://www.ma.man.ac.uk/MCND/">Manchester Center for Non-linear dynamics</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt99.shtml">From Chaos to the Indian Rope Trick</a></td></tr>
+<tr><td>Wednesday fifth week (November 10th) 8:15pm</td><td>ICL</td><td>Revd Ron Lancaster (<a href="http://www.kimboltonfireworks.co.uk/">Kimbolton Fireworks</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt99.shtml">Fireworks!</a></td></tr>
+<tr><td>Wednesday sixth week (November 17th) 8:15pm</td><td>ICL</td><td>Dr Leo Kinlen (<a href="http://www.ccrg.ox.ac.uk/">Childhood Cancer Research Group, Oxford University</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt99.shtml">Population Mixing, Infection & Childhood Leukaemia</a></td></tr>
+<tr><td>Wednesday seventh week (November 24th) 8:15pm</td><td>ICL</td><td>Prof Douglas Gough (<a href="http://www.ast.cam.ac.uk/~sekii/">Institute of Astrophysics, Cambridge University</a>)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt99.shtml">Listen to the Sun Shine</a></td></tr>
+<tr><td>Wednesday eighth week (December 1st) 8:15pm</td><td>ICL</td><td><a href="http://www.sheldrake.org/">Rupert Sheldrake</a> (Freelance Scientist)</td><td><a href="http://users.ox.ac.uk/~science/termcards/mt99.shtml">Telepathy and Other Unexplained Powers of Animals</a></td></tr>
+
+<tr>
+<th colspan="4" class="center_headings">Trinity Term 1999</th>
+</tr>
+
+<tr>
+<th>When</th>
+<th>Where</th>
+<th>Who</th>
+<th>What</th>
+</tr>
+
+<tr><td>Wednesday first week (April 28th) 8:15pm</td><td>ICL</td><td><a href="http://www-alphys.physics.ox.ac.uk/research/groups/laser/webonweb.html">Prof Colin Webb FRS</a> (<a href="http://www.physics.ox.ac.uk/">Professor of Laser Physics, University of Oxford</a>)</td><td>Making Light Work: Application of High Powered Lasers</td></tr>
+<tr><td>Wednesday second week (May 5th) 2:15pm</td><td>ICL</td><td colspan="2"><a href="http://www.bodley.ox.ac.uk">Guided tour of the Bodleian</a></td></tr>
+<tr><td>Wednesday second week (May 5th) 8:15pm</td><td>ICL</td><td>Professor W. Graham Richards (Chairman of Chemistry, University of Oxford)</td><td>The Creation of <a href="http://www.oxmol.com.uk">Oxford Molecular Group</a></td></tr>
+<tr><td>Wednesday third week (May 12th) 8:15pm</td><td>ICL</td><td><a href="http://www.pharm.ox.ac.uk/staff/greenfie.htm">Prof Susan Greenfield</a> (<a href="http://www.pharm.ox.ac.uk/">Department of Pharmacology, Oxford University</a>)</td><td>The Brain of the Future</td></tr>
+<tr><td>Wednesday fourth week (May 19th) 8:15pm</td><td>ICL</td><td>Prof Brian Goodwin (<a href="http://www.gn.apc.org/schumachercollege/msc/">Schumacher College, Devon</a>)</td><td>From Control to Participation in Science</td></tr>
+<tr><td>Wednesday fifth week (May 26th) 8:15pm</td><td>ICL</td><td><a href="http://www.bioch.ox.ac.uk/info/brochure/sim.html">Dr Robert Sim</a> (Dept of Biochemistry, University of Oxford)</td><td>Innate Immunity in the Lung</td></tr>
+
+<tr>
+<th colspan="4" class="center_headings">Hilary Term 1999</th>
+</tr>
+
+<tr>
+<th>When</th>
+<th>Where</th>
+<th>Who</th>
+<th>What</th>
+</tr>
+
+<tr><td>Wednesday third week (February 3rd) 8:15pm</td><td>ICL</td><td><a href="http://www.rdg.ac.uk/TCS/Staff/Prof__Kevin_Warwick/prof__kevin_warwick.html">Prof Kevin Warwick</a> (<a href="http://www.cyber.rdg.ac.uk/">Department of Cybernetics, University of Reading</a>)</td><td>Super Intelligent Machines or Cyborgs - Who will rule the world in the future...?</td></tr>
+<tr><td>Wednesday fourth week (February 10th) 8:15pm</td><td>ICL</td><td><a href="http://www.lancs.ac.uk/users/SPC/STAFF/ijs.htm">Dr Ian Saunders</a> (<a href="http://www.lancs.ac.uk/users/SPC/Physics.htm">Department of Physics, Lancaster University</a>)</td><td>The Uncommon Sense of Relativity</td></tr>
+<tr><td>Wednesday sixth week (February 24th) 8:15pm</td><td>ICL</td><td>Prof Robin Dunbar (<a href="http://www.liv.ac.uk/Psychology/ULDPhome.html">Department of Psychology, Liverpool University</a>)</td><td>The Evolution of the Social Brain - Why do we spend such a large part of our conversations on social gossip...?</td></tr>
+<tr><td>Wednesday seventh week (March 3rd) 8:15pm</td><td>ICL</td><td><a href="http://www.linc.ox.ac.uk/fellows/atkins/">Prof Peter Atkins</a> (<a href="http://www.chem.ox.ac.uk/">Department of Chemistry, Oxford University</a>)</td><td>The book, the disk and the future... - A speculation about the impact of multimedia on textbooks</td></tr>
+<tr><td>Wednesday eighth week (March 10th) 8:15pm</td><td>ICL</td><td><a href="http://www.swan.ac.uk/chemistry/staff/academic/am/profile.htm">Prof Andrew Mills & Dr Peter Douglas</a> (<a href="http://www.swan.ac.uk/chemistry/">Dept. Chemistry, University of Wales, Swansea</a>)</td><td>Chemistry and Light - Photochemistry in Action: A Demonstration Lecture</td></tr>
+
+<tr>
+<th colspan="4" class="center_headings">Michealmas Term 1998</th>
+</tr>
+
+<tr>
+<th>When</th>
+<th>Where</th>
+<th>Who</th>
+<th>What</th>
+</tr>
+
+<tr><td>Wednesday third week (October 28th) 8:15pm</td><td>ICL</td><td><a href="http://www.esc.cam.ac.uk/astaff/huppert">Prof Herbert Huppert</a> (<a href="http://www.esc.cam.ac.uk/">Department of Earth Sciences, University of Cambridge</a>)</td><td>Did the Earth Move for You?</td></tr>
+<tr><td>Sunday fourth week (November 1st) 10:15am</td><td>North Lodge 2, Merton</td><td>&nbsp;</td></tr>
+<tr><td>Wednesday fourth week (November 4th) 8:15pm</td><td>ICL</td><td>Dr John Salthouse (<a href="http://www.ch.man.ac.uk">Department of Chemistry, University of Manchester</a>)</td><td>Son et Lumiere</td></tr>
+<tr><td>Wednesday fifth week (November 11th) 8:15pm</td><td>ICL</td><td>Prof Kay-Tee Khaw (Department of Clinical Gerontology, Addenbrookes' Hospital, Cambridge)</td><td>Is There an Anti-Ageing Diet?</td></tr>
+<tr><td>Wednesday sixth week (November 18th) 8:15pm</td><td>ICL</td><td><a href="http://speke.ukc.ac.uk/physical-sciences/main/staff/cjs.htm">Dr Chris Solomon</a> (<a href="http://speke.ukc.ac.uk/physical-sciences/aog/">Applied Optics Group, University of Kent at Canterbury</a>)</td><td>My Face is My Password</td></tr>
+<tr><td>Sunday seventh week (November 22nd) 2:00pm</td><td>North Lodge 2, Merton</td><td>&nbsp;</td></tr>
+<tr><td>Wednesday seventh week (November 25th) 8:15pm</td><td>ICL</td><td>Dr Chris Howe (<a href="http://www.bio.cam.ac.uk/dept/biochem/">Department of Biochemistry, University of Cambridge</a>)</td><td>Evolution - from Cells to Chaucer</td></tr>
+<tr><td>Wednesday eighth week (December 2nd) 8:15pm</td><td>ICL</td><td>Dr Richard Wiseman (<a href="http://www.csicop.org">Committee for the Scientific Investigation of Claims of the Paranormal</a>)</td><td>Investigating Claims of the Paranormal</td></tr>
+
+<tr>
+<th colspan="4" class="center_headings">Trinity Term 1998</th>
+</tr>
+
+<tr>
+<th>When</th>
+<th>Where</th>
+<th>Who</th>
+<th>What</th>
+</tr>
+
+<tr><td>Wednesday first week (April 29th) 8:20pm</td><td>ICL</td><td>Dr Kim Plunkett (<a href="http://www.psych.ox.ac.uk/">Department of Experimental Psychology, University of Oxford</a>)</td><td>Mechanisms of Word Learning</td></tr>
+<tr><td>Wednesday second week (May 6th) 12:30pm</td><td></td><td colspan="2"><a href="http://www.bodley.ox.ac.uk">Guided tour of the Bodleian</a></td></tr>
+<tr><td>Wednesday second week (May 6th) 8:20pm</td><td>ICL</td><td><a href="http://www.pharm.ox.ac.uk/staff/sim.htm">Prof Edith Sim</a> (<a href="http://www.pharm.ox.ac.uk">Department of Pharmacology, University of Oxford</a>)</td><td>Genes & Environment - Partners in Causing Disease?</td></tr>
+<tr><td>Wednesday third week (May 13th) 8:20pm</td><td>ICL</td><td>Revd Ron Lancaster (<a href="http://www.kimboltonfireworks.co.uk/">Kimbolton Fireworks</a>)</td><td>Fireworks: Principles and Practice</td></tr>
+<tr><td>Wednesday fourth week (May 20th) 12:30pm</td><td></td><td colspan="2">Sharp UK</td></tr>
+<tr><td>Wednesday fifth week (May 27th) 8:20pm</td><td>ICL</td><td>Professor W. Graham Richards (Chairman of Chemistry, University of Oxford)</td><td>The Origins of <a href="http://www.oxmol.com.uk">Oxford Molecular Group</a></td></tr>
+
+<tr>
+<th colspan="4" class="center_headings">Hilary Term 1998</th>
+</tr>
+
+<tr>
+<th>When</th>
+<th>Where</th>
+<th>Who</th>
+<th>What</th>
+</tr>
+
+<tr><td>Wednesday third week (February 4th) 8:20pm</td><td>ICL</td><td>Wilmut</td><td>Cloning Dolly the Sheep (cancelled)</td></tr>
+<tr><td>Wednesday fourth week (February 11th) 12:30pm</td><td></td><td colspan="2"><a href="http://www.cclrc.ac.uk/Rutherford">Rutherford Appleton labs</a></td></tr>
+<tr><td>Wednesday fourth week (February 11th) 8:20pm</td><td>ICL</td><td><a href="http://physchem.ox.ac.uk/~hmc/">Dr Hugh Cartwright</a> (<a href="http://physchem.ox.ac.uk/">Physical and Theoretical Chemistry, Oxford</a>)</td><td>Artificial Intelligence</td></tr>
+<tr><td>Wednesday fifth week (February 18th) 8:20pm</td><td>ICL</td><td>Irvine</td><td>Special Effects and Future Fantastic</td></tr>
+<tr><td>Wednesday sixth week (February 25th) 8:20pm</td><td>ICL</td><td>Bagnall</td><td>The Physics of Skiing</td></tr>
+<tr><td>Wednesday seventh week (March 4th) 8:20pm</td><td>ICL</td><td>Colin Jack (Author)</td><td>The Impossible Paradox - One World or Many?</td></tr>
+<tr><td>Sunday eighth week (March 8th) 5:30pm</td><td>Gibbs Room, Keble</td><td>&nbsp;</td></tr>
+<tr><td>Wednesday eighth week (March 11th) 12:30pm</td><td></td><td colspan="2"><a href="http://www.jet.uk">JET</a></td></tr>
+
+<tr>
+<th colspan="4" class="center_headings">Michealmas Term 1997</th>
+</tr>
+
+<tr>
+<th>When</th>
+<th>Where</th>
+<th>Who</th>
+<th>What</th>
+</tr>
+
+<tr><td>Thursday sixth week (November 20th) 8:30pm</td><td>NAPL</td><td>O'Leary</td><td>The Paradigms of Science</td></tr>
+<tr><td>Wednesday seventh week (November 26th) 8:30pm</td><td>ICL</td><td>Professor Sir Roger Penrose (<a href="http://www.maths.ox.ac.uk/">Oxford University</a>)</td><td>Science and the Mind</td></tr>
+<tr><td>Sunday eighth week (November 30th) 2:00pm</td><td>Gibbs Room, Keble</td><td>&nbsp;</td></tr>
+<tr><td>Wednesday eighth week (December 3rd) 12:30pm</td><td>Outside Queens</td><td colspan="2">Sharp Laboratories</td></tr>
+<tr><td>Wednesday eighth week (December 3rd) 8:00pm</td><td>King's Arms</td><td colspan="2">SciSoc end-of-term pub crawl</td></tr>
+
+<tr>
+<th colspan="4" class="center_headings">Trinity Term 1997</th>
+</tr>
+
+<tr>
+<th>When</th>
+<th>Where</th>
+<th>Who</th>
+<th>What</th>
+</tr>
+
+<tr><td>Wednesday second week (May 7th) 8:30pm</td><td>ICL</td><td><a href="http://www.rdg.ac.uk/TCS/Staff/Prof__Kevin_Warwick/prof__kevin_warwick.html">Prof Kevin Warwick</a> (<a href="http://www.cyber.rdg.ac.uk/">Department of Cybernetics, University of Reading</a>)</td><td>March of the Machines</td></tr>
+<tr><td>Wednesday third week (May 14th) 8:30pm</td><td>Gulbenkian Lecture Theatre</td><td>Kroto</td><td>C<sub>60</sub> : Buckminsterfullerene</td></tr>
+<tr><td>Wednesday third week (May 14th) 12:30pm</td><td>Gloucester Green</td><td colspan="2">Rutherford Appleton laboratory</td></tr>
+<tr><td>Monday fourth week (May 19th) 7:30pm</td><td>Gibbs Room, Keble</td><td>&nbsp;</td></tr>
+<tr><td>Monday fourth week (May 19th) 8:30pm</td><td>NAPL</td><td>Dunkley</td><td>Sir Norman Lockyer, his life and works</td></tr>
+<tr><td>Wednesday fourth week (May 21st) 4:00pm</td><td>Merton Punt House, in St Catherine's</td><td colspan="2">Punt Party</td></tr>
+<tr><td>Wednesday fifth week (May 28th) 8:30pm</td><td>ICL</td><td>Walton</td><td>The Paranormal - Science or Fiction</td></tr>
+<tr><td>Wednesday fifth week (May 28th) 12:30pm</td><td>Gloucester Green</td><td colspan="2">Oxford Instruments</td></tr>
+<tr><td>Wednesday sixth week (June 4th) 8:30pm</td><td>ICL</td><td>Professor Steven Jones (<a href="http://www.gene.ucl.ac.uk/">Professor of Genetics at University College London</a>)</td><td>What Sex Really Means</td></tr>
+<tr><td>Monday seventh week (June 9th) 7:30pm</td><td>Gibbs Room, Keble</td><td>&nbsp;</td></tr>
+
+<tr>
+<th colspan="4" class="center_headings">Hilary Term 1997</th>
+</tr>
+
+<tr>
+<th>When</th>
+<th>Where</th>
+<th>Who</th>
+<th>What</th>
+</tr>
+
+<tr><td>Wednesday second week (January 29th) 8:30pm</td><td>ICL</td><td></td><td>Say it with frozen flowers</td></tr>
+<tr><td>Wednesday third week (February 5th) 8:30pm</td><td>ICL</td><td>Dr John Salthouse (<a href="http://www.ch.man.ac.uk">Department of Chemistry, University of Manchester</a>)</td><td>Son et Lumiere</td></tr>
+<tr><td>Monday fourth week (February 10th) 7:30pm</td><td>Gibbs Room, Keble</td><td>&nbsp;</td></tr>
+<tr><td>Wednesday fourth week (February 12th) 6:00pm</td><td>Gulbenkian Lecture Theatre</td><td></td><td>Foetal pain - does it exist?</td></tr>
+<tr><td>Wednesday fifth week (February 19th) 12:30pm</td><td>Gloucester Green, coach number 390</td><td colspan="2">JET</td></tr>
+<tr><td>Wednesday sixth week (February 26th) 8:30pm</td><td>ICL</td><td></td><td>DNA-based technology - a step too far?</td></tr>
+<tr><td>Wednesday seventh week (March 5th) 1:00pm</td><td>Wadham Porter's Lodge</td><td colspan="2">the Bodleian</td></tr>
+<tr><td>Thursday seventh week (March 6th) 7:30pm</td><td>Gibbs Room, Keble</td><td>&nbsp;</td></tr>
+
+<tr>
+<th colspan="4" class="center_headings">Michealmas Term 1996</th>
+</tr>
+
+<tr>
+<th>When</th>
+<th>Where</th>
+<th>Who</th>
+<th>What</th>
+</tr>
+
+<tr><td>Wednesday second week (October 23rd) 8:30pm</td><td>ICL</td><td>Lacey</td><td>The BSE Cover-up Uncovered</td></tr>
+<tr><td>Wednesday third week (October 30th) 8:30pm</td><td>ICL</td><td>Nowak</td><td>The Evolution of Cooperation</td></tr>
+<tr><td>Monday fourth week (November 4th) 8:00pm</td><td>Gibbs Room,Keble</td><td>&nbsp;</td></tr>
+<tr><td>Wednesday fourth week (November 6th) 12:00pm</td><td>Merton Lodge</td><td colspan="2">The Pig Improvement Company</td></tr>
+<tr><td>Wednesday fourth week (November 6th) 8:30pm</td><td>ICL</td><td>Keeley</td><td>Forensic Science</td></tr>
+<tr><td>Wednesday fifth week (November 13th) 8:30pm</td><td>ICL</td><td>Deliyanakis</td><td>Bringing Fusion Power Down to Earth</td></tr>
+<tr><td>Thursday sixth week (November 21st) 8:30pm</td><td>ICL</td><td>Maynard-Smith</td><td>Animal Signals and Human Language</td></tr>
+<tr><td>Saturday sixth week (November 23rd) 3:00pm</td><td>Outside Laser Quest</td><td colspan="2">Battle with the Invariants</td></tr>
+<tr><td>Wednesday seventh week (November 27th) 1:00pm</td><td>Merton Lodge</td><td colspan="2">The Rover Plant, Cowley</td></tr>
+<tr><td>Tuesday seventh week (November 26th) 8:00pm</td><td>Gibbs Room, Keble</td><td>&nbsp;</td></tr>
+
+</table>
+
+</div>
+
+<!--#include file="includes/footer.html"-->
+
+</body>
+</html>
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d45 1
+a45 1
+<tr><td>Fourth Week - Monday 18th May 2009 - 8:15pm</td><td>ICL</td><td>Professor Simon Baron-Cohen, University of Cambridge</td><td><a href="http://users.ox.ac.uk/~science/termcards/tt09.shtml#3">Prenatal Testosterone in Mind</a></td></tr>
+@

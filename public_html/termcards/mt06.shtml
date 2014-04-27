@@ -1,0 +1,85 @@
+
+
+<!--#include virtual="/~science/includes/termcard_header.shtml"-->
+
+<h1>Oxford University Scientific Society - Michaelmas Term 2006</h1>
+
+
+<h2 id='Fitzgibbon'>Computer Vision and theGeometry of Nature</h2>
+
+<h3>Dr Andrew Fitzgibbon Second Week, Wednesday 18th October</h3>
+
+<p>Computer vision is the search for mathematical models andalgorithmswhich can explain and emulate the tremendous visual abilities that mostof us rarely notice we possess: we can easily recognize thousands ofobjects, follow complicated movements, and almost subconsciously builda three dimensional view of the world through stereo vision.When a camera captures a movie of some scene in the world, the richvisual complexity of the scene is not lost - we can still enjoy the imagesand recognize the film's contents - but the visual patterns are translatedtocomplex numerical arrangements which current mathematics andstatistics strives to represent and understand.Although science is far from having a complete understanding of theprocesses of vision, the last decade has seen applications of artificialvision move out of the lab into the real world.I will talk mainly about the use of computer vision in obtaining a 3Drepresentation of the world, and the application of these techniques tocinematic special effects in movies such as the &quot;Harry Potter&quot;and &quot;Lordof the Rings&quot; series. I will describe several classic experiments which suggest that not alltasks require AI. I then consider applications where these tasks arise,forexample robot navigation and special effects and show how acombination of engineering and geometry gives us reliable solutions inreal scenes.I shall end by speculating on the tractability of some harder problems,such as object recognition and unsupervised learning of visualcompetences.</p>
+
+
+<h2 id='Lancaster'>Fireworks: Principles andPractice</h2>
+
+<h3>Reverend Ron Lancaster MBE Third Week, Wednesday 26th October</h3>
+
+<p>This lecture promises to be an exciting, practical demonstrationofgeneral explosive chemistry and the influence of a number of chemicaland physical principles in the manufacture of fireworks!The influence of particle size, temperature, and pressure is illustratedinthe burning speed of various items, such as gunpowder and flashpowderbased noise makers.The curious effects of noise makers are explained and demonstratedusing whistles and crackers. Light producing compounds withmagnalium alloys and suitable catalysts can be encouraged to producestrobotic effects. The combination of gunpowder or its constituents with metals or formsof charcoal will be used to exhibit the gold, silver, and glitter effects.While the combination of potassium perchlorate will be used todemonstrate the production of low temperature with gum resins andcolouring agents or high temperature flames with the addition ofmagnalium.</p>
+
+
+<h2 id='Tate2'>Avoiding Armageddon</h2>
+
+<h3>Mr Jay Tate Fourth Week, Wednesday 1st November</h3>
+
+<p>Over the past decade the risk of minor planets collidingwith the Earthhas emerged as one of the most significant natural hazards faced by theterrestrial biosphere.Ongoing studies of comets and asteroids, their distribution and dynamics,the cratering record on the Earth and elsewhere in the Solar System allpoint to a long term risk whose magnitude exceeds many others thatgenerate substantial action and funding. Yet, despite the proven degreeofthe risk and expressions of concern by bodies such as the UN, OECD andWEU, the impact hazard has attracted little or no funding or concreteaction outside the United States. The actions that are required to mitigate the impact hazard will beconsidered, and some of the policy problems involved outlined.International progress so far will be reviewed, and some of the plans forfuture NEO research and surveillance programmes will be examined.</p>
+
+
+<h2 id='Baxter'>TopSat - low cost imagery from space</h2>
+
+<h3>Elaine Baxter,  Fifth Week, Monday 6th NovemberCancelled</h3>
+
+<p>TopSat is a major step forward in the affordability ofspace missions,providing 2.8 metre resolution images at a much reduced cost comparedto larger satellites. Typically, current generation imaging satellites withcomparable performance cost over five times more than TopSat. TopSatalso has the best resolution per mass of any imaging satellite currentlyavailable so has a wide range of applications. These include mineral andpetroleum exploration, forestry, flood monitoring and combatingmaritime oil pollution. The images produced by TopSat are delivered in near-real time,enhancing its ability to support disaster relief operations in the eventoflandslides, earthquakes and other emergencies. Images can also bedelivered to customers in situ via QinetiQ's fully mobile data groundstation (RAPIDS).</p>
+
+
+<h2 id='Jones'>Why Intelligent Design is for Stupid People</h2>
+
+<h3>Professor Steven Jones, Fifth Week, Wednesday 8th November</h3>
+
+<p>If you have confidence in the opinion polls, one British sixth-formerinthree believes that life did not evolve, but was designed by someintelligent being.Charles Darwin, in contrast, together with every modern biologist, turnsto natural selection as the explanation for the diversity of life. Darwinknew that to understand evolution he needed to study a single group indetail. Before writing The Origin he spent eight years working onbarnacles and became the world's greatest expert. As his knowledgegrew, two truths began to dawn: that their great variety descended from acommon ancestor and that the evolution of barnacles, or anything else,had no strategy, but depended on tactics alone. There was no plan:instead, the barnacles and their relatives used an almost infinite seriesofexpedients to cope with what life had thrown at them.Some people are so impressed by nature's complexity that they cannotbelieve in the power of pragmatism. The theory of &quot;intelligent design&quot;insists that planning - and a planner - are needed to explain the origin ofbarnacles and of all other creatures. That notion turns not on eight years'hard study but on ignorance, idleness and arrogance: I am very smart, Ido not understand this, so why bother to explain it except with the help ofGod (if necessary under an alibi)? Unfortunately for its proponents, evena brief look at any living system shows that a designer, if He exists, mustbe remarkably bad at his job. I will talk about why life is such a mess,and why intelligent design can satisfy only people who are, if not stupid,at best incurious.</p>
+
+
+<h2>Before the Big Bang: A Radical Solution to a Profound Cosmological Mystery</h2>
+
+<h3>Professor Sir Roger Penrose FRS, Sixth Week, Wednesday 15th November</h3>
+
+<p>The second law of thermodynamics asserts, in effect, thatthings get more&quot;random&quot; as time progresses. Looking back in time, this tells usthat thebeginning of the universe---the &quot;big bang&quot;---must have been anextraordinarily precisely organized state. What was this state? How canwe resolve, in any scientific way, the mystery of how its precision cameabout? In this talk, a novel (and perhaps outrageous) solution is suggested,which involves an examination of what is to be expected of the veryremote future of our universe, with its observed accelerated expansion.This suggestion depends upon a slightly more primitive form ofspacetime geometry than Einstein's curved metric geometry, namelyconformal geometry, in which it is merely the speed of light whichprovides the needed structure. Some observational consequences of theproposal will be indicated.</p>
+
+
+<h2 id='Head'>The Dongtan Eco-City Project Chongming Island, Shanghai</h2>
+
+<h3>Mr Peter Head OBE FREng FRSA, Seventh Week, Wednesday 22nd November</h3>
+
+<p>The Chinese Government has stated that it is looking to developa newparadigm of urban development to deal with rising pollution and resourcedepletion associated with the rapid urbanisation process. Dongtan hasbeen selected as a demonstrator of this new approach and will be a newcity for up to 500,000 people built on an island in the Yangste River justnorth of Shanghai. Arup were appointed to carry out the masterplanningof this new eco-city in August 2005 and the construction of the first phaseof the development is planned to begin next year, with completion for theShanghai Expo in 2010. Peter will describe the masterplan and how it deals with the keyenvironmental, social and economic objectives compared with a 'businessas usual' development. This will be done with numerical comparisons. Inthis way he will show how an integrated approach to city planning canyield surprising progress in sustainability and in particular reduction ingreenhouse gas emissions.</p>
+
+
+<h2 id='Edwards'>Hydrogen Energy:Key to a Sustainable Energy Future?</h2>
+
+<h3>Professor Peter Edwards FRS, Eighth Week, Wednesday 29th November</h3>
+
+<p>Hydrogen, the simplest and most abundant element in the universe,hasthe potential to change our world. Fuelled by concerns about globalclimate change, urban pollution and energy security, hydrogen isconsidered by many as the energy carrier for our future. Hydrogen can beutilized in transportation, distributed heat and power generation andenergy storage. The concept of a hydrogen-based economy can conferenormous environmental and economic benefits together with enhancedsecurity of energy supply. However, the transition from a carbon-based(fossil fuel) energy system to a hydrogen-based economy involves manychallenges and uncertainties. Balancing hydrogen's many attractions aresignificant scientific, technical and socio-economic barriers to its ultimateimplementation as the clean energy source of the future. This presentation aims to capture the present state of hydrogen energyresearch and development and address the challenges posed by thehydrogen economy.</p>
+
+
+<h2 id='MusHist'>Tour of the Oxford Museum of the History ofScience</h2>
+
+<h3>Third Week, Thursday 27th October</h3>
+
+<p>Dr. Stephen Johnston will give a unique guided tour of themuseum especially for members. The museum contains interesting historicalscientific instruments and the world's largest collection of astrolabes. Thetour will last approximately one hour.</p>
+
+
+<h2 id='PowerStation'>Trip to Didcot Power Station</h2>
+
+<h3>Sixth Week, Friday 17th November</h3>
+
+<p>An interesting behind the scenes visit to a 2,000MW dual-firedpower station, situated 10 minutes from Oxford by train. The walking tour will provide an insight into a working powerstation, including visiting the boiler house, turbine hall and control room.</p>
+
+
+<h2 id='Dinner'>OU Scientific Society Black Tie Dinner</h2>
+
+<h3>Seventh Week, Thursday 23rd November</h3>
+
+<p>A luxurious 3 course dinner with a choice of red or whitewine to be held in Lincoln College. Details with menu options, including avegetarian option, will be e-mailed shortly.</p>
+
+<!--#include virtual="/~science/includes/termcard_footer.shtml"-->
+

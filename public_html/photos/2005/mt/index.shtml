@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<title>Society Photos - Michaelmas term 2005</title>
+<link rel="stylesheet" href="../../../style.css" />
+</head>
+
+<body>
+
+<!--#include virtual="/~science/menu.html"-->
+
+<div>
+<h1>Photos</h1>
+<h2>Michaelmas term 2005</h2>
+
+<h3><a href="/~science/termcards/mt05.html#Horne">Why sleep?</a></h3>
+<p>Professor Jim Horne</p>
+<div class="photot">
+<a href="l1a.jpeg"><img src="l1as.jpeg" width="160" alt="Professor Jim Horne showing sleep EEG traces." /></a>
+</div>
+
+
+<h3><a href="/~science/termcards/mt05.html#Emsley">Elements of murder</a></h3>
+<p>Dr John Emsley</p>
+<div class="photos">
+<a href="l2a.jpeg"><img src="l2as.jpeg" width="160" alt="Dr John Emsley" /></a>
+</div>
+
+
+<h3><a href="/~science/termcards/mt05.html#Isenberg">The magic of soap bubbles</a></h3>
+<p>Dr Cyril Isenberg</p>
+<div class="photos">
+<a href="l3a.jpeg"><img src="l3as.jpeg" width="160" alt="Dr Isenberg showing a bubble in a pyramid." /></a>
+<a href="l3b.jpeg"><img src="l3bs.jpeg" width="160" alt="Dr Isenberg showing a smoke filled bubble." /></a>
+<a href="l3c.jpeg"><img src="l3cs.jpeg" width="160" alt="Dr Isenberg showing a smoke filled bubble." /></a>
+<a href="l3d.jpeg"><img src="l3ds.jpeg" width="160" alt="Dr Isenberg showing a smoke filled bubble." /></a>
+<a href="l3e.jpeg"><img src="l3es.jpeg" width="160" alt="Dr Isenberg on a desk creating a large bubble." /></a>
+<a href="l3f.jpeg"><img src="l3fs.jpeg" width="160" alt="A very large bubble." /></a>
+<a href="l3g.jpeg"><img src="l3gs.jpeg" width="160" alt="Dr Isenberg making a very large cylindrical bubble." /></a>
+</div>
+
+<p><a href="../">Photos 2005</a></p>
+
+</div>
+
+</body>
+</html>

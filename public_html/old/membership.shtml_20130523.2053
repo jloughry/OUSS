@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<title>Oxford University Scientific Society - Membership</title>
+
+<link rel="shortcut icon" href="/~science/favicon.ico" />
+
+<link type="text/css" rel="stylesheet" href="includes/style.css" />
+
+</head>
+
+<body>
+
+<!--#include file="includes/banner.html"-->
+
+<!--#include file="includes/menu.html"-->
+
+<div id="body">
+
+<h1>Membership</h1>
+
+<h2>It is easy to join the Scientific Society!</h2>
+
+<p>Life membership is &pound;20, Annual membership is &pound;10 if you
+join at any time during the term.  Life membership is just that&mdash;you remain
+a member after having left Oxford and are welcome back, even in your
+old age.</p>
+
+<p>You can join in by PayPal right now:</p>
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="RT6UBY8MLBUYG">
+<table>
+<tr><td><input type="hidden" name="on0" value="Membership Type">Get your membership
+here!</td></tr><tr><td><select name="os0">
+<option value="Annual">Annual 10.00 GBP</option>
+<option value="Life">Life 20.00 GBP</option>
+</select> </td></tr>
+</table>
+<input type="hidden" name="currency_code" value="GBP">
+<input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif"
+border="0" name="submit" alt="PayPal &mdash; The safer, easier way to pay online.">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1"
+height="1">
+</form>
+
+<p>Membership entitles you to free entry to all the society talks,
+normally &pound;2 on the door for non-members. This makes life
+membership a really good deal. Even if you were to only come to two
+talks per term there would still be a saving!</p>
+
+<p>Each lecture is followed by a reception with drinks, snacks, and
+the opportunity to talk to the speaker and meet fellow science students.</p>
+
+<p>If you would like to come to dinner with the speaker beforehand, please
+<a href="mailto:jane.duncan@live.co.uk">email the President</a> (Jane Duncan,
+St Hugh's) before 12 midday on the day of the talk.</p>
+
+<p>We can also still take your money at society meetings or by post to the
+Membership Secretary (Sophi Shanmuganathan, St Hugh's).  Cheques should be made
+payable to "OU Scientific Society".  Contact
+<a href="mailto:Sophi.Shanmuganathan@st-hughs.ox.ac.uk">Sophi.Shanmuganathan@st-hughs.ox.ac.uk</a>
+if you have any questions about membership.</p>
+
+</div>
+
+<!--#include file="includes/footer.html"-->
+
+</body>
+</html>

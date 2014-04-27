@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<title>Oxford University Scientific Society - OUSS</title>
+
+<link rel="shortcut icon" href="/~science/favicon.ico" />
+
+
+<meta name="verify-v1" content="nXNGBioX5zNTb0d+UVYZjRoIcnffU2fZvKQb6PXOv6c=" />
+
+<meta name="description" content="This is the home page of the Oxford University Scientific Society" />
+
+<meta name="keywords" content="OUSS, oxford, university, scientific, society, science, biology, chemistry, physics" />
+
+
+<link type="text/css" rel="stylesheet" href="includes/style.css" />
+
+<link rel="alternate" type="application/rss+xml" title="OUSS Termcard" href="http://www.google.com/calendar/feeds/tu4d4p7f5e4hf5idtu916mc0sk%40group.calendar.google.com/public/basic">
+
+
+<script type="text/javascript">
+<!--
+/**
+ * Converts an xs:date or xs:dateTime formatted string into the local timezone
+ * and outputs a human-readable form of this date or date/time.
+ *
+ * @param {string} gCalTime is the xs:date or xs:dateTime formatted string
+ * @return {string} is the human-readable date or date/time string
+ */
+function formatGCalTime(gCalTime) {
+  // text for regex matches
+  var remtxt = gCalTime;
+
+  function consume(retxt) {
+    var match = remtxt.match(new RegExp('^' + retxt));
+    if (match) {
+      remtxt = remtxt.substring(match[0].length);
+      return match[0];
+    }
+    return '';
+  }
+
+  // minutes of correction between gCalTime and GMT
+  var totalCorrMins = 0;
+
+  var year = consume('\\d{4}');
+  consume('-?');
+  var month = consume('\\d{2}');
+  consume('-?');
+  var dateMonth = consume('\\d{2}');
+  var timeOrNot = consume('T');
+
+  // if a DATE-TIME was matched in the regex
+  if (timeOrNot == 'T') {
+    var hours = consume('\\d{2}');
+    consume(':?');
+    var mins = consume('\\d{2}');
+    consume('(:\\d{2})?(\\.\\d{3})?');
+    var zuluOrNot = consume('Z');
+
+    // if time from server is not already in GMT, calculate offset
+    if (zuluOrNot != 'Z') {
+      var corrPlusMinus = consume('[\\+\\-]');
+      if (corrPlusMinus != '') {
+        var corrHours = consume('\\d{2}');
+        consume(':?');
+        var corrMins = consume('\\d{2}');
+        totalCorrMins = (corrPlusMinus=='-' ? 1 : -1) *
+            (Number(corrHours) * 60 +
+	    (corrMins=='' ? 0 : Number(corrMins)));
+      }
+    }
+
+    // get time since epoch and apply correction, if necessary
+    // relies upon Date object to convert the GMT time to the local
+    // timezone
+    var originalDateEpoch = Date.UTC(year, month - 1, dateMonth, hours, mins);
+    var gmtDateEpoch = originalDateEpoch + totalCorrMins * 1000 * 60;
+    var ld = new Date(gmtDateEpoch);
+
+    // date is originally in YYYY-MM-DD format
+    // time is originally in a 24-hour format
+    // this converts it to MM/DD hh:mm (AM|PM)
+    dateString = ld.getDate() + '/' + (ld.getMonth() + 1) + ' ' +
+        ((ld.getHours()>12)?(ld.getHours()-12):(ld.getHours()===0?12:
+	ld.getHours())) + ':' + ((ld.getMinutes()<10)?('0' +
+	ld.getMinutes()):(ld.getMinutes())) + ' ' +
+	((ld.getHours()>=12)?'pm':'am');
+  } else {
+    // if only a DATE was matched
+    dateString =  parseInt(month, 10) + '/' + parseInt(dateMonth, 10);
+  }
+  return dateString;
+}
+
+/**
+ * Creates an unordered list of events in a human-readable form
+ *
+ * @param {json} root is the root JSON-formatted content from GData
+ * @param {string} divId is the div in which the events are added
+ */
+function listEvents(root, divId) {
+  var feed = root.feed;
+  var events = document.getElementById(divId);
+
+  if (events.childNodes.length > 0) {
+    events.removeChild(events.childNodes[0]);
+  }
+
+  // create a new unordered list
+  var ul = document.createElement('div');
+
+  // loop through each event in the feed
+  for (var i = 0; i < feed.entry.length; i++) {
+    var entry = feed.entry[i];
+    var title = entry.title.$t;
+    var start = entry['gd$when'][0].startTime;
+
+    // get the URL to link to the event
+    for (var linki = 0; linki < entry['link'].length; linki++) {
+      if (entry['link'][linki]['type'] == 'text/html' &&
+          entry['link'][linki]['rel'] == 'alternate') {
+        var entryLinkHref = entry['link'][linki]['href'];
+      }
+    }
+
+    var dateString = formatGCalTime(start);
+    var li = document.createElement('p');
+
+    // if we have a link to the event, create an 'a' element
+    if (typeof entryLinkHref != 'undefined') {
+      entryLink = document.createElement('a');
+      entryLink.setAttribute('href', 'http://users.ox.ac.uk/~science/termcard.shtml');
+      entryLink.appendChild(document.createTextNode(title));
+      li.appendChild(entryLink);
+      li.appendChild(document.createTextNode(' - ' + dateString));
+    } else {
+      li.appendChild(document.createTextNode(title + ' - ' + dateString));
+    }
+
+    // append the list item onto the unordered list
+    ul.appendChild(li);
+  }
+  events.appendChild(ul);
+}
+
+/**
+ * Callback function for the GData json-in-script call
+ * Inserts the supplied list of events into a div of a pre-defined name
+ *
+ * @param {json} root is the JSON-formatted content from GData
+ */
+function insertAgenda(root) {
+  listEvents(root, 'agenda');
+}
+//-->
+</script>
+
+
+</head>
+
+<body>
+
+<!--#include file="includes/banner.html"-->
+
+<!--#include file="includes/menu.html"-->
+
+<div id="body">
+
+<h1>Welcome to the Oxford University Scientific Society</h1>
+
+<h2>What is the Society?</h2>
+
+<p>The Oxford University Scientific Society (OUSS) was founded in <b>1882</b> as The Oxford University Junior Scientific Club, and has had many distinguished speakers visit over the years. It is now one of Oxford's oldest and largest societies.</p>
+
+<p>The society offers its members the opportunity to listen to interesting and talented speakers who are at the forefront of their field. The talks are intended to be of general scientific interest, and are usually chosen for their prominence in popular science or the news, or for their entertainment value.</p>
+
+<p>We also organise free or subsidized visits to places of scientific interest. Past events have included tours of the Joint European Torus project, the Bodleian Library, the Oxford Museum of the History of Science, the National Space centre in Leicester, the Body Worlds exhibition in London and the MINI factory in Oxford. Suggestions for further visits are always very welcome!</p>
+
+<blockquote>
+It's never too late to start thinking about your career!
+The <a href="http://www.grb.uk.com/sbm/453">Graduate Recruitment Bureau</a> is
+a career recruitment site that
+provides a wealth of services, ranging from receiving up-to-date
+job vacancies, speaking to consultants to CV help.  And it's all
+FREE!  There are even graduate and student discounts on offer!</p>
+
+Sign up today at <a href="http://www.grb.uk.com/sbm/453">http://www.grb.uk.com/sbm/453</a>.
+</blockquote>
+
+<h2>Next event</h2>
+
+<div id="agenda"><p>Loading...</p></div>
+
+<script type="text/javascript" src="http://www.google.com/calendar/feeds/tu4d4p7f5e4hf5idtu916mc0sk%40group.calendar.google.com/public/full?alt=json-in-script&callback=insertAgenda&orderby=starttime&max-results=1&singleevents=true&sortorder=ascending&futureevents=true"></script>
+
+<p>See the <a href="termcard.shtml">termcard</a> for a full list of OUSS events.</p>
+
+<p>Unless otherwise stated, lectures take place at 8:15pm in the Inorganic Chemistry Lecture Theatre <a href="http://maps.google.co.uk/maps?q=OX1+3QR">on South Parks Road</a>.</p>
+
+<h2 id="video">Video recordings</h2>
+
+<!--
+<p><i><font color="red">Are you looking for the debate <a
+href="http://users.ox.ac.uk/~science/2013_Feb25_debate_poster_index.html"
+alt="Sloth, GLuttony, or Hormones?">poster</a> that was here last term?</font></i></p>
+
+Or <a href="http://users.ox.ac.uk/~science/audio/2013_debate_audio.mp3">audio</a>
+of the debate?</font></i></p>
+-->
+
+<p><i><font color="red">Are you looking for the </i>Geek Manifesto<i> <a
+href="http://users.ox.ac.uk/~science/2012_Geek_Manifesto_poster_index.html"
+alt="The Geek Manifesto">poster</a> that was here last term?
+Or <a href="http://www.ustream.tv/channel/lauriepycroft">video</a> of
+the live stream?</font></i></p>
+
+<p><i><font color="red">Are you looking for the debate <a
+href="http://users.ox.ac.uk/~science/2012_debate_poster_index.html"
+alt="big debate poster">poster</a> that was here last term?
+Or the <a href="http://users.ox.ac.uk/~science/termcards/tt12.shtml#video"
+alt="link to video of debate">video</a> of the debate?</font></i></p>
+
+</div>
+
+<!--#include file="includes/footer.html"-->
+
+
+</body>
+</html>

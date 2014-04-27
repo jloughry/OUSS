@@ -1,0 +1,281 @@
+# Date\time\place\type\
+# type : speak, commit, commitelect, visit [more?]
+# Speaker meetings : speaker (expanded automatically), title, webpage
+# Visits : location, webpage
+# Date can be dd/mm/yyyy or ddd/w/tttttt
+#
+
+Wed/2/MT1996\8:30pm\ICL\speak\Lacey\The BSE Cover-up Uncovered\/mt96/lacey.html
+Wed/3/MT1996\8:30pm\ICL\speak\Nowak\The Evolution of Cooperation\/mt96/nowak.html
+Mon/4/MT1996\8:00pm\Gibbs Room,Keble\commit
+Wed/4/MT1996\12:00pm\Merton Lodge\visit\The Pig Improvement Company
+Wed/4/MT1996\8:30pm\ICL\speak\Keeley\Forensic Science\/mt96/keeley.html
+Wed/5/MT1996\8:30pm\ICL\speak\Deliyanakis\Bringing Fusion Power Down to Earth\/mt96/deliyan.html
+Thu/6/MT1996\8:30pm\ICL\speak\Maynard-Smith\Animal Signals and Human Language\/mt96/mayn-smit.html
+Sat/6/MT1996\3:00pm\Outside Laser Quest\visit\Battle with the Invariants
+Wed/7/MT1996\1:00pm\Merton Lodge\visit\The Rover Plant, Cowley
+Tue/7/MT1996\8:00pm\Gibbs Room, Keble\commitelect
+
+Wed/2/HT1997\8:30pm\ICL\speak\\Say it with frozen flowers\/ht97/flowers.html
+Wed/3/HT1997\8:30pm\ICL\speak\Salthouse\Son et Lumiere\/ht97/son.html
+Mon/4/HT1997\7:30pm\Gibbs Room, Keble\commit
+Wed/4/HT1997\6:00pm\Gulbenkian Lecture Theatre\speak\\Foetal pain - does it exist?\/ht97/feotus.html
+Wed/5/HT1997\12:30pm\Gloucester Green, coach number 390\visit\JET\/ht97/jet.html
+Wed/6/HT1997\8:30pm\ICL\speak\\DNA-based technology - a step too far?\/ht97/dna.html
+Wed/7/HT1997\1:00pm\Wadham Porter's Lodge\visit\the Bodleian\/ht97/bod.html
+Thu/7/HT1997\7:30pm\Gibbs Room, Keble\commitelect
+
+Wed/2/TT1997\8:30pm\ICL\speak\Warwick\March of the Machines\/tt97/warwick.html
+Wed/3/TT1997\8:30pm\Gulbenkian Lecture Theatre\speak\Kroto\C<sub>60</sub> : Buckminsterfullerene\/tt97/kroto.html
+Wed/3/TT1997\12:30pm\Gloucester Green\visit\Rutherford Appleton laboratory
+Mon/4/TT1997\7:30pm\Gibbs Room, Keble\commit
+Mon/4/TT1997\8:30pm\NAPL\speak\Dunkley\Sir Norman Lockyer, his life and works\/tt97/dunkley.html
+Wed/4/TT1997\4:00pm\Merton Punt House, in St Catherine's\visit\Punt Party
+Wed/5/TT1997\8:30pm\ICL\speak\Walton\The Paranormal - Science or Fiction\/tt97/walton.html
+Wed/5/TT1997\12:30pm\Gloucester Green\visit\Oxford Instruments
+Wed/6/TT1997\8:30pm\ICL\speak\Jones\What Sex Really Means
+Mon/7/TT1997\7:30pm\Gibbs Room, Keble\commitelect
+
+Thu/6/MT1997\8:30pm\NAPL\speak\O'Leary\The Paradigms of Science
+Wed/7/MT1997\8:30pm\ICL\speak\Penrose\Science and the Mind
+Sun/8/MT1997\2:00pm\Gibbs Room, Keble\commitelect
+Wed/8/MT1997\12:30pm\Outside Queens\visit\Sharp Laboratories
+Wed/8/MT1997\8:00pm\King's Arms\visit\SciSoc end-of-term pub crawl
+
+Wed/3/HT1998\8:20pm\ICL\speak\Wilmut\Cloning Dolly the Sheep (cancelled)\/ht98/wilmut.html
+Wed/4/HT1998\12:30pm\\visit\Rutherford Appleton labs\http://www.cclrc.ac.uk/Rutherford
+Wed/4/HT1998\8:20pm\ICL\speak\Cartwright\Artificial Intelligence\/ht98/cartwright.html
+Wed/5/HT1998\8:20pm\ICL\speak\Irvine\Special Effects and Future Fantastic\/ht98/irvine.html
+Wed/6/HT1998\8:20pm\ICL\speak\Bagnall\The Physics of Skiing\/ht98/bagnall.html
+Wed/7/HT1998\8:20pm\ICL\speak\Jack\The Impossible Paradox - One World or Many?
+Sun/8/HT1998\5:30pm\Gibbs Room, Keble\commitelect
+Wed/8/HT1998\12:30pm\\visit\JET\http://www.jet.uk
+
+Wed/1/TT1998\8:20pm\ICL\speak\Plunkett\Mechanisms of Word Learning
+Wed/2/TT1998\12:30pm\\visit\Guided tour of the Bodleian\http://www.bodley.ox.ac.uk
+Wed/2/TT1998\8:20pm\ICL\speak\Sim\Genes & Environment - Partners in Causing Disease?
+Wed/3/TT1998\8:20pm\ICL\speak\Kimbolton\Fireworks: Principles and Practice
+Wed/4/TT1998\12:30pm\\visit\Sharp UK
+Wed/5/TT1998\8:20pm\ICL\speak\Richards\The Origins of <a href="http://www.oxmol.com.uk">Oxford Molecular Group</a>
+
+Wed/3/MT1998\8:15pm\ICL\speak\Huppert\Did the Earth Move for You?
+Sun/4/MT1998\10:15am\North Lodge 2, Merton\commit
+Wed/4/MT1998\8:15pm\ICL\speak\Salthouse\Son et Lumiere
+Wed/5/MT1998\8:15pm\ICL\speak\Khaw\Is There an Anti-Ageing Diet?
+Wed/6/MT1998\8:15pm\ICL\speak\Solomon\My Face is My Password
+Sun/7/MT1998\2:00pm\North Lodge 2, Merton\commit
+Wed/7/MT1998\8:15pm\ICL\speak\Howe\Evolution - from Cells to Chaucer
+Wed/8/MT1998\8:15pm\ICL\speak\Wiseman\Investigating Claims of the Paranormal
+Wed/8/MT1998\9:45pm\ICL\commitelect
+
+Wed/3/HT1999\8:15pm\ICL\speak\Warwick\Super Intelligent Machines or Cyborgs - Who will rule the world in the future...?\
+Wed/4/HT1999\8:15pm\ICL\speak\Saunders\The Uncommon Sense of Relativity\
+Wed/6/HT1999\8:15pm\ICL\speak\Dunbar\The Evolution of the Social Brain - Why do we spend such a large part of our conversations on social gossip...?\
+Wed/7/HT1999\8:15pm\ICL\speak\Atkins\The book, the disk and the future... - A speculation about the impact of multimedia on textbooks\
+Wed/8/HT1999\8:15pm\ICL\speak\Mills\Chemistry and Light - Photochemistry in Action: A Demonstration Lecture\
+
+Wed/1/TT1999\8:15pm\ICL\speak\Webb\Making Light Work: Application of High Powered Lasers
+Wed/2/TT1999\2:15pm\ICL\visit\Guided tour of the Bodleian\http://www.bodley.ox.ac.uk
+Wed/2/TT1999\8:15pm\ICL\speak\Richards\The Creation of <a href="http://www.oxmol.com.uk">Oxford Molecular Group</a>\
+Wed/3/TT1999\8:15pm\ICL\speak\Greenfield\The Brain of the Future\
+Wed/4/TT1999\8:15pm\ICL\speak\Goodwin\From Control to Participation in Science\
+Wed/5/TT1999\8:15pm\ICL\speak\Sim2\Innate Immunity in the Lung\
+
+Wed/3/MT1999\8:15pm\ICL\speak\Mullin\<a href="http://users.ox.ac.uk/~science/details/mt99.html">From Chaos to the Indian Rope Trick</a>\
+Wed/5/MT1999\8:15pm\ICL\speak\Kimbolton\<a href="http://users.ox.ac.uk/~science/details/mt99.html">Fireworks!</a>\
+Wed/6/MT1999\8:15pm\ICL\speak\Kinlen\<a href="http://users.ox.ac.uk/~science/details/mt99.html">Population Mixing, Infection & Childhood Leukaemia</a>\
+Wed/7/MT1999\8:15pm\ICL\speak\Gough\<a href="http://users.ox.ac.uk/~science/details/mt99.html">Listen to the Sun Shine</a>\
+Wed/8/MT1999\8:15pm\ICL\speak\Sheldrake\<a href="http://users.ox.ac.uk/~science/details/mt99.html">Telepathy and Other Unexplained Powers of Animals</a>\
+
+Wed/2/HT2000\8:15pm\ICL\speak\Ridley\<a href="http://users.ox.ac.uk/~science/details/ht00.html">Genome: Autobiography of a Species</a>\
+Wed/3/HT2000\8:15pm\ICL\speak\Graham\<a href="http://users.ox.ac.uk/~science/details/ht00.html">Alternative Energies: Wind and Wave</a>\
+Fri/4/HT2000\2:15pm\Divinity Schools\visit\Guided tour of the Bodleian\http://www.bodley.ox.ac.uk
+Wed/5/HT2000\8:15pm\ICL\speak\Grady\<a href="http://users.ox.ac.uk/~science/details/ht00.html">Can Meteorites Show there was Life on Mars?</a>\
+Wed/6/HT2000\8:15pm\ICL\speak\Shaunak\<a href="http://users.ox.ac.uk/~science/details/ht00.html">Why and how does HIV continue to replicate despite HAART</a>\
+Wed/7/HT2000\8:15pm\ICL\speak\Deutsch\<a href="http://users.ox.ac.uk/~science/details/ht00.html">The Multiverse and Quantum Computers</a>\
+Wed/8/HT2000\8:15pm\ICL\speak\Young\<a href="http://users.ox.ac.uk/~science/details/ht00.html">Children and Television Advertising</a>\
+
+Wed/2/TT2000\8:15pm\ICL\speak\Blakemore\<a href="http://users.ox.ac.uk/~science/details/tt00.html">Nature and nurture in the building of the brain</a>\
+Fri/3/TT2000\8:15pm\ICL\speak\Alexsander\<a href="http://users.ox.ac.uk/~science/details/tt00.html">How to build a mind - the Hype and the Reality</a>\
+Tue/4/TT2000\8:15pm\ICL\speak\Reynolds\<a href="http://users.ox.ac.uk/~science/details/tt00.html">Clever but nasty: Chimpanzees and Human Evolution</a>\
+Wed/5/TT2000\8:15pm\ICL\speak\Close\<a href="http://users.ox.ac.uk/~science/details/tt00.html">Lucifer's Legacy - the meaning of assymmetry</a>\
+
+Wed/2/MT2000\8:15pm\ICL\speak\Barham\<a href="http://users.ox.ac.uk/~science/details/mt00.html">The Physics of Ice Cream</a>\
+Wed/4/MT2000\8:15pm\ICL\speak\Eccles\<a href="http://users.ox.ac.uk/~science/details/mt00.html">The common cold - some unexplained mysteries</a>\
+Thu/3/MT2000\2:15pm\ICL\visit\Bodleian Tour\
+Wed/5/MT2000\8:15pm\ICL\speak\Hart-Davis\<a href="http://users.ox.ac.uk/~science/details/mt00.html">Local Heroes</a>\
+Wed/6/MT2000\8:15pm\ICL\visit\Video Night - Contact starring Jodie Foster\
+Wed/7/MT2000\8:15pm\ICL\visit\Video Night or Quiz  ight, TBA\
+Wed/8/MT2000\8:15pm\ICL\speak\Wickramasinghe\<a href="http://users.ox.ac.uk/~science/details/mt00.html">Evidence that life is a cosmic phenomenon</a>\
+
+Wed/3/HT2001\8:15pm\ICL\speak\Blackmore\<a href="http://users.ox.ac.uk/~science/details/ht01.html">Memes and Minds</a>\
+Wed/4/HT2001\8:15pm\ICL\speak\Tate\<a href="http://users.ox.ac.uk/~science/details/ht01.html">Cometary impacts - Can we protect our planet?</a>\
+Wed/5/HT2001\2:15pm\ICL\speak\Emsley\<a href="http://users.ox.ac.uk/~science/details/ht01.html">Perfumes, pampers, nicotine patches - is it really chemistry</a>\
+Wed/6/HT2001\8:15pm\ICL\speak\Tippetts\<a href="http://users.ox.ac.uk/~science/details/ht01.html">Watts, Bits and Fluid Mechanics</a>\
+Wed/7/HT2001\8:15pm\ICL\speak\Vedral\<a href="http://users.ox.ac.uk/~science/details/ht01.html">Heat and Computation - The Science of Forgetting</a>\
+Wed/8/HT2001\2pm\ICL\visit\Tour of the Oxford Museum of the History of Science
+Wed/8/HT2001\8:15pm\ICL\speak\Rowland-Jones\<a href="http://users.ox.ac.uk/~science/details/ht01.html">Towards and HIV vaccine, Lessons from Africa</a>\
+
+
+Wed/1/TT2001\8:15pm\ICL\speak\Warwick\<a href="http://users.ox.ac.uk/~science/details/tt01.html">A Cyborg Life For Me!</a>\
+Wed/2/TT2001\8:15pm\ICL\speak\Leeson\<a href="http://users.ox.ac.uk/~science/details/tt01.html">The Future of Optical and Wireless Communications</a>\
+Wed/3/TT2001\9:45am\Gloucester Green\visit\Trip to Bletchley Park\
+Wed/3/TT2001\8:15pm\ICL\speak\Ekert\<a href="http://users.ox.ac.uk/~science/details/tt01.html">Quantum Cryptography</a>\
+Wed/4/TT2001\8:15pm\ICL\speak\Parry\<a href="http://users.ox.ac.uk/~science/details/tt01.html">Pyramid Power and The Secrets Of Stonehenge</a>\
+
+
+Wed/1/MT2001\8:15pm\ICL\speak\Isenberg\<a href="http://users.ox.ac.uk/~science/details/mt01.html">The Magic of Soap Bubbles</a>\
+Wed/2/MT2001\8:15pm\ICL\speak\Mullin\<a href="http://users.ox.ac.uk/~science/details/mt01.html">Patterns in the sand</a>\
+Wed/3/MT2001\8:15pm\ICL\speak\Penny\<a href="http://users.ox.ac.uk/~science/details/mt01.html">Signs of Life on Other Earths</a>\
+Wed/4/MT2001\8:15pm\ICL\speak\Cartwright\<a href="http://users.ox.ac.uk/~science/details/mt01.html">Instinctive Science: Can Machines Out-Think Scientists?</a>\
+Mon/5/MT2001\7pm\Morris Room, Oxford Union\speak\Baker\<b>Free <a href="http://users.ox.ac.uk/~science/details/mt01.html">QinetiQ Careers Presentation</b></a>\
+
+Wed/5/MT2001\8:15pm\ICL\speak\Lehrle\<a href="http://users.ox.ac.uk/~science/details/mt01.html">Forensics: Fakes and Failures</a>\
+Wed/6/MT2001\8:15pm\ICL\speak\Widdowson\<a href="http://users.ox.ac.uk/~science/details/mt01.html">Chemistry Against The Clock: From Atom to Drug in Just One Hour</a>\
+
+Wed/7/MT2001\8:15pm\ICL\speak\Chapman\<a href="http://users.ox.ac.uk/~science/details/mt01.html">The Canon, the Chemist and the Dinosaurs: Oxford and the Origins of Fossil Geology
+</a>\
+Wed/8/MT2001\8:15pm\ICL\visit\Movie Night - Galaxy Quest (Members Only)\
+
+Wed/3/HT2002\8:15pm\ICL\speak\Kalmus\<a href="http://users.ox.ac.uk/~science/details/ht02.html#Kalmus">The Forces of Nature</a>\
+Wed/4/HT2002\8:15pm\ICL\speak\Gardner\<a href="http://users.ox.ac.uk/~science/details/ht02.html#Gardner">Harnessing Embryonic Stem Cells and Cloning: How and Why</a>\
+Wed/7/HT2002\8:15pm\ICL\speak\Wolpert\<a href="http://users.ox.ac.uk/~science/details/ht02.html#Wolpert">The Unnatural Nature of Science</a>\
+Wed/8/HT2002\8:15pm\ICL\speak\Garman\<a href="http://users.ox.ac.uk/~science/details/ht02.html#Garman">Curing Mankind's Biggest Killer - The Common Flu</a>\
+Tue/9/HT2002\7pm prompt\<b>Blackwells Café</b> \speak\Singh\<a href="http://users.ox.ac.uk/~science/details/ht02.html#Singh">The Science of Secrecy</a> <br><i>a joint event with Blackwells <a href="http://www.cafescientifique.org/">Café Scientifique.</a></i>\
+
+Wed/1/TT2002\8:15pm\ICL\speak\Davis\<a href="http://users.ox.ac.uk/~science/details/tt02.html#Davis">Much ado about infection</a>\
+Wed/2/TT2002\8:15pm\ICL\speak\Dadswell\<a href="http://users.ox.ac.uk/~science/details/tt02.html#Dadswell">design and Construction of the London Eye</a>\
+Wed/3/TT2002\8:15pm\ICL\speak\Jones\<a href="http://users.ox.ac.uk/~science/details/tt02.html#Jones">The Descent of man</a>\
+Wed/4/TT2002\8:15pm\Lindemann Lecture <br>Theatre (Physics)\speak\Lillford\<a href="http://users.ox.ac.uk/~science/details/tt02.html#Lillford"><i>Don't talk with your mouth full</i> - The Physics of Eating</a>\
+Sat/4/TT2002\9:00am\TBC\visit\Visit to the <a href="http://www.nssc.co.uk">National Space Centre</a> in Leicester, <a href="mailto:katherine.leech@wadham.ox.ac.uk">email</a> for details\
+
+Wed/1/MT2002\8:15pm\ICL\speak\Horne\<a href="http://users.ox.ac.uk/~science/details/mt02.html#Horne">Why Sleep?</a>\
+Wed/2/MT2002\8:15pm\ICL\speak\Griffiths\<a href="http://users.ox.ac.uk/~science/details/mt02.html#Griffiths">Filming Mammals for the BBC Natural History Unit </a>\
+Wed/3/MT2002\8:15pm\Moser Lecture Theatre<br>Wadham\speak\Kogan\<a href="http://users.ox.ac.uk/~science/details/mt02.html#Kogan">Modification of Gravity at large Scale: Telescope for the Microworld </a>\
+Fri/3/MT2002\13:30pm\Culham Science Centre, Oxfordshire\visit\<a href="http://users.ox.ac.uk/~science/details/mt02.html#Visit">Trip to JET - Joint European Torus</a>\
+Wed/4/MT2002\8:15pm\Moser Lecture Theatre<br>Wadham\speak\Calladine\<a href="http://users.ox.ac.uk/~science/details/mt02.html#Calladine">Construction and operation of bacterial flagella</a>\
+Wed/5/MT2002\8:15pm\Moser Lecture Theatre<br>Wadham\speak\Grant\<a href="http://users.ox.ac.uk/~science/details/mt02.html#Grant">From Soda Lakes to Salt Mines</a>\
+Wed/6/MT2002\8:15pm\ICL\speak\Andrews\<a href="http://users.ox.ac.uk/~science/details/mt02.html#Andrews">From teratocarcinoma to embryonic stem cells: Tools for human embryology and re-generative medicine</a>\
+Wed/7/MT2002\8:15pm\(TBC) Old Refectory<br>Wadham\speak\Cargill\<a href="http://users.ox.ac.uk/~science/details/mt02.html#Cargill">Cosmic Storms </a>\
+Thu/7/MT2002\6:45 for 7:15pm\Old Library, Wadham College\visit\<a href="http://users.ox.ac.uk/~science/details/mt02.html#Dinner">Black Tie dinner</a>\
+
+Wed/1/HT2003\8:15pm\ICL\speak\Kirkwood\<a href="http://users.ox.ac.uk/~science/details/ht03.html#Kirkwood">Ageing, Sex and Death</a>\
+Sat/2/HT2003\9:00am\Body Worlds Exhibition, London\visit\<a href="http://users.ox.ac.uk/~science/details/ht03.html#Visit">Visit to Body Worlds Exhibition, London</a>\
+Wed/3/HT2003\8:15pm\ICL\speak\Penny\<a href="http://users.ox.ac.uk/~science/details/ht03.html#Penny">Looking for Life on Extra-Solar Planets</a>\
+Wed/4/HT2003\8:15pm\ICL\speak\Russell\<a href="http://users.ox.ac.uk/~science/details/ht03.html#Russell">Meteorites</a>\
+Wed/5/HT2003\8:15pm\ICL\speak\Rodger\<a href="http://users.ox.ac.uk/~science/details/ht03.html#Rodger">Molecular Simulation</a>\
+Wed/7/HT2003\8:15pm\ICL\speak\Barlow\<a href="http://users.ox.ac.uk/~science/details/ht03.html#Barlow">Seeing Motion</a>\
+Wed/8/HT2003\8:15pm\ICL\speak\Donovan\<a href="http://users.ox.ac.uk/~science/details/ht03.html#Donovan">Laser Spectroscopy</a>\
+Fri/8/HT2003\7:45pm\Martin Wood Lecture Theatre\speak\Abrahams\<a href="http://users.ox.ac.uk/~science/details/ht03.html#Abrahams">Ig Nobel Prize Tour</a>\
+
+Wed/1/TT2003\8:15pm\ICL\speak\Follett\<a href="http://users.ox.ac.uk/~science/details/tt03.html#Follett">The Marriage Of Animal Behaviour To Molecular Biology</a>\
+Thu/1/TT2003\9:00pm\The Bridge\visit\<a href="http://users.ox.ac.uk/~science/details/tt03.html#leiden">Clubbing at The Bridge\
+Wed/2/TT2003\8:15pm\NAPL\speak\Jack\<a href="http://users.ox.ac.uk/~science/details/tt03.html#Jack">Smarter Ways to Space Travel</a>\
+Wed/3/TT2003\8:15pm\NAPL\speak\Leaver\<a href="http://users.ox.ac.uk/~science/details/tt03.html#Leaver">Food for Thought</a>\
+Wed/4/TT2003\8:15pm\ICL\visit\<a href="http://users.ox.ac.uk/~science/details/tt03.html#movie">Movie Night - X-Men (Members only)\
+TBC/TBC/TT2003\TBC\The Eden Project\visit\<a href="http://users.ox.ac.uk/~science/details/tt03.html#visit">The Eden Project</a>
+
+Sat/1/MT2003\2:00pm\Merton gradua e buildings, Holywell St\visit\<a href="http://users.ox.ac.uk/~science/details/mt03.html#BBQ">Welcome BBQ\
+Wed/2/MT2003\8:15pm\ICL\speak\Cooper\<a href="http://users.ox.ac.uk/~science/details/mt03.html#Cooper">Ancient DNA Studies of Humans and Animals</a>\
+Wed/3/MT2003\8:15pm\ICL\speak\Walker\<a href="http://users.ox.ac.uk/~science/details/mt03.html#Walker">The Healing Power of Plants</a>\
+Sat/5/MT2003\9:00am\Gloucester Green coach station\visit\<a href="http://users.ox.ac.uk/~science/details/mt03.html#greenwich">Visit to The Royal Observatory and National Maritime Museum, Greenwich</a>\
+Wed/6/MT2003\8:15pm\ICL\speak\Willmore\<a href="http://users.ox.ac.uk/~science/details/mt03.html#Willmore">Gamma Ray Bursts</a>\
+Wed/7/MT2003\8:15pm\ICL\speak\Richards\<a href="http://users.ox.ac.uk/~science/details/mt03.html#Richards">The Screensaver, Lifesaver Project</a>\
+Wed/8/MT2003\8:15pm\ICL\speak\Lancaster\<a href="http://users.ox.ac.uk/~science/details/mt03.html#Lancaster">Fireworks!!</a>
+
+Wed/2/HT2004\8:15pm\ICL\speak\Tippetts\<a href="http://users.ox.ac.uk/~science/details/ht04.html#Tippetts">Fluidics</a>\
+Wed/3/HT2004\8:15pm\ICL\speak\Close\<a href="http://users.ox.ac.uk/~science/details/ht04.html#Close">Lucifer's Legacy</a>\
+Wed/7/HT2004\8:15pm\ICL\speak\Hon\<a href="http://users.ox.ac.uk/~science/details/ht04.html#Hon">The Human Mission to Mars</a>\
+Wed/8/HT2004\8:15pm\ICL\speak\Slingo\<a href="http://users.ox.ac.uk/~science/details/ht04.html#Slingo">Climate in a Changing World</a>\
+Sat/6/HT2004\TBC\TBC\visit\<a href="http://users.ox.ac.uk/~science/details/ht04.html#Navy">Visit</a>\
+
+Wed/2/TT2004\8:15pm\ICL\speak\Gregory\<a href="http://users.ox.ac.uk/~science/details/tt04.html#Gregory">Phenomenal Phenomena - the nature of perception</a>\
+Wed/3/TT2004\8:15pm\ICL\speak\Vedral\<a href="http://users.ox.ac.uk/~science/details/tt04.html#Vedral">Keeping It Real: Untangling Entanglement</a>\
+Wed/4/TT2004\8:15pm\ICL\speak\Blondel\<a href="http://users.ox.ac.uk/~science/details/tt04.html#Blondel">From Bath to the Ocean: Seabed mapping, the past and the future</a>\
+
+Wed/2/MT2004\8:15pm\ICL\speak\Kraus\<a href="http://users.ox.ac.uk/~science/details/mt04.html#Kraus">Dark Matter in the Universe</a>\
+Wed/4/MT2004\8:15pm\ICL\speak\Atkins\<a href="http://users.ox.ac.uk/~science/details/mt04.html#Atkins">Galileo's Finger: The ten great ideas of science</a>\
+Wed/5/MT2004\8:15pm\ICL\speak\Alexander\<a href="http://users.ox.ac.uk/~science/details/mt04.html#Alexander">How animals do the (apparently) impossible.</a>\
+Wed/6/MT2004\8:15pm\ICL\speak\Davies\<a href="http://users.ox.ac.uk/~science/details/mt04.html#Davies">Squeezing more out of the electromagnetic spectrum: terahertz science and technology</a>\
+Fri/6/MT2004\2:00pm\TBC\visit\<a href="http://users.ox.ac.uk/~science/details/mt04.html#JET">Visit to JET (Joint European Torus)</a>\
+Wed/7/MT2004\8:15pm\ICL\speak\Dowsett\<a href="http://users.ox.ac.uk/~science/details/mt04.html#Dowsett">Science increases incidence but reduces mortality from breast cancer</a>\
+Wed/8/MT2004\8:15pm\ICL\speak\Coleman\<a href="http://users.ox.ac.uk/~science/details/mt04.html#Coleman">Probing Matter with Antimatter</a>\
+
+Wed/2/HT2005\8:15pm\ICL\speak\Stein\<a href="http://users.ox.ac.uk/~science/details/ht05.html#Stein">Eyes, Ears, Families and Fish - The Magnocellular Hypothesis of Developmental Dyslexia</a>\
+Wed/4/HT2005\8:15pm\ICL\speak\Barham\<a href="http://users.ox.ac.uk/~science/details/ht05.html#Barham">The Physics of Ice Cream</a>\
+Wed/5/HT2005\8:15pm\ICL\speak\Young\<a href="http://users.ox.ac.uk/~science/details/ht05.html#Young">Newton and the Nature of Electronic Editions ~ An Introduction to the Isaac Newton Manuscript Project</a>\
+Wed/7/HT2005\8:15pm\ICL\speak\Leroi\<a href="http://users.ox.ac.uk/~science/details/ht05.html#Leroi">The Genes that make us Human</a>\
+Wed/8/HT2005\8:15pm\ICL\speak\Luebkeman\<a href="http://users.ox.ac.uk/~science/details/ht05.html#Luebkeman">Can you imagine...?</a>\
+
+Wed/1/TT2005\8:15pm\ICL\speak\Windle\<a href="http://users.ox.ac.uk/~s ience/details/tt05.html#Windle">Carbon Nanotubes: a new science, a new benefit?</a>\
+Wed/2/TT2005\8:15pm\ICL\speak\Brooke\<a href="http://users.ox.ac.uk/~science/details/tt05.html#Brooke">Famous myths in the history of science</a>\
+Thu/3/TT2005\8:15pm\ICL\speak\Iversen\<a href="http://users.ox.ac.uk/~science/details/tt05.html#Iversen">Medical Marijuana</a>\
+Wed/4/TT2005\8:15pm\ICL\speak\Haines\<a href="http://users.ox.ac.uk/~science/details/tt05.html#Haines">Controlled Fusion: a broad approach</a>\
+
+Wed/2/MT2005\8:15pm\ICL\speak\Horne\<a href="http://users.ox.ac.uk/~science/details/mt05.html#Horne">Why Sleep?</a>\
+Wed/3/MT2005\8:15pm\ICL\speak\Rowland-Jones\<a href="http://users.ox.ac.uk/~science/details/mt05.html#Rowland-Jones">Towards an HIV vaccine? Lessons from Africa</a>\
+Wed/4/MT2005\8:15pm\ICL\speak\Emsley\<a href="http://users.ox.ac.uk/~science/details/mt05.html#Emsley">Elements of Murder: The Dark Side of the Periodic Table</a>\
+Wed/6/MT2005\8:15pm\ICL\speak\Isenberg\<a href="http://users.ox.ac.uk/~science/details/mt05.html#Isenberg">The Magic of Soap Bubbles</a>\
+Wed/7/MT2005\8:15pm\ICL\speak\Wickramasinghe\<a href="http://users.ox.ac.uk/~science/details/mt05.html#Wickramsinghe">The Continuing Search for our Cosmic Ancestry</a>\
+Wed/8/MT2005\8:15pm\ICL\speak\Aleksander\<a href="http://users.ox.ac.uk/~science/details/mt05.html#Aleksander">Machines with Minds: Hype or Sensible Science?</a>\
+
+Sat/1/HT2006\11:00am\Careers Service\speak\Careers\<a href="http://users.ox.ac.uk/~science/details/ht06.html#Careers">Careers Service Event</a>\
+Wed/2/HT2006\8:15pm\ICL\speak\Das\<a href="http://users.ox.ac.uk/~science/details/ht06.html#Das">Earthquakes</a>\
+Wed/4/HT2006\8:15pm\ICL\speak\Rowland-Jones\<a href="http://users.ox.ac.uk/~science/details/ht06.html#Rowland-Jones">Towards an HIV vaccine</a>\
+Wed/5/HT2006\8:15pm\ICL\speak\Pearce\<a href="http://users.ox.ac.uk/~science/details/ht06.html#Pearce">Exoplanets: are we alone?</a>\
+Wed/6/HT2006\8:15pm\ICL\speak\Brownlee\<a href="http://users.ox.ac.uk/~science/details/ht06.html#Brownlee">The bird flu threat</a>\
+Wed/7/HT2006\8:15pm\ICL\speak\Nevill\<a href="http://users.ox.ac.uk/~science/details/ht06.html#Nevill">Are there limits to running world-records?</a>\
+Wed/8/HT2006\8:15pm\ICL\speak\Patel\<a href="http://users.ox.ac.uk/~science/details/ht06.html#Patel">Achieving the Millennium Development Goals</a>\
+
+Wed/1/TT2006\8:15pm\ICL\speak\Westwell\<a href="http://users.ox.ac.uk/~science/details/tt06.html#Westwell">The future of the mind</a>\
+Wed/2/TT2006\8:15pm\ICL\speak\GrantP\<a href="http://users.ox.ac.uk/~science/details/tt06.html#Grant">The manufacture of new materials for industrial applications using droplets</a>\
+Wed/3/TT2006\8:15pm\ICL\speak\Close\<a href="http://users.ox.ac.uk/~science/details/tt06.html#Close">The Particle Odyssey</a>\
+Wed/4/TT2006\8:15pm\ICL\speak\Schofield\<a href="http://users.ox.ac.uk/~science/details/tt06.html#Schofield">The chemistry of natural oxygen sensing</a>\
+
+Wed/1/MT2006\8:15pm\ICL\visit\Welcome drinks
+Wed/2/MT2006\8:15pm\ICL\speak\Fitzgibbon\<a href="http://users.ox.ac.uk/~science/details/mt06.html#Fitzgibbon">Computer Vision and the Geometry of Nature</a>\
+Wed/3/MT2006\8:15pm\ICL\speak\Lancaster\<a href="http://users.ox.ac.uk/~science/details/mt06.html#Lancaster">Fireworks: Principles and Practice</a>\
+Thu/3/MT2006\2:30pm\Museum of the History of Science\visit\<a href="http://users.ox.ac.uk/~science/details/mt06.html#MusHist">Tour of the Oxford Museum of the History of Science</a>\
+Wed/4/MT2006\8:15pm\ICL\speak\Tate2\<a href="http://users.ox.ac.uk/~science/details/mt06.html#Tate2">Avoiding Armageddon</a>\
+Mon/5/MT2006\8:15pm\ICL\speak\Baxter\<a href="http://users.ox.ac.uk/~science/details/mt06.html#Baxter">Topsat: low cost imagery from space</a>\
+Wed/5/MT2006\8:15pm\ICL\speak\Jones\<a href="http://users.ox.ac.uk/~science/details/mt06.html#Jones">Why intelligent design is for stupid people</a>\
+Wed/6/MT2006\8:15pm\Martin Wood\speak\Penrose\<a href="http://users.ox.ac.uk/~science/details/mt06.html#Penrose">Before the Big Bang: A radical solution to a profound cosmological mystery</a> 
+Fri/6/MT2006\1:40pm\TBC\visit\<a href="http://users.ox.ac.uk/~science/details/mt06.html#PowerStation">Trip to Didcot Power Station</a>\
+Wed/7/MT2006\8:15pm\ICL\speak\Head\<a href="http://users.ox.ac.uk/~science/details/mt06.html#Head">The Dontang Eco-City Project</a>\
+Thu/7/MT2006\TBC\Lincoln College\visit\<a href="http://users.ox.ac.uk/~science/details/mt06.html#Dinner">OU Scientific Society Black Tie Dinner</a>\
+Wed/8/MT2006\8:15pm\ICL\speak\Edwards\<a href="http://users.ox.ac.uk/~science/details/mt06.html#Edwards">Hydrogen: Key to a sustainable energy future?</a>\
+
+Wed/1/HT2007\8:15pm\ICL\speak\Lintott\<a href="http://users.ox.ac.uk/~science/details/ht07.html#Lintott">The 1st Stars</a>\
+Wed/2/HT2007\8:15pm\ICL\speak\Lane\<a href="http://users.ox.ac.uk/~science/details/ht07.html#Lane">Power, Sex, Suicide: Mitochondria and the Meaning of Life</a>\
+Sat/2/HT2007\11:15pm\Exam Schools\speak\Career\<a href="http://users.ox.ac.uk/~science/details/ht07.html#Career">Alternatives for Scientists</a>\
+Mon/3/HT2007\8:15pm\ICL\speak\Baxter\<a href="http://users.ox.ac.uk/~science/details/ht07.html#Baxter">TopSat - low cost imagery from space</a>\
+Wed/3/HT2007\5:00pm\New College Lecture Room 6\visit\<a href="http://users.ox.ac.uk/~science/details/ht07.html#Accenture">Accenture Career Event: What is Management Consultancy?</a>\
+Wed/4/HT2007\8:15pm\ICL\speak\Peter Smith\<a href="http://users.ox.ac.uk/~science/details/ht07.html#Peter Smith">Beware the Tipping Point: A Scenario for Renewables</a>\
+Wed/5/HT2007\8:15pm\ICL\speak\John Wood\<a href="http://users.ox.ac.uk/~science/details/ht07.html#John Wood">Big Science and Materials: Opportunities, Breakthroughs and the Future</a>\
+Fri/5/HT2007\8:15pm\TBC\speak\High Profile Speaker\<a href="http://users.ox.ac.uk/~science/details/ht07.html#hps">Animals in Medical Research: Magic or Tragic?</a>\
+Tue/7/HT2007\1:45pm\MINI Factory\visit\<a href="http://users.ox.ac.uk/~science/details/ht07.html#Mini">Tour of the MINI Factory Plant</a>\
+Wed/6/HT2007\8:15pm\ICL\speak\Leaver\<a href="http://users.ox.ac.uk/~science/details/ht07.html#Leaver">GM Crops: Food for Thought</a>\
+Tue/7/HT2007\8:15pm\Martin Wood Lecture Theatre\speak\McGrath\<a href="http://users.ox.ac.uk/~science/details/ht07.html#McGrath">Has Science Disproved God? Richard Dawkins on the 'God Delusion'</a>\
+Wed/8/HT2007\8:15pm\ICL\speak\Donoghue\<a href="http://users.ox.ac.uk/~science/details/ht07.html#Donoghue">Paleontology, Particle Physics and Penis Worms</a>\
+
+Wed/1/TT2007\8:15pm\ICL\speak\Werner\<a href="http://users.ox.ac.uk/~science/details/tt07.html#Werner">What do genes mean?</a>\
+Wed/2/TT2007\8:15pm\ICL\speak\Briggs\<a href="http://users.ox.ac.uk/~science/details/tt07.html#Briggs">The emerging discipline of quantum nanoscience</a>\
+Wed/3/TT2007\6:00pm\ICL\speak\Warrington\<a href="http://users.ox.ac.uk/~science/details/tt07.html#Warrington">The organization of knowledge systems in the brain</a>\
+Wed/4/TT2007\8:15pm\ICL\speak\Sykes\<a href="http://users.ox.ac.uk/~science/details/tt07.html#Sykes">To be announced</a>\
+
+Wed/1/MT2007\8:15pm\Lincoln College\visit\Welcome Drinks
+Wed/2/MT2007\8:15pm\ICL\speak\deGrey\<a href="http://users.ox.ac.uk/~science/details/mt07.html#deGrey">Prospects for extending healthy life - a lot</a>\
+TBC\8:15pm\ICL\speak\Lound\<a href="http://users.ox.ac.uk/~science/details/mt07.html#Lound">To see the beginning of Time</a>\
+Wed/4/MT2007\7:30pm\ICL\speak\Peto\<a href="http://users.ox.ac.uk/~science/details/mt07.html#Peto">Halving premature death</a>\
+Wed/5/MT2007\8:15pm\ICL\speak\Baddeley\<a href="http://users.ox.ac.uk/~science/details/mt07.html#Baddeley">Developing the concept of working memory</a>\
+Wed/6/MT2007\8:15pm\ICL\speak\Allison\<a href="http://users.ox.ac.uk/~science/details/mt07.html#Allison">Nuclear without fear</a>\
+Mon/7/MT2007\8:15pm\ICL\speak\Hodgkin\<a href="http://users.ox.ac.uk/~science/details/mt07.html#Hodgkin">Studying bacterial warfare using a tiny nematode worm</a>\
+Thu/7/MT2007\\\visit\<a>Black Tie Dinner<a/>\
+Wed/8/MT2007\8:15pm\ICL\speak\Wolff\<a href="http://users.ox.ac.uk/~science/details/mt07.html#Wolff">Science, Society, Education and the Future. Have we got it all wrong?</a>\
+Wed/8/MT2007\\\visit\<a>Tour of Rutherford Appleton Laboratory</a>\
+
+
+
+
+
+
