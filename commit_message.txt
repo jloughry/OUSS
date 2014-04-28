@@ -1,2 +1,2 @@
-add targets for about.shtml, committee-archive.shtml, and membership.shtml
-update TODO list in README.md
+automatically numbered lists are not smart enough to continue after a ```` block. Did I mention
+how much I hate Markdown?
