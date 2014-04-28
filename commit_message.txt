@@ -1,1 +1,1 @@
-add targets to Makefile for editing and installing termcards; update README with TODO list
+I hate Markdown
