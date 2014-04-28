@@ -1,1 +1,1 @@
-remove too-large audio files
+add targets to Makefile for editing and installing termcards; update README with TODO list
