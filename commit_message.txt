@@ -1,1 +1,2 @@
-I hate Markdown
+add targets for about.shtml, committee-archive.shtml, and membership.shtml
+update TODO list in README.md
