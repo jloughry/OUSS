@@ -1,2 +1,1 @@
-automatically numbered lists are not smart enough to continue after a ```` block. Did I mention
-how much I hate Markdown?
+updated abstract for Prof. Farmer's talk in TT14
