@@ -35,7 +35,9 @@ Notes:
 Many people have asked on the web how to get `rsync` to report only the changes
 it makes to the remote directory. The best way I have found to accomplish this
 trick is to use
-`rsync -cir` *local_directory*`/` *user*`@`*remote_host*`:`*remote_directory*`/`
+
+    rsync -cir local_directory/ user@remote_host:remote_directory/
+
 which tells `rsync` to compare checksums instead of date/time on files and
 directories. It seems to work pretty well in this application.
 

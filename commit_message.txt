@@ -1,2 +1,1 @@
-improved Makefile to use rsync to transfer updated files automatically; documented
-in README.md
+improve formatting of code in README
