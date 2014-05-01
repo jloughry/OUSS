@@ -6,27 +6,36 @@ This is a copy of all files in the `~/science` directory on Oxford's web server.
 How to Use the `Makefile`
 -------------------------
 
-1. Each term, edit the `Makefile` and create new targets like `tt14-edit` and
-`tt14-install` for the new termcard.
+1. Each term, edit the `Makefile` and create a new target like `tt14` for the
+new termcard.
 
-2. `make termcard_archive-edit` to update the main file.
+2. `make termcard_archive` to update the main file.
 
-3. `make tt14-edit` and `make tt14-install` to create the new term card file.
+3. `make tt14` to create the new term card file.
+
+4. `make install` to copy only files that changed to the remote web server.
+
+5. `make commit` to push changes to GitHub.
 
 TODO
 ----
 
-1. Set up an `rsync` command that can refresh the entire OUSS web site from this
-repository automatically, without unnecessary copying of files that are already
-there in the same version.
-
-2. Figure out a way to save the large audio (MP3) files without using up space
+1. Figure out a way to save the large audio (MP3) files without using up space
 in Git.
 
-3. Consider a subordinate Makefile method to allow editing like this:
+2. Consider a subordinate Makefile method to allow editing like this:
 
 ````
 % make tt14 edit
 % make tt14 install
 ````
+Notes:
+------
+
+Many people have asked on the web how to get `rsync` to report only the changes
+it makes to the remote directory. The best way I have found to accomplish this
+trick is to use
+`rsync -cir` *local_directory*`/` *user*`@`*remote_host*`:`*remote_directory*`/`
+which tells `rsync` to compare checksums instead of date/time on files and
+directories. It seems to work pretty well in this application.
 

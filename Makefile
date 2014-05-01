@@ -1,17 +1,42 @@
 web_server = science@linux.ox.ac.uk
-web_root = public_html
 
-termcards = $(web_root)/termcards
+#
+# Files.
+#
 
-termcard_archive  = $(web_root)/termcard_archive.shtml
-about             = $(web_root)/about.shtml
-committee_archive = $(web_root)/committee_archive.shtml
-membership        = $(web_root)/membership.shtml
+termcard_archive  = $(public_html)/termcard_archive.shtml
+about             = $(public_html)/about.shtml
+committee_archive = $(public_html)/committee_archive.shtml
+membership        = $(public_html)/membership.shtml
 
 tt14 = $(termcards)/tt14.shtml
 
+#
+# Directories.
+#
+
+debate_email = 20130220.1232_debate_emails
+audio        = audio
+cgi          = cgi
+overflow     = OUSS_web_site_overflow
+public_html  = public_html
+
+termcards = $(public_html)/termcards
+
+#
+# The rsync(1) options are: -c to use checksum instead of date/time to
+# determine what files to transfer, -i to to itemise the list of files
+# transferred, and -r to do subdirectories recursively.
+#
+
+rsync_command = rsync -cir
+
 all::
-	@echo "This is the Makefile only for committing to GitHub."
+	@echo
+	@echo "\"make all\" doesn't do anything here. Use \"make tt14\" to edit the termcard, or"
+	@echo "use \"make install\" to update the files on the remote web server; \"make commit\""
+	@echo "pushes all changes to GitHub."
+	@echo
 
 clean::
 	rm -f consolidated_bibtex_file.bib
@@ -19,40 +44,44 @@ clean::
 vi:
 	make readme
 
-# Each term, add a new set of lines here:
+#
+# Most of these directories won't change very often, but $(public_html)
+# will change just about every time.
+#
 
-tt14-edit:
+install:
+	# $(rsync_command) $(debate_email)/ $(web_server):$(debate_email)/
+	# $(rsync_command) $(audio)/        $(web_server):$(audio)/
+	# $(rsync_command) $(cgi)/          $(web_server):$(cgi)/
+	# $(rsync_command) $(overflow)/     $(web_server):$(overflow)/
+	$(rsync_command) $(public_html)/  $(web_server):$(public_html)/
+
+#
+# Each term, add a new set of lines here:
+#
+
+tt14:
 	vi $(tt14)
 
-tt14-install:
-	scp $(tt14) $(web_server):$(termcards)/
-
+#
 # Other files that need to be edited each term, or each year:
+#
 
-termcard_archive-edit:
+termcard_archive:
 	vi $(termcard_archive)
 
-termcard_archive-install:
-	scp $(termcard_archive) $(web_server):$(web_root)/
-
-about-edit:
+about:
 	vi $(about)
 
-about-install:
-	scp $(about) $(web_server):$(web_root)/
-
-committee_archive-edit:
+committee_archive:
 	vi $(committee_archive)
 
-committee_archive-install:
-	scp $(committee_archive) $(web_server):$(web_root)/
-
-membership-edit:
+membership:
 	vi $(membership)
 
-membership-install:
-	scp $(membership) $(web_server):$(web_root)/
-
+#
+# Helper functions.
+#
 
 include common.mk
 
