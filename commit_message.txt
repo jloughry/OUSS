@@ -1,1 +1,1 @@
-improve formatting of code in README
+added speaker photos to TT14 term card
