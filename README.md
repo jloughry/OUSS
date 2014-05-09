@@ -41,3 +41,7 @@ trick is to use
 which tells `rsync` to compare checksums instead of date/time on files and
 directories. It seems to work pretty well in this application.
 
+To find all files with 'execute' permissions but ignore certain directories,
+use `find . -type f -perm /a+x -not -path "./.git*" -not -path ".cgi/bin/*"`.
+This is much better than the extremely confusing `-prune` option on `find(1)`.
+
