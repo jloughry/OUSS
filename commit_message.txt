@@ -1,1 +1,1 @@
-update JavaScript code to note when times are local time (it was confusing)
+change time of Eric Lerner talk to 8:10pm Oxford time
