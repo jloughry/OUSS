@@ -1,1 +1,1 @@
-update README with notes on find(1)
+updated title and abstract for Eric Lerner talk, and fix affiliation
