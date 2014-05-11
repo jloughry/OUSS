@@ -87,7 +87,7 @@ function formatGCalTime(gCalTime) {
     // date is originally in YYYY-MM-DD format
     // time is originally in a 24-hour format
     // this converts it to MM/DD hh:mm (AM|PM)
-    dateString = ld.getDate() + '/' + (ld.getMonth() + 1) + ' ' +
+    dateString = ld.getDate() + '/' + (ld.getMonth() + 1) + ' at ' +
         ((ld.getHours()>12)?(ld.getHours()-12):(ld.getHours()===0?12:
 	ld.getHours())) + ':' + ((ld.getMinutes()<10)?('0' +
 	ld.getMinutes()):(ld.getMinutes())) + ' ' +
@@ -96,7 +96,7 @@ function formatGCalTime(gCalTime) {
     // if only a DATE was matched
     dateString =  parseInt(month, 10) + '/' + parseInt(dateMonth, 10);
   }
-  return dateString;
+  return dateString + ' (your local time)';
 }
 
 /**
@@ -202,7 +202,7 @@ Sign up today at <a href="http://www.grb.uk.com/sbm/453">http://www.grb.uk.com/s
 
 <p>See the <a href="termcard.shtml">termcard</a> for a full list of OUSS events.</p>
 
-<p>Unless otherwise stated, lectures take place at 8:15pm in the Inorganic Chemistry Lecture Theatre <a href="http://maps.google.co.uk/maps?q=OX1+3QR">on South Parks Road</a>.</p>
+<p>Unless otherwise stated, lectures take place at 8:15pm Oxford time in the Inorganic Chemistry Lecture Theatre <a href="http://maps.google.co.uk/maps?q=OX1+3QR">on South Parks Road</a>.</p>
 
 <h2 id="video">Video recordings</h2>
 

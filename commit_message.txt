@@ -1,1 +1,1 @@
-update README (TODO)
+update JavaScript code to note when times are local time (it was confusing)
