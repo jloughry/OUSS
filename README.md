@@ -23,7 +23,9 @@ TODO
 1. Figure out a way to save the large audio (MP3) files without using up space
 in Git.
 
-2. Consider a subordinate Makefile method to allow editing like this:
+2. Automated check in Makefile for files with permissions other than -rw-r--r--.
+
+3. Consider a subordinate Makefile method to allow editing like this:
 
 ````
 % make tt14 edit
