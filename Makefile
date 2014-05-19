@@ -4,10 +4,12 @@ web_server = science@linux.ox.ac.uk
 # Files.
 #
 
+termcard          = $(public_html)/termcard.shtml
 termcard_archive  = $(public_html)/termcard_archive.shtml
 about             = $(public_html)/about.shtml
 committee_archive = $(public_html)/committee_archive.shtml
 membership        = $(public_html)/membership.shtml
+index             = $(public_html)/index.shtml
 
 tt14 = $(termcards)/tt14.shtml
 
@@ -67,6 +69,9 @@ tt14:
 # Other files that need to be edited each term, or each year:
 #
 
+termcard:
+	vi $(termcard)
+
 termcard_archive:
 	vi $(termcard_archive)
 
@@ -78,6 +83,9 @@ committee_archive:
 
 membership:
 	vi $(membership)
+
+index:
+	vi $(index)
 
 #
 # Helper functions.
