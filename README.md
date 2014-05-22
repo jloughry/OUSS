@@ -19,9 +19,20 @@ new termcard.
 
 3. `make tt14` to create the new term card file.
 
-4. `make install` to copy only files that changed to the remote web server.
+4. `make committee-archive` to update the list of committee names after the
+end-of-term elections.
 
-5. `make commit` to push changes to GitHub.
+5. `make about` to update current committee names.
+
+6. `make membership` to update the President and Membership Secretary names
+and email addresses.
+
+7. `make index` to display the announcement of the Annual General Meeting and
+agenda on the front page.
+
+8. `make install` to copy only files that changed to the remote web server.
+
+9. `make commit` to push changes to GitHub.
 
 TODO
 ----

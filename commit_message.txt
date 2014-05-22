@@ -1,1 +1,1 @@
-update banner with "Est. 1882" to match Leon's new design
+update README with regular maintenance tasks for the next IT Officer
