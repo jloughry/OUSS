@@ -3,6 +3,12 @@ Oxford University Scientific Society (OUSS)
 
 This is a copy of all files in the `~/science` directory on Oxford's web server.
 
+Privacy
+-------
+
+As it is a copy of what's on the web server, there is no confidential information
+in this repository.
+
 How to Use the `Makefile`
 -------------------------
 
