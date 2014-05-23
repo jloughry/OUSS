@@ -10,6 +10,8 @@ about             = $(public_html)/about.shtml
 committee_archive = $(public_html)/committee_archive.shtml
 membership        = $(public_html)/membership.shtml
 index             = $(public_html)/index.shtml
+css               = $(public_html)/includes/style.css
+banner            = $(public_html)/includes/banner.html
 
 tt14 = $(termcards)/tt14.shtml
 
@@ -32,6 +34,8 @@ termcards = $(public_html)/termcards
 #
 
 rsync_command = rsync -cir
+
+editor = vi
 
 all::
 	@echo
@@ -63,29 +67,35 @@ install:
 #
 
 tt14:
-	vi $(tt14)
+	$(editor) $(tt14)
 
 #
 # Other files that need to be edited each term, or each year:
 #
 
 termcard:
-	vi $(termcard)
+	$(editor) $(termcard)
 
 termcard_archive:
-	vi $(termcard_archive)
+	$(editor) $(termcard_archive)
 
 about:
-	vi $(about)
+	$(editor) $(about)
 
 committee_archive:
-	vi $(committee_archive)
+	$(editor) $(committee_archive)
 
 membership:
-	vi $(membership)
+	$(editor) $(membership)
 
 index:
-	vi $(index)
+	$(editor) $(index)
+
+css:
+	$(editor) $(css)
+
+banner:
+	$(editor) $(banner)
 
 #
 # Helper functions.
