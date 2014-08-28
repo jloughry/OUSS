@@ -101,5 +101,8 @@ banner:
 # Helper functions.
 #
 
+ssh:
+	ssh science@linux.ox.ac.uk
+
 include common.mk
 

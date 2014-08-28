@@ -1,1 +1,0 @@
-improve spacing in banner; update Makefile with targets for css and banner; abstract out editor
