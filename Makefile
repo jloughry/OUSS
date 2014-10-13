@@ -14,6 +14,7 @@ css               = $(public_html)/includes/style.css
 banner            = $(public_html)/includes/banner.html
 
 tt14 = $(termcards)/tt14.shtml
+mt14 = $(termcards)/mt14.shtml
 
 #
 # Directories.
@@ -68,6 +69,9 @@ install:
 
 tt14:
 	$(editor) $(tt14)
+
+mt14:
+	$(editor) $(mt14)
 
 #
 # Other files that need to be edited each term, or each year:
