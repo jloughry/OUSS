@@ -1,4 +1,4 @@
-web_server = science@linux.ox.ac.uk
+web_server = $(private_web_server_for_OUSS)
 
 #
 # Files.
@@ -106,7 +106,8 @@ banner:
 #
 
 ssh:
-	ssh science@linux.ox.ac.uk
+	ssh $(private_web_server_for_OUSS)
 
 include common.mk
+include private.mk
 
