@@ -47,7 +47,7 @@ space in Git.
 
 3. Consider a subordinate Makefile method to allow editing like this:
 
-````
+````console
 % make tt14 edit
 % make tt14 install
 ````
