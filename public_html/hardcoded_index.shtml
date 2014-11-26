@@ -1,16 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
 
-<title>Oxford University Scientific Society - Termcard</title>
+<title>Oxford University Scientific Society - OUSS</title>
 
 <link rel="shortcut icon" href="/~science/favicon.ico" />
 
+
+<meta name="verify-v1" content="nXNGBioX5zNTb0d+UVYZjRoIcnffU2fZvKQb6PXOv6c=" />
+
+<meta name="description" content="This is the home page of the Oxford University Scientific Society" />
+
+<meta name="keywords" content="OUSS, oxford, university, scientific, society, science, biology, chemistry, physics" />
+
+
 <link type="text/css" rel="stylesheet" href="includes/style.css" />
+
+<link rel="alternate" type="application/rss+xml" title="OUSS Termcard" href="http://www.google.com/calendar/feeds/tu4d4p7f5e4hf5idtu916mc0sk%40group.calendar.google.com/public/basic">
+
 
 <script type="text/javascript">
 <!--
@@ -102,7 +114,7 @@ function listEvents(root, divId) {
   }
 
   // create a new unordered list
-  var ul = document.createElement('ul');
+  var ul = document.createElement('div');
 
   // loop through each event in the feed
   for (var i = 0; i < feed.entry.length; i++) {
@@ -119,12 +131,12 @@ function listEvents(root, divId) {
     }
 
     var dateString = formatGCalTime(start);
-    var li = document.createElement('li');
+    var li = document.createElement('p');
 
     // if we have a link to the event, create an 'a' element
     if (typeof entryLinkHref != 'undefined') {
       entryLink = document.createElement('a');
-      entryLink.setAttribute('href', entryLinkHref);
+      entryLink.setAttribute('href', 'http://users.ox.ac.uk/~science/termcard.shtml');
       entryLink.appendChild(document.createTextNode(title));
       li.appendChild(entryLink);
       li.appendChild(document.createTextNode(' - ' + dateString));
@@ -150,6 +162,7 @@ function insertAgenda(root) {
 //-->
 </script>
 
+
 </head>
 
 <body>
@@ -160,41 +173,66 @@ function insertAgenda(root) {
 
 <div id="body">
 
-<h1>Termcard</h1>
+<h1>Welcome to the Oxford University Scientific Society</h1>
 
-<p>Unless otherwise stated, lectures take place at 8:10pm Oxford time in the <a href="http://maps.google.co.uk/maps?f=q&hl=en&geocode=&q=Inorganic+Chemistry,+South+Parks+Road,+OX1+3QR&sll=51.758235,-1.254864&sspn=0.243537,0.491638&ie=UTF8&ll=51.758002,-1.255032&spn=0.001903,0.003841&t=h&z=18&om=0">Inorganic Chemistry Lecture Theatre on South Parks Road</a>.</p>
+<h2>What is the Society?</h2>
 
-Sometimes we <a href="http://www.ustream.tv/channel/lauriepycroft">live-stream</a> special events.
-<a href="http://users.ox.ac.uk/~science/#video">Video recordings</a> will be posted whenever we can.
-Posters announcing the most exciting new events appear on the
-<a href="http://users.ox.ac.uk/~science/">main page</a>.
+<p>The Oxford University Scientific Society (OUSS) was founded in <b>1882</b> as The Oxford University Junior Scientific Club, and has had many distinguished speakers visit over the years. It is now one of Oxford's oldest and largest societies.</p>
 
-<h2>Events calendar</h2>
+<p>The society offers its members the opportunity to listen to interesting and talented speakers who are at the forefront of their field. The talks are intended to be of general scientific interest, and are usually chosen for their prominence in popular science or the news, or for their entertainment value.</p>
+
+<p>We also organise free or subsidized visits to places of scientific interest. Past events have included tours of the Joint European Torus project, the Bodleian Library, the Oxford Museum of the History of Science, the National Space centre in Leicester, the Body Worlds exhibition in London and the MINI factory in Oxford. Suggestions for further visits are always very welcome!</p>
+
+<blockquote>
+It's never too late to start thinking about your career!
+The <a href="http://www.grb.uk.com/sbm/453">Graduate Recruitment Bureau</a> is
+a career recruitment site that
+provides a wealth of services, ranging from receiving up-to-date
+job vacancies, speaking to consultants to CV help.  And it's all
+FREE!  There are even graduate and student discounts on offer!</p>
+
+Sign up today at <a href="http://www.grb.uk.com/sbm/453">http://www.grb.uk.com/sbm/453</a>.
+</blockquote>
+
+<h2>Next event</h2>
 
 <div id="agenda"><p>
 <ul>
 <li>Professor Adrian Hill: <a href="http://users.ox.ac.uk/~science/termcards/mt14.shtml#7">&lsquo;Vaccines against Malaria and Ebola&rsquo;</a>, Wednesday, 26th November 2014 at 20.15 in the <a href="http://maps.google.com/maps?q=51.758018,-1.254963 (Inorganic+Chemistry+Lecture+Theatre,+South+Parks+Road)&amp;hl=en&amp;sll=37.0625,-95.677068&amp;spn=36.589577,56.513672&amp;vpsrc=0&amp;hnear=Inorganic+Chemistry+Laboratory,+S+Parks+Rd,+Oxford+OX1+3QR,+United+Kingdom&amp;t=m&amp;z=16">Inorganic Chemistry Lecture Theatre</a> on South Parks Road.</li>
-
-<li>Robin Ince: <a href="http://users.ox.ac.uk/~science/termcards/mt14.shtml#8">&lsquo;The humorous world of science&rsquo;</a>, Wednesday, 3rd December 2014 at 20.15 in the <a href="http://maps.google.com/maps?q=51.758018,-1.254963 (Inorganic+Chemistry+Lecture+Theatre,+South+Parks+Road)&amp;hl=en&amp;sll=37.0625,-95.677068&amp;spn=36.589577,56.513672&amp;vpsrc=0&amp;hnear=Inorganic+Chemistry+Laboratory,+S+Parks+Rd,+Oxford+OX1+3QR,+United+Kingdom&amp;t=m&amp;z=16">Inorganic Chemistry Lecture Theatre</a> on South Parks Road.</li>
 </ul>
-</p>
-</div>
+</p></div>
+
+<p>See the <a href="termcard.shtml">termcard</a> for a full list of OUSS events.</p>
+
+<p>Unless otherwise stated, lectures take place at 8:15pm Oxford time in the Inorganic Chemistry Lecture Theatre <a href="http://maps.google.co.uk/maps?q=OX1+3QR">on South Parks Road</a>.</p>
+
+<h2 id="video">Video recordings</h2>
 
 <!--
-<div id="agenda"><p>Loading...</p></div>
+<p><i><font color="red">Are you looking for the debate <a
+href="http://users.ox.ac.uk/~science/2013_Feb25_debate_poster_index.html"
+alt="Sloth, GLuttony, or Hormones?">poster</a> that was here last term?</font></i></p>
 
-<script type="text/javascript" src="http://www.google.com/calendar/feeds/tu4d4p7f5e4hf5idtu916mc0sk%40group.calendar.google.com/public/full?alt=json-in-script&callback=insertAgenda&orderby=starttime&max-results=15&singleevents=true&sortorder=ascending&futureevents=true"></script>
+Or <a href="http://users.ox.ac.uk/~science/audio/2013_debate_audio.mp3">audio</a>
+of the debate?</font></i></p>
 -->
 
-<p>You can view the termcard in <a target="_blank" href="http://www.google.com/calendar/embed?src=tu4d4p7f5e4hf5idtu916mc0sk%40group.calendar.google.com&ctz=Europe/London ">Google Calendar</a> or you can <a href="http://www.google.com/calendar/ical/tu4d4p7f5e4hf5idtu916mc0sk%40group.calendar.google.com/public/basic.ics">import the termcard</a> into any calendar that uses the iCal format.</p>
+<p><i><font color="red">Are you looking for the </i>Geek Manifesto<i> <a
+href="http://users.ox.ac.uk/~science/2012_Geek_Manifesto_poster_index.html"
+alt="The Geek Manifesto">poster</a> that was here last term?
+Or <a href="http://www.ustream.tv/channel/lauriepycroft">video</a> of
+the live stream?</font></i></p>
 
-<h2>Previous events</h2>
-
-<p>For previous Oxford University Scientific Society events see the <a href="termcard_archive.shtml">Termcard archive</a>.</p>
+<p><i><font color="red">Are you looking for the debate <a
+href="http://users.ox.ac.uk/~science/2012_debate_poster_index.html"
+alt="big debate poster">poster</a> that was here last term?
+Or the <a href="http://users.ox.ac.uk/~science/termcards/tt12.shtml#video"
+alt="link to video of debate">video</a> of the debate?</font></i></p>
 
 </div>
 
 <!--#include file="includes/footer.html"-->
+
 
 </body>
 </html>
