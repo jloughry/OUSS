@@ -34,7 +34,7 @@ termcards = $(public_html)/termcards
 # transferred, and -r to do subdirectories recursively.
 #
 
-rsync_command = rsync -cir
+rsync_command = rsync -cirl
 
 editor = vi
 
