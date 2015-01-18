@@ -15,6 +15,7 @@ banner            = $(public_html)/includes/banner.html
 
 tt14 = $(termcards)/tt14.shtml
 mt14 = $(termcards)/mt14.shtml
+ht15 = $(termcards)/ht15.shtml
 
 #
 # Directories.
@@ -72,6 +73,9 @@ tt14:
 
 mt14:
 	$(editor) $(mt14)
+
+ht15:
+	$(editor) $(ht15)
 
 #
 # Other files that need to be edited each term, or each year:
