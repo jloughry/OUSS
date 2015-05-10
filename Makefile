@@ -48,7 +48,7 @@ all::
 	@echo
 
 clean::
-	rm -f consolidated_bibtex_file.bib
+	rm -fv consolidated_bibtex_file.bib
 
 vi:
 	make readme
